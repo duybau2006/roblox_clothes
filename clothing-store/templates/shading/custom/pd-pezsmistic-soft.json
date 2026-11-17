@@ -1,0 +1,25 @@
+{
+ "source_url": "https://devforum.roblox.com/t/free-shirt-shadows-and-shading/1607565",
+ "author": "PeZsmistic (Roblox DevForum)",
+ "licence": "Public-domain dedication by the author: 'I, PeZsmistic have waived all copyright and related or neighboring rights to these clothing shadow templates ... The Work may be freely used for any purpose. You do not need to ask for permission to use it or give me any credit.'",
+ "credit": "not required (appreciated): PeZsmistic",
+ "fetched": "2026-11-16",
+ "id": "pd-pezsmistic-soft",
+ "file": "pd-pezsmistic-soft.png",
+ "raw_name": "template-v3.png",
+ "garment": "generic",
+ "style": "painted-soft",
+ "strength": 0.5,
+ "parts": [
+  "torso",
+  "arms"
+ ],
+ "seams_before": {
+  "failing_pairs": 18,
+  "worst_mean": 28.0
+ },
+ "seams_after": {
+  "failing_pairs": 0,
+  "worst_mean": 5.7
+ }
+}

@@ -1,0 +1,43 @@
+{
+ "id": "g07-bunny-plush",
+ "name": "Bunny plush",
+ "motif": "bunny",
+ "styles": [
+  "soft-girl",
+  "christmas"
+ ],
+ "mood": [
+  "cute"
+ ],
+ "size": "small",
+ "families": [
+  "decorated",
+  "print"
+ ],
+ "symmetric": false,
+ "band": false,
+ "kind": "motif",
+ "placement": "chest",
+ "readability": "ok",
+ "source": "owner-generated",
+ "mask": "owner/g07-bunny-plush.png",
+ "colour": "owner/g07-bunny-plush-colour.png",
+ "ink": "owner/g07-bunny-plush-ink.png",
+ "colours": [
+  "#ECDFD7",
+  "#D8C1B8",
+  "#B2918A"
+ ],
+ "sheet": "sheet-07",
+ "box": [
+  485,
+  450,
+  655,
+  650
+ ],
+ "license": {
+  "licence": "the store owner's own artwork, generated with ChatGPT; owner holds the rights",
+  "generated": "2026-11-16",
+  "source_url": "styles/references/inbox/sheet-07.png"
+ }
+}

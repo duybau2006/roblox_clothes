@@ -1,0 +1,43 @@
+{
+ "id": "g10-distress-smear",
+ "name": "Distress smear",
+ "motif": "distress",
+ "styles": [
+  "archive",
+  "grunge"
+ ],
+ "mood": [
+  "worn"
+ ],
+ "size": "large",
+ "families": [
+  "print",
+  "realistic"
+ ],
+ "symmetric": false,
+ "band": false,
+ "kind": "texture",
+ "placement": "allover",
+ "readability": "ok",
+ "source": "owner-generated",
+ "mask": "owner/g10-distress-smear.png",
+ "colour": "owner/g10-distress-smear-colour.png",
+ "ink": "owner/g10-distress-smear-ink.png",
+ "colours": [
+  "#4C494C",
+  "#868181",
+  "#C2BCBA"
+ ],
+ "sheet": "sheet-10",
+ "box": [
+  865,
+  10,
+  1095,
+  345
+ ],
+ "license": {
+  "licence": "the store owner's own artwork, generated with ChatGPT; owner holds the rights",
+  "generated": "2026-11-16",
+  "source_url": "styles/references/inbox/sheet-10.png"
+ }
+}

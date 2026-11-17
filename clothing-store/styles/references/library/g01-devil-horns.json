@@ -1,0 +1,48 @@
+{
+ "id": "g01-devil-horns",
+ "name": "Devil horns",
+ "motif": "horns",
+ "styles": [
+  "emo",
+  "baddie",
+  "grunge",
+  "y2k"
+ ],
+ "mood": [
+  "playful",
+  "edgy"
+ ],
+ "size": "medium",
+ "families": [
+  "decorated",
+  "print"
+ ],
+ "symmetric": false,
+ "band": false,
+ "kind": "motif",
+ "placement": "chest",
+ "readability": "simplified",
+ "source": "owner-generated",
+ "mask": "owner/g01-devil-horns.png",
+ "colour": "owner/g01-devil-horns-colour.png",
+ "ink": "owner/g01-devil-horns-ink.png",
+ "colours": [
+  "#413E3F",
+  "#4D4C4B",
+  "#585857"
+ ],
+ "sheet": "sheet-01",
+ "box": [
+  286,
+  540,
+  438,
+  717
+ ],
+ "license": {
+  "licence": "the store owner's own artwork, generated with ChatGPT; owner holds the rights",
+  "generated": "2026-11-16",
+  "source_url": "styles/references/inbox/sheet-01.png"
+ },
+ "bold": "owner/g01-devil-horns-bold.png",
+ "bold_below": 48
+}

@@ -1,0 +1,46 @@
+{
+ "id": "g04-star-scratch-row",
+ "name": "Star scratch row",
+ "motif": "star",
+ "styles": [
+  "emo",
+  "grunge"
+ ],
+ "mood": [
+  "grunge"
+ ],
+ "size": "medium",
+ "families": [
+  "decorated"
+ ],
+ "symmetric": false,
+ "band": true,
+ "kind": "border",
+ "placement": "hem",
+ "readability": "simplified",
+ "source": "owner-generated",
+ "mask": "owner/g04-star-scratch-row.png",
+ "colour": "owner/g04-star-scratch-row-colour.png",
+ "ink": "owner/g04-star-scratch-row-ink.png",
+ "colours": [
+  "#2F272C",
+  "#3C3337",
+  "#4D4146"
+ ],
+ "sheet": "sheet-04",
+ "box": [
+  646,
+  1152,
+  906,
+  1232
+ ],
+ "license": {
+  "licence": "the store owner's own artwork, generated with ChatGPT; owner holds the rights",
+  "generated": "2026-11-16",
+  "source_url": "styles/references/inbox/sheet-04.png"
+ },
+ "bold": "owner/g04-star-scratch-row-bold.png",
+ "bold_below": 256,
+ "tile": "owner/g04-star-scratch-row-tile.png",
+ "tile_mask": "owner/g04-star-scratch-row-tile-mask.png"
+}

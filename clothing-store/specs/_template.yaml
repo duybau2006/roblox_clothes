@@ -1,0 +1,115 @@
+# One outfit = one spec = two listings (shirt + pants). Copy to specs/<id>.yaml.
+# The torso is rendered once into BOTH files, so each half looks complete on its own.
+id: ""                 # e.g. 2026-11-black-zip-hoodie-01   (files: renders/<id>-shirt.png, <id>-pants.png)
+style: ""              # id from styles/irl.yaml or styles/roblox.yaml
+blend_with: ""         # optional second style id
+audience: ""           # masc | fem | unisex
+family: decorated      # decorated (small motifs/patterns/trims) | print (one large torso composition) | combined (both)
+                       # | realistic (materials, folds, sewn construction parts; see "Realistic family" below)
+coverage: full         # full (shirt + pants) | top_only (one shirt file) | bottom_only (one pants file): separates
+palette: []            # every colour used anywhere in the outfit (hex): max 4 plus one neutral
+
+# Section palettes use roles by position: [0] body, [1] trim (ribs, bands, rims, belt), [2] accent (drawstrings, laces, buttons).
+# Patterns: solid | stripes | plaid | gradient | colour-block | knit | denim | cable | argyle | leopard | checker
+#           washes: acid_wash | mineral_wash | heather | faded_black.  pattern: {width: 2|4|8|16|32|64, direction: horizontal|vertical} (stripes only)
+# Rows are px from the top of a 128 px side panel.
+#
+# Realistic family (any family may also use `parts`, `identity`, `shoe_style` and a collected `shading.layer`):
+#   material (per section): cotton | knit | denim | leather | satin | nylon   (leather/satin/nylon: narrow bright highlights)
+#   garment_kind: tee hoodie sweater jacket bomber shirt suit corset | jeans trousers joggers shorts skirt   (picks the fold map)
+#   parts: construction parts drawn with their own highlights / shadows, a name or {name, colour, buttons, stitch, shirt}
+#     torso: collar_polo collar_shirt collar_stand lapels tie waistcoat placket buttons zip_full chest_pocket piping
+#            trim_hem epaulettes lacing      arms: cuff_button trim_cuff piping
+#     legs:  belt jeans_fly jeans_pockets cargo_pockets crease piping
+# shading: {mode: realistic, seed: 4, wrinkles: 1.0}      (every family: leave `layer` out to get the default)
+#   DEFAULT FOR EVERY OUTFIT (all families): layer own-shade-all = the owner's three templates stacked (own-shade-1 + -2 +
+#   0.8 x -3, gain 0.7), on torso, arms and legs. Override only with a reason: `layer: own-shade-1|2|3` (one template),
+#   `layer: none` (shared shading only). strength 0.15-1.0 (default 1.0). seed moves the procedural folds (realistic).
+#   The older pd-pezsmistic-* layers still work (torso + arms only).
+# identity: {number: 0-99, number_style: block|varsity|racing|stencil, number_colour, number_outline,
+#            number_places: [back, chest, sleeve], emblem: {frame: shield|circle|wreath, element: <library id>, colour, accent},
+#            layout: racing, panel, piping}     digits only: no letters, words, team names, flags or real kits
+
+torso:                 # neckline/collar, chest, waist and hem; below the hem the legs section shows
+  garment: ""          # e.g. pullover hoodie, zip hoodie, baby tee, sweater
+  palette: []
+  base_pattern: solid  # or swatch: owner fabric, pattern: {element: g06-plaid-patch, recolour: true} (recoloured to this palette)
+  pattern: {}
+  details: []          # supported: hood, drawstrings, kangaroo pocket (hem_line >= 104), zip, crew collar
+  hem: rib             # rib | plain | belt | none
+  hem_line: 112        # 80-120. Above legs.waist_line = cropped top: rows between are bare (max 16 px)
+  material: ""         # realistic: cotton knit denim leather satin nylon
+  garment_kind: ""     # realistic: tee hoodie sweater jacket bomber shirt suit corset
+  parts: []            # construction parts (see above)
+  cut: {}              # cut-outs, always transparent: {neckline: crew|v|scoop|square|sweetheart, depth: <=22, width: <=30,
+                       #   style: sleeved|tank|halter|strapless|off_shoulder, strap_width: >=5, top: <=14 (strapless/off-shoulder)}
+                       #   the chest (rows 24 to the hem) always stays covered; no sheer areas, no lingerie look
+  decor: []            # original motifs, e.g. {motif: butterfly, layout: back, colour: "#hex", size: 18, pair: true}
+                       # motifs: butterfly star sparkle heart flame bat lightning moon bow rose web flower stud cherry
+                       #         chain rip patch stitch lace safety_pin   (tools/motifs.py; colours must be in palette)
+                       # torso layouts: chest pocket back scatter row necklace stitch lace_hem lace_neck patch
+                       # library element: {element: skull-classic, layout: chest, colour: "#hex", size: 14}  (styles/references/library)
+                       #   owner artwork (ids g01-* .. g10-*): same, plus `original: true` = keep its own colours (they count
+                       #   toward the palette); borders: {element: g04-checker-border, layout: border, colour: "#hex", height: 6, row: 98}
+                       #   (layout border also works on arms and legs)
+                       # print (torso only): {print: {placement: front, template: symmetric_pair, elements: [skull-classic, wing-feather, rose-bloom],
+                       #   ink: "#hex", distress: 0-3, seed: 1, wrap: false}}   templates: centered_stack symmetric_pair offcentre_figure allover_faded
+
+arms:                  # sleeves and cuffs; hands below the cuff stay bare
+  palette: []          # empty = same as torso
+  base_pattern: ""     # empty = same as torso
+  details: []          # supported: ribbed cuffs
+  parts: []            # cuff_button trim_cuff piping
+  sleeves: long        # long | short
+  sleeve_contrast: false   # true = sleeves differ from the torso: shoulder seam drawn, shoulder check skipped
+  under: {}            # layered look (needs sleeves: short): {palette: [...], base_pattern: ..., details: [ribbed cuffs]}
+  decor: []            # arms layouts: sleeve scatter row lace_cuff patch stitch
+  mirror: true         # false = left arm from `left:` overrides
+
+legs:                  # waistband, trousers or skirt (also on the lower torso), legwear and shoes
+  garment: ""          # e.g. jogger sweatpants, pleated plaid skirt
+  type: trousers       # trousers | skirt | shorts
+  material: ""         # realistic: cotton denim nylon ...
+  garment_kind: ""     # realistic: jeans trousers joggers shorts skirt
+  parts: []            # belt jeans_fly jeans_pockets cargo_pockets crease piping
+  waist_line: 92       # 88-110: top of the waistband on the torso (92 = where R15's LowerTorso starts)
+  waistband: elastic   # elastic | plain | none
+  palette: []
+  base_pattern: solid
+  pattern: {}
+  details: []          # supported: side pockets, cuffed ankles, drawstrings, belt loops, button, pleats (skirts)
+  skirt_length: 40     # skirts: row on the leg where the skirt ends (min 32; 24 with tights)
+  legwear: tights      # skirts: tights | socks | bare   (never skin-coloured fabric)
+  legwear_palette: []  # skirts: [colour] for tights or socks
+  sock_top: 70         # skirts / shorts with socks: row where the socks start
+  shorts_length: 44    # shorts: row where the shorts end (min 32); legwear socks | bare
+  shoes: ""            # text, or "none"; shoes stay in the bottom quarter of the legs
+  shoe_palette: []     # [upper, sole, accent] hex
+  shoe_style: basic    # basic | sneaker (laces, toe cap, midsole, tread) | boot (from row 98, lug sole) | loafer (strap)
+  decor: []            # legs layouts: thigh knees scatter row hip_chain lace_hem patch stitch pin
+  mirror: true
+
+recipes: []            # design by recipe (both families); same recipe + seed = same design. Example:
+#  - {family: print, style: vamp-goth, template: symmetric_pair, placement: front, tags: [skull, wings, rose], ink: "#E8E4DC", distress: 2, seed: 3}
+#  - {family: decorated, style: y2k, template: chest_sleeves, tags: [butterfly, star], ink: "#FFFFFF", seed: 1}
+#    decorated templates: chest_sleeves pocket_back chest_scatter scatter_all thigh_knees border_trim (owner border tiles)
+#    realistic recipes also take tags: [laurel, tennis] (chest + sleeve motif), swatch: argyle (torso fabric), border: stripe (hem trim)
+#  - {family: realistic, style: archive, template: bomber_badge, colours: ["#4A5236", "#1E1E1E", "#C9A15A", "#E8E4DC"], seed: 5,
+#     number: 7}       colours = [body, second, accent, shoes]; shading defaults to own-shade-all
+#    realistic templates (archetypes): basic_tee_jeans knit_stripes racing_jersey suit_waistcoat bomber_badge
+#      corset_trousers pleated_skirt_bows sports_shorts crop_lowrise   (spec fields override the archetype)
+#    ideas not tried yet: python tools/recipes.py suggest --style <style> [--family realistic]
+
+listings:              # both names = words + "Outfit Top" / "Outfit Pants"; separates: words + "Top" or "Pants" (one listing)
+  words:
+    colour: ""         # plain colour word(s), e.g. "Black", "Baby Pink"
+    garment: ""        # e.g. "Zip Hoodie", "Hoodie Jogger"
+    style: []          # 0-4 words from the newest trends/*-catalog.md name words; no brands, no repeats
+  shirt:
+    name: ""           # exactly "<colour> <garment> <style...> Outfit Top", max 50 chars
+    description: ""    # one sentence what it is + one sentence naming the pants listing
+  pants:
+    name: ""           # exactly "<colour> <garment> <style...> Outfit Pants"
+    description: ""    # one sentence what it is + one sentence naming the shirt listing
+
+moderation_check: ""   # one honest line: no brands, logos, text, skin-tone fabric or suggestive elements

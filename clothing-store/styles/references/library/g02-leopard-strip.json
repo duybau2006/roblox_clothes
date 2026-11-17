@@ -1,0 +1,45 @@
+{
+ "id": "g02-leopard-strip",
+ "name": "Leopard strip",
+ "motif": "leopard",
+ "styles": [
+  "y2k",
+  "baddie"
+ ],
+ "mood": [
+  "wild"
+ ],
+ "size": "small",
+ "families": [
+  "decorated",
+  "realistic"
+ ],
+ "symmetric": false,
+ "band": false,
+ "kind": "swatch",
+ "placement": "allover",
+ "readability": "ok",
+ "source": "owner-generated",
+ "mask": "owner/g02-leopard-strip.png",
+ "colour": "owner/g02-leopard-strip-colour.png",
+ "ink": "owner/g02-leopard-strip-ink.png",
+ "colours": [
+  "#DBC2D1",
+  "#52474F",
+  "#9E8795"
+ ],
+ "sheet": "sheet-02",
+ "box": [
+  8,
+  755,
+  282,
+  875
+ ],
+ "license": {
+  "licence": "the store owner's own artwork, generated with ChatGPT; owner holds the rights",
+  "generated": "2026-11-16",
+  "source_url": "styles/references/inbox/sheet-02.png"
+ },
+ "tile": "owner/g02-leopard-strip-tile.png",
+ "tile_mask": "owner/g02-leopard-strip-tile-mask.png"
+}

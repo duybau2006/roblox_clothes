@@ -1,0 +1,46 @@
+{
+ "id": "g09-bow-flower-border",
+ "name": "Bow flower border",
+ "motif": "bow",
+ "styles": [
+  "cottagecore",
+  "soft-girl"
+ ],
+ "mood": [
+  "romantic"
+ ],
+ "size": "medium",
+ "families": [
+  "decorated"
+ ],
+ "symmetric": false,
+ "band": true,
+ "kind": "border",
+ "placement": "hem",
+ "readability": "simplified",
+ "source": "owner-generated",
+ "mask": "owner/g09-bow-flower-border.png",
+ "colour": "owner/g09-bow-flower-border-colour.png",
+ "ink": "owner/g09-bow-flower-border-ink.png",
+ "colours": [
+  "#B5857D",
+  "#D3ACA3",
+  "#E5C6BD"
+ ],
+ "sheet": "sheet-09",
+ "box": [
+  10,
+  1100,
+  500,
+  1170
+ ],
+ "license": {
+  "licence": "the store owner's own artwork, generated with ChatGPT; owner holds the rights",
+  "generated": "2026-11-16",
+  "source_url": "styles/references/inbox/sheet-09.png"
+ },
+ "bold": "owner/g09-bow-flower-border-bold.png",
+ "bold_below": 256,
+ "tile": "owner/g09-bow-flower-border-tile.png",
+ "tile_mask": "owner/g09-bow-flower-border-tile-mask.png"
+}

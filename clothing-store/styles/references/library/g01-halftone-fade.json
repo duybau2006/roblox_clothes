@@ -1,0 +1,43 @@
+{
+ "id": "g01-halftone-fade",
+ "name": "Halftone fade",
+ "motif": "halftone",
+ "styles": [
+  "gen-z",
+  "grunge",
+  "y2k"
+ ],
+ "mood": [
+  "retro"
+ ],
+ "size": "large",
+ "families": [
+  "print"
+ ],
+ "symmetric": false,
+ "band": false,
+ "kind": "texture",
+ "placement": "allover",
+ "readability": "ok",
+ "source": "owner-generated",
+ "mask": "owner/g01-halftone-fade.png",
+ "colour": "owner/g01-halftone-fade-colour.png",
+ "ink": "owner/g01-halftone-fade-ink.png",
+ "colours": [
+  "#4D494C",
+  "#555254",
+  "#5F5C5D"
+ ],
+ "sheet": "sheet-01",
+ "box": [
+  258,
+  1038,
+  468,
+  1240
+ ],
+ "license": {
+  "licence": "the store owner's own artwork, generated with ChatGPT; owner holds the rights",
+  "generated": "2026-11-16",
+  "source_url": "styles/references/inbox/sheet-01.png"
+ }
+}

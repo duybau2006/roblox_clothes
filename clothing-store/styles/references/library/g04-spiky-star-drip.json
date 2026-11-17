@@ -1,0 +1,46 @@
+{
+ "id": "g04-spiky-star-drip",
+ "name": "Spiky star drip",
+ "motif": "star",
+ "styles": [
+  "emo",
+  "grunge",
+  "baddie"
+ ],
+ "mood": [
+  "edgy"
+ ],
+ "size": "medium",
+ "families": [
+  "print",
+  "decorated"
+ ],
+ "symmetric": false,
+ "band": false,
+ "kind": "hero",
+ "placement": "back",
+ "readability": "simplified",
+ "source": "owner-generated",
+ "mask": "owner/g04-spiky-star-drip.png",
+ "colour": "owner/g04-spiky-star-drip-colour.png",
+ "ink": "owner/g04-spiky-star-drip-ink.png",
+ "colours": [
+  "#2B292A",
+  "#282627",
+  "#302F2F"
+ ],
+ "sheet": "sheet-04",
+ "box": [
+  1070,
+  20,
+  1240,
+  335
+ ],
+ "license": {
+  "licence": "the store owner's own artwork, generated with ChatGPT; owner holds the rights",
+  "generated": "2026-11-16",
+  "source_url": "styles/references/inbox/sheet-04.png"
+ },
+ "bold": "owner/g04-spiky-star-drip-bold.png",
+ "bold_below": 70
+}

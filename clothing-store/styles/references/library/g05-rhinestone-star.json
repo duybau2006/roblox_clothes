@@ -1,0 +1,43 @@
+{
+ "id": "g05-rhinestone-star",
+ "name": "Rhinestone star",
+ "motif": "star",
+ "styles": [
+  "baddie",
+  "y2k"
+ ],
+ "mood": [
+  "rhinestone"
+ ],
+ "size": "small",
+ "families": [
+  "decorated",
+  "print"
+ ],
+ "symmetric": false,
+ "band": false,
+ "kind": "motif",
+ "placement": "chest",
+ "readability": "ok",
+ "source": "owner-generated",
+ "mask": "owner/g05-rhinestone-star.png",
+ "colour": "owner/g05-rhinestone-star-colour.png",
+ "ink": "owner/g05-rhinestone-star-ink.png",
+ "colours": [
+  "#8E6F7A",
+  "#C4A9B3",
+  "#E2D4D8"
+ ],
+ "sheet": "sheet-05",
+ "box": [
+  5,
+  665,
+  235,
+  855
+ ],
+ "license": {
+  "licence": "the store owner's own artwork, generated with ChatGPT; owner holds the rights",
+  "generated": "2026-11-16",
+  "source_url": "styles/references/inbox/sheet-05.png"
+ }
+}

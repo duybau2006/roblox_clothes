@@ -1,0 +1,60 @@
+id: owner-baddie
+style: baddie
+audience: fem
+family: combined
+palette:
+- '#1C1C1E'
+- '#843A50'
+- '#C37192'
+- '#E9B2CC'
+- '#9DB4CF'
+torso:
+  garment: black crop tee with a pink gem heart back print and cherry bow
+  palette:
+  - '#1C1C1E'
+  details:
+  - crew collar
+  hem: plain
+  hem_line: 92
+  decor:
+  - print:
+      placement: back
+      template: centered_stack
+      elements:
+      - g05-gem-heart-tribal
+      ink: '#E9B2CC'
+      distress: 0
+      seed: 5
+  - element: g05-cherry-hearts-bow
+    layout: chest
+    original: true
+    size: 9
+arms:
+  sleeves: short
+legs:
+  garment: light baggy jeans and white sneakers
+  type: trousers
+  waist_line: 104
+  waistband: plain
+  base_pattern: denim
+  details:
+  - belt loops
+  palette:
+  - '#9DB4CF'
+  shoes: white sneakers
+  shoe_palette:
+  - '#E9B2CC'
+  - '#C37192'
+listings:
+  words:
+    colour: Black
+    garment: Crop Tee
+    style:
+    - baddie
+  shirt:
+    name: Black Crop Tee Baddie Outfit Top
+    description: A black crop tee with a pink chrome gem heart on the back and a small cherry bow on the chest in its original colours. Wear it with Black Crop Tee Baddie Outfit Pants for the full look.
+  pants:
+    name: Black Crop Tee Baddie Outfit Pants
+    description: Light baggy jeans and pink sneakers, with the crop tee on the torso. Wear them with Black Crop Tee Baddie Outfit Top for the full look.
+moderation_check: Gem heart and cherry bow from the owner's sheets (bow kept in its original colours, all listed in the palette); crop gap 12 px.

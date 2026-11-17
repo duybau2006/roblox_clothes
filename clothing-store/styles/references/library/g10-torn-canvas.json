@@ -1,0 +1,43 @@
+{
+ "id": "g10-torn-canvas",
+ "name": "Torn canvas",
+ "motif": "rip",
+ "styles": [
+  "archive",
+  "grunge"
+ ],
+ "mood": [
+  "distressed"
+ ],
+ "size": "large",
+ "families": [
+  "decorated",
+  "realistic"
+ ],
+ "symmetric": false,
+ "band": false,
+ "kind": "texture",
+ "placement": "chest",
+ "readability": "ok",
+ "source": "owner-generated",
+ "mask": "owner/g10-torn-canvas.png",
+ "colour": "owner/g10-torn-canvas-colour.png",
+ "ink": "owner/g10-torn-canvas-ink.png",
+ "colours": [
+  "#BEB8B4",
+  "#6E6A69",
+  "#312E2F"
+ ],
+ "sheet": "sheet-10",
+ "box": [
+  705,
+  510,
+  945,
+  680
+ ],
+ "license": {
+  "licence": "the store owner's own artwork, generated with ChatGPT; owner holds the rights",
+  "generated": "2026-11-16",
+  "source_url": "styles/references/inbox/sheet-10.png"
+ }
+}

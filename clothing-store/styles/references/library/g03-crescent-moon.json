@@ -1,0 +1,45 @@
+{
+ "id": "g03-crescent-moon",
+ "name": "Crescent moon",
+ "motif": "moon",
+ "styles": [
+  "vamp-goth",
+  "emo",
+  "y2k"
+ ],
+ "mood": [
+  "gothic",
+  "dreamy"
+ ],
+ "size": "large",
+ "families": [
+  "print",
+  "decorated"
+ ],
+ "symmetric": false,
+ "band": false,
+ "kind": "hero",
+ "placement": "back",
+ "readability": "ok",
+ "source": "owner-generated",
+ "mask": "owner/g03-crescent-moon.png",
+ "colour": "owner/g03-crescent-moon-colour.png",
+ "ink": "owner/g03-crescent-moon-ink.png",
+ "colours": [
+  "#524747",
+  "#938481",
+  "#B7A8A3"
+ ],
+ "sheet": "sheet-03",
+ "box": [
+  795,
+  125,
+  1005,
+  380
+ ],
+ "license": {
+  "licence": "the store owner's own artwork, generated with ChatGPT; owner holds the rights",
+  "generated": "2026-11-16",
+  "source_url": "styles/references/inbox/sheet-03.png"
+ }
+}

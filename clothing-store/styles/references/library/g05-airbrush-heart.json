@@ -1,0 +1,45 @@
+{
+ "id": "g05-airbrush-heart",
+ "name": "Airbrush heart",
+ "motif": "heart",
+ "styles": [
+  "baddie",
+  "y2k"
+ ],
+ "mood": [
+  "airbrush"
+ ],
+ "size": "medium",
+ "families": [
+  "decorated",
+  "print"
+ ],
+ "symmetric": false,
+ "band": false,
+ "kind": "motif",
+ "placement": "chest",
+ "readability": "simplified",
+ "source": "owner-generated",
+ "mask": "owner/g05-airbrush-heart.png",
+ "colour": "owner/g05-airbrush-heart-colour.png",
+ "ink": "owner/g05-airbrush-heart-ink.png",
+ "colours": [
+  "#DF7EAC",
+  "#CE6193",
+  "#E397BB"
+ ],
+ "sheet": "sheet-05",
+ "box": [
+  565,
+  710,
+  790,
+  895
+ ],
+ "license": {
+  "licence": "the store owner's own artwork, generated with ChatGPT; owner holds the rights",
+  "generated": "2026-11-16",
+  "source_url": "styles/references/inbox/sheet-05.png"
+ },
+ "bold": "owner/g05-airbrush-heart-bold.png",
+ "bold_below": 48
+}

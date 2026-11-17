@@ -1,0 +1,46 @@
+{
+ "id": "g02-gothic-butterfly",
+ "name": "Gothic butterfly",
+ "motif": "butterfly",
+ "styles": [
+  "y2k",
+  "vamp-goth",
+  "baddie",
+  "emo"
+ ],
+ "mood": [
+  "chrome",
+  "dark"
+ ],
+ "size": "large",
+ "families": [
+  "print",
+  "decorated"
+ ],
+ "symmetric": false,
+ "band": false,
+ "kind": "hero",
+ "placement": "back",
+ "readability": "ok",
+ "source": "owner-generated",
+ "mask": "owner/g02-gothic-butterfly.png",
+ "colour": "owner/g02-gothic-butterfly-colour.png",
+ "ink": "owner/g02-gothic-butterfly-ink.png",
+ "colours": [
+  "#625761",
+  "#9D929B",
+  "#CABFC7"
+ ],
+ "sheet": "sheet-02",
+ "box": [
+  975,
+  5,
+  1250,
+  245
+ ],
+ "license": {
+  "licence": "the store owner's own artwork, generated with ChatGPT; owner holds the rights",
+  "generated": "2026-11-16",
+  "source_url": "styles/references/inbox/sheet-02.png"
+ }
+}

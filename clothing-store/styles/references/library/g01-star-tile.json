@@ -1,0 +1,46 @@
+{
+ "id": "g01-star-tile",
+ "name": "Star tile",
+ "motif": "star",
+ "styles": [
+  "gen-z",
+  "y2k",
+  "emo"
+ ],
+ "mood": [
+  "playful"
+ ],
+ "size": "small",
+ "families": [
+  "decorated",
+  "realistic"
+ ],
+ "symmetric": false,
+ "band": false,
+ "kind": "swatch",
+ "placement": "allover",
+ "readability": "ok",
+ "source": "owner-generated",
+ "mask": "owner/g01-star-tile.png",
+ "colour": "owner/g01-star-tile-colour.png",
+ "ink": "owner/g01-star-tile-ink.png",
+ "colours": [
+  "#484547",
+  "#545253",
+  "#5F5F5E"
+ ],
+ "sheet": "sheet-01",
+ "box": [
+  742,
+  1028,
+  962,
+  1240
+ ],
+ "license": {
+  "licence": "the store owner's own artwork, generated with ChatGPT; owner holds the rights",
+  "generated": "2026-11-16",
+  "source_url": "styles/references/inbox/sheet-01.png"
+ },
+ "tile": "owner/g01-star-tile-tile.png",
+ "tile_mask": "owner/g01-star-tile-tile-mask.png"
+}

@@ -1,0 +1,45 @@
+{
+ "id": "g03-compass-star",
+ "name": "Compass star",
+ "motif": "sparkle",
+ "styles": [
+  "vamp-goth",
+  "archive"
+ ],
+ "mood": [
+  "ornate"
+ ],
+ "size": "medium",
+ "families": [
+  "decorated",
+  "print"
+ ],
+ "symmetric": false,
+ "band": false,
+ "kind": "motif",
+ "placement": "sleeve",
+ "readability": "simplified",
+ "source": "owner-generated",
+ "mask": "owner/g03-compass-star.png",
+ "colour": "owner/g03-compass-star-colour.png",
+ "ink": "owner/g03-compass-star-ink.png",
+ "colours": [
+  "#3A3232",
+  "#5D5250",
+  "#877A76"
+ ],
+ "sheet": "sheet-03",
+ "box": [
+  543,
+  1030,
+  672,
+  1150
+ ],
+ "license": {
+  "licence": "the store owner's own artwork, generated with ChatGPT; owner holds the rights",
+  "generated": "2026-11-16",
+  "source_url": "styles/references/inbox/sheet-03.png"
+ },
+ "bold": "owner/g03-compass-star-bold.png",
+ "bold_below": 48
+}

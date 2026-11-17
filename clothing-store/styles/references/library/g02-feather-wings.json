@@ -1,0 +1,45 @@
+{
+ "id": "g02-feather-wings",
+ "name": "Feather wings",
+ "motif": "wings",
+ "styles": [
+  "y2k",
+  "vamp-goth",
+  "soft-girl",
+  "baddie"
+ ],
+ "mood": [
+  "ethereal"
+ ],
+ "size": "large",
+ "families": [
+  "print",
+  "decorated"
+ ],
+ "symmetric": false,
+ "band": false,
+ "kind": "hero",
+ "placement": "back",
+ "readability": "ok",
+ "source": "owner-generated",
+ "mask": "owner/g02-feather-wings.png",
+ "colour": "owner/g02-feather-wings-colour.png",
+ "ink": "owner/g02-feather-wings-ink.png",
+ "colours": [
+  "#89828A",
+  "#BBB3BB",
+  "#DAD2D8"
+ ],
+ "sheet": "sheet-02",
+ "box": [
+  670,
+  445,
+  1065,
+  625
+ ],
+ "license": {
+  "licence": "the store owner's own artwork, generated with ChatGPT; owner holds the rights",
+  "generated": "2026-11-16",
+  "source_url": "styles/references/inbox/sheet-02.png"
+ }
+}

@@ -1,0 +1,107 @@
+{
+ "id": "bunny-head",
+ "name": "Bunny head",
+ "motif": "bunny",
+ "styles": [
+  "soft-girl",
+  "y2k",
+  "cottagecore"
+ ],
+ "mood": [
+  "cute"
+ ],
+ "size": "small",
+ "families": [
+  "decorated",
+  "print"
+ ],
+ "symmetric": true,
+ "band": false,
+ "source": "original",
+ "shapes": [
+  {
+   "t": "ellipse",
+   "c": [
+    -0.28,
+    -0.55
+   ],
+   "r": [
+    0.16,
+    0.45
+   ],
+   "tone": 0
+  },
+  {
+   "t": "ellipse",
+   "c": [
+    0.28,
+    -0.55
+   ],
+   "r": [
+    0.16,
+    0.45
+   ],
+   "tone": 0
+  },
+  {
+   "t": "ellipse",
+   "c": [
+    0,
+    0.3
+   ],
+   "r": [
+    0.6,
+    0.5
+   ],
+   "tone": 0
+  },
+  {
+   "t": "ellipse",
+   "c": [
+    -0.28,
+    -0.55
+   ],
+   "r": [
+    0.07,
+    0.3
+   ],
+   "tone": 2
+  },
+  {
+   "t": "ellipse",
+   "c": [
+    0.28,
+    -0.55
+   ],
+   "r": [
+    0.07,
+    0.3
+   ],
+   "tone": 2
+  },
+  {
+   "t": "ellipse",
+   "c": [
+    -0.22,
+    0.22
+   ],
+   "r": [
+    0.06,
+    0.07
+   ],
+   "tone": "cut"
+  },
+  {
+   "t": "ellipse",
+   "c": [
+    0.22,
+    0.22
+   ],
+   "r": [
+    0.06,
+    0.07
+   ],
+   "tone": "cut"
+  }
+ ]
+}

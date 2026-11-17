@@ -1,0 +1,47 @@
+{
+ "id": "g09-rose-vine-border",
+ "name": "Rose vine border",
+ "motif": "rose",
+ "styles": [
+  "cottagecore",
+  "soft-girl"
+ ],
+ "mood": [
+  "romantic"
+ ],
+ "size": "medium",
+ "families": [
+  "decorated",
+  "print"
+ ],
+ "symmetric": false,
+ "band": true,
+ "kind": "border",
+ "placement": "hem",
+ "readability": "simplified",
+ "source": "owner-generated",
+ "mask": "owner/g09-rose-vine-border.png",
+ "colour": "owner/g09-rose-vine-border-colour.png",
+ "ink": "owner/g09-rose-vine-border-ink.png",
+ "colours": [
+  "#9D7461",
+  "#B7947E",
+  "#D3AF9E"
+ ],
+ "sheet": "sheet-09",
+ "box": [
+  460,
+  1175,
+  880,
+  1242
+ ],
+ "license": {
+  "licence": "the store owner's own artwork, generated with ChatGPT; owner holds the rights",
+  "generated": "2026-11-16",
+  "source_url": "styles/references/inbox/sheet-09.png"
+ },
+ "bold": "owner/g09-rose-vine-border-bold.png",
+ "bold_below": 256,
+ "tile": "owner/g09-rose-vine-border-tile.png",
+ "tile_mask": "owner/g09-rose-vine-border-tile-mask.png"
+}

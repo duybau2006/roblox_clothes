@@ -1,0 +1,41 @@
+id: test-contrast-sleeves
+style: preppy-varsity
+audience: unisex
+family: decorated
+palette: ["#1C2A4A", "#F3EBDD", "#7A1F2B", "#111111", "#F2F2F2"]
+
+torso:
+  garment: varsity sweatshirt
+  palette: ["#1C2A4A", "#7A1F2B", "#F3EBDD"]
+  base_pattern: solid
+  details: [crew collar]
+  hem: rib
+  hem_line: 108
+
+arms:
+  palette: ["#F3EBDD", "#7A1F2B"]
+  base_pattern: solid
+  sleeve_contrast: true
+  details: [ribbed cuffs]
+
+legs:
+  garment: black straight trousers
+  type: trousers
+  waist_line: 96
+  waistband: plain
+  palette: ["#111111", "#111111", "#F3EBDD"]
+  base_pattern: solid
+  details: [belt loops, side pockets]
+  shoes: white sneakers
+  shoe_palette: ["#F2F2F2", "#F3EBDD"]
+
+listings:
+  words: {colour: "Navy", garment: "Varsity Sweatshirt", style: ["preppy"]}
+  shirt:
+    name: "Navy Varsity Sweatshirt Preppy Outfit Top"
+    description: "A navy varsity sweatshirt with cream sleeves and burgundy rib trim. Wear it with Navy Varsity Sweatshirt Preppy Outfit Pants for the full look."
+  pants:
+    name: "Navy Varsity Sweatshirt Preppy Outfit Pants"
+    description: "Black straight trousers with white sneakers and the varsity sweatshirt on the torso. Wear them with Navy Varsity Sweatshirt Preppy Outfit Top for the full look."
+
+moderation_check: "Invented varsity look with no letters, crests or school names; no text, no skin-tone fabric."

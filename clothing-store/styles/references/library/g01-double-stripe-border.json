@@ -1,0 +1,46 @@
+{
+ "id": "g01-double-stripe-border",
+ "name": "Double stripe border",
+ "motif": "stripe",
+ "styles": [
+  "gen-z",
+  "athleisure",
+  "preppy"
+ ],
+ "mood": [
+  "sporty"
+ ],
+ "size": "small",
+ "families": [
+  "decorated",
+  "realistic"
+ ],
+ "symmetric": false,
+ "band": true,
+ "kind": "border",
+ "placement": "hem",
+ "readability": "ok",
+ "source": "owner-generated",
+ "mask": "owner/g01-double-stripe-border.png",
+ "colour": "owner/g01-double-stripe-border-colour.png",
+ "ink": "owner/g01-double-stripe-border-ink.png",
+ "colours": [
+  "#403F40",
+  "#4E4D4D",
+  "#595958"
+ ],
+ "sheet": "sheet-01",
+ "box": [
+  425,
+  760,
+  770,
+  825
+ ],
+ "license": {
+  "licence": "the store owner's own artwork, generated with ChatGPT; owner holds the rights",
+  "generated": "2026-11-16",
+  "source_url": "styles/references/inbox/sheet-01.png"
+ },
+ "tile": "owner/g01-double-stripe-border-tile.png",
+ "tile_mask": "owner/g01-double-stripe-border-tile-mask.png"
+}

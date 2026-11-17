@@ -1,0 +1,46 @@
+{
+ "id": "g03-thorn-branch",
+ "name": "Thorn branch",
+ "motif": "thorn",
+ "styles": [
+  "vamp-goth",
+  "emo",
+  "grunge"
+ ],
+ "mood": [
+  "gothic"
+ ],
+ "size": "medium",
+ "families": [
+  "decorated",
+  "print"
+ ],
+ "symmetric": false,
+ "band": false,
+ "kind": "motif",
+ "placement": "sleeve",
+ "readability": "simplified",
+ "source": "owner-generated",
+ "mask": "owner/g03-thorn-branch.png",
+ "colour": "owner/g03-thorn-branch-colour.png",
+ "ink": "owner/g03-thorn-branch-ink.png",
+ "colours": [
+  "#423738",
+  "#645756",
+  "#807370"
+ ],
+ "sheet": "sheet-03",
+ "box": [
+  845,
+  1005,
+  1090,
+  1185
+ ],
+ "license": {
+  "licence": "the store owner's own artwork, generated with ChatGPT; owner holds the rights",
+  "generated": "2026-11-16",
+  "source_url": "styles/references/inbox/sheet-03.png"
+ },
+ "bold": "owner/g03-thorn-branch-bold.png",
+ "bold_below": 48
+}

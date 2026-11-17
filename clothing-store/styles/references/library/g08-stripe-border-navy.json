@@ -1,0 +1,45 @@
+{
+ "id": "g08-stripe-border-navy",
+ "name": "Stripe border navy",
+ "motif": "stripe",
+ "styles": [
+  "preppy",
+  "athleisure"
+ ],
+ "mood": [
+  "classic"
+ ],
+ "size": "small",
+ "families": [
+  "decorated",
+  "realistic"
+ ],
+ "symmetric": false,
+ "band": true,
+ "kind": "border",
+ "placement": "hem",
+ "readability": "ok",
+ "source": "owner-generated",
+ "mask": "owner/g08-stripe-border-navy.png",
+ "colour": "owner/g08-stripe-border-navy-colour.png",
+ "ink": "owner/g08-stripe-border-navy-ink.png",
+ "colours": [
+  "#293045",
+  "#EDE2D7",
+  "#07090F"
+ ],
+ "sheet": "sheet-08",
+ "box": [
+  8,
+  1068,
+  320,
+  1165
+ ],
+ "license": {
+  "licence": "the store owner's own artwork, generated with ChatGPT; owner holds the rights",
+  "generated": "2026-11-16",
+  "source_url": "styles/references/inbox/sheet-08.png"
+ },
+ "tile": "owner/g08-stripe-border-navy-tile.png",
+ "tile_mask": "owner/g08-stripe-border-navy-tile-mask.png"
+}

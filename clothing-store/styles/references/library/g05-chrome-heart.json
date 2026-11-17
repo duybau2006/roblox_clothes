@@ -1,0 +1,45 @@
+{
+ "id": "g05-chrome-heart",
+ "name": "Chrome heart",
+ "motif": "heart",
+ "styles": [
+  "baddie",
+  "y2k",
+  "soft-girl"
+ ],
+ "mood": [
+  "chrome",
+  "glam"
+ ],
+ "size": "small",
+ "families": [
+  "decorated",
+  "print"
+ ],
+ "symmetric": false,
+ "band": false,
+ "kind": "motif",
+ "placement": "chest",
+ "readability": "ok",
+ "source": "owner-generated",
+ "mask": "owner/g05-chrome-heart.png",
+ "colour": "owner/g05-chrome-heart-colour.png",
+ "ink": "owner/g05-chrome-heart-ink.png",
+ "colours": [
+  "#C2688C",
+  "#EFB6D1",
+  "#833754"
+ ],
+ "sheet": "sheet-05",
+ "box": [
+  25,
+  360,
+  220,
+  530
+ ],
+ "license": {
+  "licence": "the store owner's own artwork, generated with ChatGPT; owner holds the rights",
+  "generated": "2026-11-16",
+  "source_url": "styles/references/inbox/sheet-05.png"
+ }
+}

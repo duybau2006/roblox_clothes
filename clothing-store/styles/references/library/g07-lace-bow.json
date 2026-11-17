@@ -1,0 +1,45 @@
+{
+ "id": "g07-lace-bow",
+ "name": "Lace bow",
+ "motif": "bow",
+ "styles": [
+  "soft-girl",
+  "christmas",
+  "cottagecore"
+ ],
+ "mood": [
+  "soft",
+  "vintage"
+ ],
+ "size": "small",
+ "families": [
+  "decorated",
+  "print"
+ ],
+ "symmetric": false,
+ "band": false,
+ "kind": "motif",
+ "placement": "chest",
+ "readability": "ok",
+ "source": "owner-generated",
+ "mask": "owner/g07-lace-bow.png",
+ "colour": "owner/g07-lace-bow-colour.png",
+ "ink": "owner/g07-lace-bow-ink.png",
+ "colours": [
+  "#DDB8B7",
+  "#BD8E8F",
+  "#ECD3D0"
+ ],
+ "sheet": "sheet-07",
+ "box": [
+  10,
+  10,
+  258,
+  275
+ ],
+ "license": {
+  "licence": "the store owner's own artwork, generated with ChatGPT; owner holds the rights",
+  "generated": "2026-11-16",
+  "source_url": "styles/references/inbox/sheet-07.png"
+ }
+}

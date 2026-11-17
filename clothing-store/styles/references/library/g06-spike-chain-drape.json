@@ -1,0 +1,46 @@
+{
+ "id": "g06-spike-chain-drape",
+ "name": "Spike chain drape",
+ "motif": "chain",
+ "styles": [
+  "grunge",
+  "vamp-goth",
+  "emo"
+ ],
+ "mood": [
+  "punk"
+ ],
+ "size": "medium",
+ "families": [
+  "decorated",
+  "print"
+ ],
+ "symmetric": false,
+ "band": false,
+ "kind": "motif",
+ "placement": "chest",
+ "readability": "simplified",
+ "source": "owner-generated",
+ "mask": "owner/g06-spike-chain-drape.png",
+ "colour": "owner/g06-spike-chain-drape-colour.png",
+ "ink": "owner/g06-spike-chain-drape-ink.png",
+ "colours": [
+  "#3B3635",
+  "#635E5C",
+  "#999390"
+ ],
+ "sheet": "sheet-06",
+ "box": [
+  818,
+  945,
+  1050,
+  1140
+ ],
+ "license": {
+  "licence": "the store owner's own artwork, generated with ChatGPT; owner holds the rights",
+  "generated": "2026-11-16",
+  "source_url": "styles/references/inbox/sheet-06.png"
+ },
+ "bold": "owner/g06-spike-chain-drape-bold.png",
+ "bold_below": 48
+}

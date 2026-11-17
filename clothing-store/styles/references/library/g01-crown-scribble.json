@@ -1,0 +1,46 @@
+{
+ "id": "g01-crown-scribble",
+ "name": "Crown scribble",
+ "motif": "crown",
+ "styles": [
+  "gen-z",
+  "baddie",
+  "emo",
+  "y2k"
+ ],
+ "mood": [
+  "sketch"
+ ],
+ "size": "medium",
+ "families": [
+  "decorated"
+ ],
+ "symmetric": false,
+ "band": false,
+ "kind": "motif",
+ "placement": "chest",
+ "readability": "simplified",
+ "source": "owner-generated",
+ "mask": "owner/g01-crown-scribble.png",
+ "colour": "owner/g01-crown-scribble-colour.png",
+ "ink": "owner/g01-crown-scribble-ink.png",
+ "colours": [
+  "#3F3E3E",
+  "#4A4948",
+  "#535351"
+ ],
+ "sheet": "sheet-01",
+ "box": [
+  460,
+  553,
+  603,
+  672
+ ],
+ "license": {
+  "licence": "the store owner's own artwork, generated with ChatGPT; owner holds the rights",
+  "generated": "2026-11-16",
+  "source_url": "styles/references/inbox/sheet-01.png"
+ },
+ "bold": "owner/g01-crown-scribble-bold.png",
+ "bold_below": 48
+}

@@ -1,0 +1,46 @@
+{
+ "id": "g04-checker-border",
+ "name": "Checker border",
+ "motif": "checker",
+ "styles": [
+  "emo",
+  "grunge",
+  "gen-z"
+ ],
+ "mood": [
+  "punk"
+ ],
+ "size": "small",
+ "families": [
+  "decorated",
+  "realistic"
+ ],
+ "symmetric": false,
+ "band": true,
+ "kind": "border",
+ "placement": "hem",
+ "readability": "ok",
+ "source": "owner-generated",
+ "mask": "owner/g04-checker-border.png",
+ "colour": "owner/g04-checker-border-colour.png",
+ "ink": "owner/g04-checker-border-ink.png",
+ "colours": [
+  "#262525",
+  "#D8CED3",
+  "#605A5D"
+ ],
+ "sheet": "sheet-04",
+ "box": [
+  10,
+  1042,
+  312,
+  1130
+ ],
+ "license": {
+  "licence": "the store owner's own artwork, generated with ChatGPT; owner holds the rights",
+  "generated": "2026-11-16",
+  "source_url": "styles/references/inbox/sheet-04.png"
+ },
+ "tile": "owner/g04-checker-border-tile.png",
+ "tile_mask": "owner/g04-checker-border-tile-mask.png"
+}

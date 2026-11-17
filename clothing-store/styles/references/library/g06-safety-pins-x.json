@@ -1,0 +1,44 @@
+{
+ "id": "g06-safety-pins-x",
+ "name": "Safety pins x",
+ "motif": "pin",
+ "styles": [
+  "grunge",
+  "emo"
+ ],
+ "mood": [
+  "punk"
+ ],
+ "size": "medium",
+ "families": [
+  "decorated"
+ ],
+ "symmetric": false,
+ "band": false,
+ "kind": "motif",
+ "placement": "chest",
+ "readability": "simplified",
+ "source": "owner-generated",
+ "mask": "owner/g06-safety-pins-x.png",
+ "colour": "owner/g06-safety-pins-x-colour.png",
+ "ink": "owner/g06-safety-pins-x-ink.png",
+ "colours": [
+  "#413D3B",
+  "#75706D",
+  "#B1ABA7"
+ ],
+ "sheet": "sheet-06",
+ "box": [
+  228,
+  535,
+  395,
+  630
+ ],
+ "license": {
+  "licence": "the store owner's own artwork, generated with ChatGPT; owner holds the rights",
+  "generated": "2026-11-16",
+  "source_url": "styles/references/inbox/sheet-06.png"
+ },
+ "bold": "owner/g06-safety-pins-x-bold.png",
+ "bold_below": 48
+}

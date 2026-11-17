@@ -1,0 +1,48 @@
+{
+ "id": "g03-lace-border-2",
+ "name": "Lace border 2",
+ "motif": "lace",
+ "styles": [
+  "vamp-goth",
+  "soft-girl",
+  "cottagecore",
+  "emo"
+ ],
+ "mood": [
+  "romantic"
+ ],
+ "size": "medium",
+ "families": [
+  "decorated"
+ ],
+ "symmetric": false,
+ "band": true,
+ "kind": "border",
+ "placement": "hem",
+ "readability": "simplified",
+ "source": "owner-generated",
+ "mask": "owner/g03-lace-border-2.png",
+ "colour": "owner/g03-lace-border-2-colour.png",
+ "ink": "owner/g03-lace-border-2-ink.png",
+ "colours": [
+  "#332C2C",
+  "#3C3434",
+  "#453D3B"
+ ],
+ "sheet": "sheet-03",
+ "box": [
+  20,
+  1048,
+  345,
+  1110
+ ],
+ "license": {
+  "licence": "the store owner's own artwork, generated with ChatGPT; owner holds the rights",
+  "generated": "2026-11-16",
+  "source_url": "styles/references/inbox/sheet-03.png"
+ },
+ "bold": "owner/g03-lace-border-2-bold.png",
+ "bold_below": 256,
+ "tile": "owner/g03-lace-border-2-tile.png",
+ "tile_mask": "owner/g03-lace-border-2-tile-mask.png"
+}

@@ -1,0 +1,47 @@
+{
+ "id": "g08-laurel-border",
+ "name": "Laurel border",
+ "motif": "laurel",
+ "styles": [
+  "preppy",
+  "archive"
+ ],
+ "mood": [
+  "classic"
+ ],
+ "size": "medium",
+ "families": [
+  "decorated",
+  "print"
+ ],
+ "symmetric": false,
+ "band": true,
+ "kind": "border",
+ "placement": "hem",
+ "readability": "simplified",
+ "source": "owner-generated",
+ "mask": "owner/g08-laurel-border.png",
+ "colour": "owner/g08-laurel-border-colour.png",
+ "ink": "owner/g08-laurel-border-ink.png",
+ "colours": [
+  "#81736A",
+  "#B4A496",
+  "#CDBEAE"
+ ],
+ "sheet": "sheet-08",
+ "box": [
+  10,
+  1170,
+  315,
+  1238
+ ],
+ "license": {
+  "licence": "the store owner's own artwork, generated with ChatGPT; owner holds the rights",
+  "generated": "2026-11-16",
+  "source_url": "styles/references/inbox/sheet-08.png"
+ },
+ "bold": "owner/g08-laurel-border-bold.png",
+ "bold_below": 256,
+ "tile": "owner/g08-laurel-border-tile.png",
+ "tile_mask": "owner/g08-laurel-border-tile-mask.png"
+}

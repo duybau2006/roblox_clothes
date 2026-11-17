@@ -1,0 +1,41 @@
+{
+ "id": "g10-grommet-panel",
+ "name": "Grommet panel",
+ "motif": "panel",
+ "styles": [
+  "archive"
+ ],
+ "mood": [
+  "deconstructed"
+ ],
+ "size": "medium",
+ "families": [
+  "realistic"
+ ],
+ "symmetric": false,
+ "band": false,
+ "kind": "part",
+ "placement": "allover",
+ "readability": "ok",
+ "source": "owner-generated",
+ "mask": "owner/g10-grommet-panel.png",
+ "colour": "owner/g10-grommet-panel-colour.png",
+ "ink": "owner/g10-grommet-panel-ink.png",
+ "colours": [
+  "#BEB6B1",
+  "#A09794",
+  "#CAC3BD"
+ ],
+ "sheet": "sheet-10",
+ "box": [
+  310,
+  685,
+  525,
+  928
+ ],
+ "license": {
+  "licence": "the store owner's own artwork, generated with ChatGPT; owner holds the rights",
+  "generated": "2026-11-16",
+  "source_url": "styles/references/inbox/sheet-10.png"
+ }
+}

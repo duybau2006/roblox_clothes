@@ -1,0 +1,45 @@
+{
+ "id": "g02-flame-border",
+ "name": "Flame border",
+ "motif": "flame",
+ "styles": [
+  "y2k",
+  "baddie"
+ ],
+ "mood": [
+  "chrome"
+ ],
+ "size": "small",
+ "families": [
+  "decorated",
+  "print"
+ ],
+ "symmetric": false,
+ "band": true,
+ "kind": "border",
+ "placement": "hem",
+ "readability": "ok",
+ "source": "owner-generated",
+ "mask": "owner/g02-flame-border.png",
+ "colour": "owner/g02-flame-border-colour.png",
+ "ink": "owner/g02-flame-border-ink.png",
+ "colours": [
+  "#947688",
+  "#B093A3",
+  "#CBB3BF"
+ ],
+ "sheet": "sheet-02",
+ "box": [
+  445,
+  980,
+  783,
+  1075
+ ],
+ "license": {
+  "licence": "the store owner's own artwork, generated with ChatGPT; owner holds the rights",
+  "generated": "2026-11-16",
+  "source_url": "styles/references/inbox/sheet-02.png"
+ },
+ "tile": "owner/g02-flame-border-tile.png",
+ "tile_mask": "owner/g02-flame-border-tile-mask.png"
+}

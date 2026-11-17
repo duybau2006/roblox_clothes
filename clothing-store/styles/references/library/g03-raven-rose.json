@@ -1,0 +1,45 @@
+{
+ "id": "g03-raven-rose",
+ "name": "Raven rose",
+ "motif": "raven",
+ "styles": [
+  "vamp-goth",
+  "emo",
+  "grunge"
+ ],
+ "mood": [
+  "gothic"
+ ],
+ "size": "medium",
+ "families": [
+  "print"
+ ],
+ "symmetric": false,
+ "band": false,
+ "kind": "hero",
+ "placement": "back",
+ "readability": "simplified",
+ "source": "owner-generated",
+ "mask": "owner/g03-raven-rose.png",
+ "colour": "owner/g03-raven-rose-colour.png",
+ "ink": "owner/g03-raven-rose-ink.png",
+ "colours": [
+  "#3A3032",
+  "#574A4A",
+  "#786B69"
+ ],
+ "sheet": "sheet-03",
+ "box": [
+  795,
+  550,
+  1105,
+  770
+ ],
+ "license": {
+  "licence": "the store owner's own artwork, generated with ChatGPT; owner holds the rights",
+  "generated": "2026-11-16",
+  "source_url": "styles/references/inbox/sheet-03.png"
+ },
+ "bold": "owner/g03-raven-rose-bold.png",
+ "bold_below": 70
+}

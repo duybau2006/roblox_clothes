@@ -1,0 +1,47 @@
+{
+ "id": "g06-spike-compass",
+ "name": "Spike compass",
+ "motif": "sparkle",
+ "styles": [
+  "grunge",
+  "vamp-goth",
+  "archive"
+ ],
+ "mood": [
+  "ornate",
+  "edgy"
+ ],
+ "size": "medium",
+ "families": [
+  "decorated",
+  "print"
+ ],
+ "symmetric": false,
+ "band": false,
+ "kind": "motif",
+ "placement": "chest",
+ "readability": "simplified",
+ "source": "owner-generated",
+ "mask": "owner/g06-spike-compass.png",
+ "colour": "owner/g06-spike-compass-colour.png",
+ "ink": "owner/g06-spike-compass-ink.png",
+ "colours": [
+  "#393434",
+  "#676160",
+  "#9D9794"
+ ],
+ "sheet": "sheet-06",
+ "box": [
+  603,
+  922,
+  792,
+  1142
+ ],
+ "license": {
+  "licence": "the store owner's own artwork, generated with ChatGPT; owner holds the rights",
+  "generated": "2026-11-16",
+  "source_url": "styles/references/inbox/sheet-06.png"
+ },
+ "bold": "owner/g06-spike-compass-bold.png",
+ "bold_below": 48
+}

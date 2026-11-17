@@ -1,0 +1,45 @@
+{
+ "id": "g07-pinecones-bow",
+ "name": "Pinecones bow",
+ "motif": "pinecone",
+ "styles": [
+  "christmas",
+  "cottagecore"
+ ],
+ "mood": [
+  "festive"
+ ],
+ "size": "medium",
+ "families": [
+  "decorated",
+  "print"
+ ],
+ "symmetric": false,
+ "band": false,
+ "kind": "motif",
+ "placement": "chest",
+ "readability": "simplified",
+ "source": "owner-generated",
+ "mask": "owner/g07-pinecones-bow.png",
+ "colour": "owner/g07-pinecones-bow-colour.png",
+ "ink": "owner/g07-pinecones-bow-ink.png",
+ "colours": [
+  "#94756E",
+  "#D0B2AD",
+  "#E8D4D0"
+ ],
+ "sheet": "sheet-07",
+ "box": [
+  18,
+  835,
+  228,
+  1005
+ ],
+ "license": {
+  "licence": "the store owner's own artwork, generated with ChatGPT; owner holds the rights",
+  "generated": "2026-11-16",
+  "source_url": "styles/references/inbox/sheet-07.png"
+ },
+ "bold": "owner/g07-pinecones-bow-bold.png",
+ "bold_below": 48
+}

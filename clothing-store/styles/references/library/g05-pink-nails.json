@@ -1,0 +1,42 @@
+{
+ "id": "g05-pink-nails",
+ "name": "Pink nails",
+ "motif": "nails",
+ "styles": [
+  "baddie",
+  "y2k"
+ ],
+ "mood": [
+  "glam"
+ ],
+ "size": "small",
+ "families": [
+  "decorated"
+ ],
+ "symmetric": false,
+ "band": false,
+ "kind": "motif",
+ "placement": "sleeve",
+ "readability": "ok",
+ "source": "owner-generated",
+ "mask": "owner/g05-pink-nails.png",
+ "colour": "owner/g05-pink-nails-colour.png",
+ "ink": "owner/g05-pink-nails-ink.png",
+ "colours": [
+  "#CA7B9D",
+  "#E3ACC4",
+  "#A8416A"
+ ],
+ "sheet": "sheet-05",
+ "box": [
+  1040,
+  715,
+  1250,
+  875
+ ],
+ "license": {
+  "licence": "the store owner's own artwork, generated with ChatGPT; owner holds the rights",
+  "generated": "2026-11-16",
+  "source_url": "styles/references/inbox/sheet-05.png"
+ }
+}

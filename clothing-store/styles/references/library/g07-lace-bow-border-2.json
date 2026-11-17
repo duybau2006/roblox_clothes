@@ -1,0 +1,45 @@
+{
+ "id": "g07-lace-bow-border-2",
+ "name": "Lace bow border 2",
+ "motif": "lace",
+ "styles": [
+  "soft-girl",
+  "christmas",
+  "cottagecore"
+ ],
+ "mood": [
+  "romantic"
+ ],
+ "size": "small",
+ "families": [
+  "decorated"
+ ],
+ "symmetric": false,
+ "band": true,
+ "kind": "border",
+ "placement": "hem",
+ "readability": "ok",
+ "source": "owner-generated",
+ "mask": "owner/g07-lace-bow-border-2.png",
+ "colour": "owner/g07-lace-bow-border-2-colour.png",
+ "ink": "owner/g07-lace-bow-border-2-ink.png",
+ "colours": [
+  "#E2D1C9",
+  "#F0E7DF",
+  "#CAADA7"
+ ],
+ "sheet": "sheet-07",
+ "box": [
+  428,
+  1155,
+  828,
+  1242
+ ],
+ "license": {
+  "licence": "the store owner's own artwork, generated with ChatGPT; owner holds the rights",
+  "generated": "2026-11-16",
+  "source_url": "styles/references/inbox/sheet-07.png"
+ },
+ "tile": "owner/g07-lace-bow-border-2-tile.png",
+ "tile_mask": "owner/g07-lace-bow-border-2-tile-mask.png"
+}

@@ -1,0 +1,45 @@
+{
+ "id": "g07-snowflake-swatch",
+ "name": "Snowflake swatch",
+ "motif": "snowflake",
+ "styles": [
+  "christmas",
+  "soft-girl"
+ ],
+ "mood": [
+  "wintry"
+ ],
+ "size": "small",
+ "families": [
+  "decorated",
+  "realistic"
+ ],
+ "symmetric": false,
+ "band": false,
+ "kind": "swatch",
+ "placement": "allover",
+ "readability": "ok",
+ "source": "owner-generated",
+ "mask": "owner/g07-snowflake-swatch.png",
+ "colour": "owner/g07-snowflake-swatch-colour.png",
+ "ink": "owner/g07-snowflake-swatch-ink.png",
+ "colours": [
+  "#B08D8F",
+  "#C3A5A3",
+  "#E4D1CB"
+ ],
+ "sheet": "sheet-07",
+ "box": [
+  1045,
+  1015,
+  1245,
+  1152
+ ],
+ "license": {
+  "licence": "the store owner's own artwork, generated with ChatGPT; owner holds the rights",
+  "generated": "2026-11-16",
+  "source_url": "styles/references/inbox/sheet-07.png"
+ },
+ "tile": "owner/g07-snowflake-swatch-tile.png",
+ "tile_mask": "owner/g07-snowflake-swatch-tile-mask.png"
+}

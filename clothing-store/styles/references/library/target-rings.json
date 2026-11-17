@@ -1,0 +1,61 @@
+{
+ "id": "target-rings",
+ "name": "Target rings",
+ "motif": "target",
+ "styles": [
+  "athleisure",
+  "gen-z",
+  "archive"
+ ],
+ "mood": [
+  "sporty"
+ ],
+ "size": "small",
+ "families": [
+  "decorated",
+  "print"
+ ],
+ "symmetric": true,
+ "band": false,
+ "source": "original",
+ "shapes": [
+  {
+   "t": "ellipse",
+   "c": [
+    0,
+    0
+   ],
+   "r": [
+    0.95,
+    0.95
+   ],
+   "tone": 0,
+   "stroke": 0.12
+  },
+  {
+   "t": "ellipse",
+   "c": [
+    0,
+    0
+   ],
+   "r": [
+    0.6,
+    0.6
+   ],
+   "tone": 1,
+   "stroke": 0.12
+  },
+  {
+   "t": "ellipse",
+   "c": [
+    0,
+    0
+   ],
+   "r": [
+    0.25,
+    0.25
+   ],
+   "tone": 0
+  }
+ ]
+}

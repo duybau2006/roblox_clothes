@@ -1,0 +1,86 @@
+{
+ "id": "mitten",
+ "name": "Mitten",
+ "motif": "mitten",
+ "styles": [
+  "christmas",
+  "soft-girl"
+ ],
+ "mood": [
+  "festive"
+ ],
+ "size": "small",
+ "families": [
+  "decorated",
+  "print"
+ ],
+ "symmetric": false,
+ "band": false,
+ "source": "original",
+ "shapes": [
+  {
+   "t": "poly",
+   "pts": [
+    [
+     -0.45,
+     0.95
+    ],
+    [
+     -0.5,
+     -0.45
+    ],
+    [
+     -0.25,
+     -0.85
+    ],
+    [
+     0.15,
+     -0.8
+    ],
+    [
+     0.35,
+     -0.3
+    ],
+    [
+     0.65,
+     -0.35
+    ],
+    [
+     0.7,
+     0.0
+    ],
+    [
+     0.4,
+     0.3
+    ],
+    [
+     0.42,
+     0.95
+    ]
+   ],
+   "tone": 0
+  },
+  {
+   "t": "poly",
+   "pts": [
+    [
+     -0.5,
+     0.65
+    ],
+    [
+     0.45,
+     0.65
+    ],
+    [
+     0.45,
+     0.95
+    ],
+    [
+     -0.48,
+     0.95
+    ]
+   ],
+   "tone": 2
+  }
+ ]
+}

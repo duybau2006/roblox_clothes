@@ -1,0 +1,246 @@
+{
+ "sheet-01": {
+  "imported": 23,
+  "simplified": 11,
+  "print_only": 1,
+  "dropped": 0,
+  "held": 7,
+  "dropped_ids": [],
+  "print_only_ids": [
+   "g01-star-outline"
+  ],
+  "simplified_ids": [
+   "g01-heart-scribble",
+   "g01-sparkle-pair",
+   "g01-flame-row",
+   "g01-devil-horns",
+   "g01-crown-scribble",
+   "g01-number-07",
+   "g01-orbit-star",
+   "g01-zip-border",
+   "g01-stitch-dash-border",
+   "g01-stitch-x",
+   "g01-tribal-flame"
+  ]
+ },
+ "sheet-02": {
+  "imported": 30,
+  "simplified": 15,
+  "print_only": 6,
+  "dropped": 0,
+  "held": 3,
+  "dropped_ids": [],
+  "print_only_ids": [
+   "g02-rhinestone-butterfly",
+   "g02-rhinestone-heart",
+   "g02-orbit-swirl",
+   "g02-dotted-butterfly",
+   "g02-orbit-swirl-2",
+   "g02-sparkle-cluster"
+  ],
+  "simplified_ids": [
+   "g02-orbit-heart",
+   "g02-thorn-heart-wings",
+   "g02-heart-trio",
+   "g02-flame-heart",
+   "g02-orbit-star",
+   "g02-tribal-heart-border",
+   "g02-sparkle-4",
+   "g02-sparkle-4b",
+   "g02-sparkle-row",
+   "g02-thorn-heart-row",
+   "g02-tribal-butterfly-border",
+   "g02-tribal-spike-border",
+   "g02-rhinestone-heart-row",
+   "g02-filigree-sparkle-border",
+   "g02-rose-thorn-tribal"
+  ]
+ },
+ "sheet-03": {
+  "imported": 24,
+  "simplified": 16,
+  "print_only": 1,
+  "dropped": 0,
+  "held": 7,
+  "dropped_ids": [],
+  "print_only_ids": [
+   "g03-spider-web"
+  ],
+  "simplified_ids": [
+   "g03-gothic-window-roses",
+   "g03-candelabra",
+   "g03-chandelier",
+   "g03-rose-leaves",
+   "g03-thorn-vine",
+   "g03-raven-rose",
+   "g03-baroque-border",
+   "g03-heart-locket",
+   "g03-bat-small",
+   "g03-lace-border",
+   "g03-fleur",
+   "g03-compass-star",
+   "g03-lace-border-2",
+   "g03-thorn-branch",
+   "g03-rose-vine-border",
+   "g03-filigree-corner"
+  ]
+ },
+ "sheet-04": {
+  "imported": 26,
+  "simplified": 14,
+  "print_only": 1,
+  "dropped": 0,
+  "held": 8,
+  "dropped_ids": [],
+  "print_only_ids": [
+   "g04-heartbeat-heart"
+  ],
+  "simplified_ids": [
+   "g04-spiky-star-drip",
+   "g04-barbed-heart",
+   "g04-chain-pin-heart",
+   "g04-lightning-slash",
+   "g04-star-scratch",
+   "g04-spike-row",
+   "g04-chain-border",
+   "g04-barbed-wire",
+   "g04-crown-scribble",
+   "g04-heart-scribble",
+   "g04-barbed-wire-2",
+   "g04-star-row",
+   "g04-star-scratch-row",
+   "g04-heart-scribble-row"
+  ]
+ },
+ "sheet-05": {
+  "imported": 20,
+  "simplified": 13,
+  "print_only": 0,
+  "dropped": 1,
+  "held": 7,
+  "dropped_ids": [
+   "g05-tiara"
+  ],
+  "print_only_ids": [],
+  "simplified_ids": [
+   "g05-chrome-tribal-flame",
+   "g05-rhinestone-orbit-star",
+   "g05-cherry-hearts-bow",
+   "g05-chrome-drip-heart",
+   "g05-airbrush-heart",
+   "g05-satin-bow",
+   "g05-gem-heart-tribal",
+   "g05-sparkle-cluster",
+   "g05-tribal-butterfly",
+   "g05-leopard-star",
+   "g05-chain-gem-drape",
+   "g05-lily-filigree",
+   "g05-tribal-sparkle-border"
+  ]
+ },
+ "sheet-06": {
+  "imported": 31,
+  "simplified": 10,
+  "print_only": 0,
+  "dropped": 0,
+  "held": 5,
+  "dropped_ids": [],
+  "print_only_ids": [],
+  "simplified_ids": [
+   "g06-flame-row",
+   "g06-safety-pin",
+   "g06-safety-pins-x",
+   "g06-barbed-wire",
+   "g06-chain-drape",
+   "g06-fleur",
+   "g06-spike-compass",
+   "g06-spike-chain-drape",
+   "g06-torn-lace-edge",
+   "g06-barbed-wire-double"
+  ]
+ },
+ "sheet-07": {
+  "imported": 39,
+  "simplified": 14,
+  "print_only": 0,
+  "dropped": 0,
+  "held": 0,
+  "dropped_ids": [],
+  "print_only_ids": [],
+  "simplified_ids": [
+   "g07-gold-north-star",
+   "g07-holly-bow",
+   "g07-snowflake",
+   "g07-pearl-heart-bow",
+   "g07-candy-cane-bow",
+   "g07-lily-of-valley",
+   "g07-fawn-bow",
+   "g07-gingerbread-star",
+   "g07-gold-sparkles",
+   "g07-snowflake-cluster",
+   "g07-pinecones-bow",
+   "g07-blossom-branch",
+   "g07-hanging-stars-bow",
+   "g07-gingham-bow"
+  ]
+ },
+ "sheet-08": {
+  "imported": 33,
+  "simplified": 10,
+  "print_only": 0,
+  "dropped": 0,
+  "held": 2,
+  "dropped_ids": [],
+  "print_only_ids": [],
+  "simplified_ids": [
+   "g08-laurel-bow",
+   "g08-crowned-shield",
+   "g08-crown",
+   "g08-laurel-ball",
+   "g08-laurel-rackets",
+   "g08-striped-bow",
+   "g08-sparkle-4",
+   "g08-three-stars",
+   "g08-chevron-navy",
+   "g08-laurel-border"
+  ]
+ },
+ "sheet-09": {
+  "imported": 32,
+  "simplified": 12,
+  "print_only": 0,
+  "dropped": 0,
+  "held": 0,
+  "dropped_ids": [],
+  "print_only_ids": [],
+  "simplified_ids": [
+   "g09-gingham-heart",
+   "g09-ribbon-bow",
+   "g09-strawberry-flowers",
+   "g09-ribbon-wreath",
+   "g09-flower-sprig",
+   "g09-ivy-heart",
+   "g09-bow-flower-border",
+   "g09-flower-vine-border",
+   "g09-rose-vine-border",
+   "g09-ribbon-heart",
+   "g09-daisy",
+   "g09-rose"
+  ]
+ },
+ "sheet-10": {
+  "imported": 25,
+  "simplified": 4,
+  "print_only": 0,
+  "dropped": 0,
+  "held": 6,
+  "dropped_ids": [],
+  "print_only_ids": [],
+  "simplified_ids": [
+   "g10-baroque-ornament",
+   "g10-chain-stitch-trim",
+   "g10-snap-tab",
+   "g10-strap-loops"
+  ]
+ }
+}

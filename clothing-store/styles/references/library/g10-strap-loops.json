@@ -1,0 +1,43 @@
+{
+ "id": "g10-strap-loops",
+ "name": "Strap loops",
+ "motif": "strap",
+ "styles": [
+  "archive"
+ ],
+ "mood": [
+  "utility"
+ ],
+ "size": "medium",
+ "families": [
+  "realistic"
+ ],
+ "symmetric": false,
+ "band": false,
+ "kind": "part",
+ "placement": "sleeve",
+ "readability": "simplified",
+ "source": "owner-generated",
+ "mask": "owner/g10-strap-loops.png",
+ "colour": "owner/g10-strap-loops-colour.png",
+ "ink": "owner/g10-strap-loops-ink.png",
+ "colours": [
+  "#3C3939",
+  "#4F4D4A",
+  "#292728"
+ ],
+ "sheet": "sheet-10",
+ "box": [
+  652,
+  1050,
+  728,
+  1245
+ ],
+ "license": {
+  "licence": "the store owner's own artwork, generated with ChatGPT; owner holds the rights",
+  "generated": "2026-11-16",
+  "source_url": "styles/references/inbox/sheet-10.png"
+ },
+ "bold": "owner/g10-strap-loops-bold.png",
+ "bold_below": 128
+}

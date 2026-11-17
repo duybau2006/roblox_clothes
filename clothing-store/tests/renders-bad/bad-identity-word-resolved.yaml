@@ -1,0 +1,80 @@
+torso:
+  garment_kind: tee
+  material: nylon
+  palette:
+  - '#1C2A44'
+  - '#F2F0EB'
+  details:
+  - crew collar
+  hem: plain
+  hem_line: 104
+  garment: navy racing jersey with amber side panels and number 27
+arms:
+  sleeves: short
+legs:
+  type: trousers
+  garment_kind: joggers
+  material: nylon
+  waist_line: 96
+  waistband: elastic
+  palette:
+  - '#1C2A44'
+  - '#F2F0EB'
+  details:
+  - rib cuffs
+  shoes: sneakers
+  shoe_style: sneaker
+  shoe_palette:
+  - '#F2F0EB'
+  - '#F2F0EB'
+  - '#E3A72F'
+  garment: navy track joggers with amber side stripe and white sneakers
+  _identity: &id001
+    number_style: racing
+    number_colour: '#F2F0EB'
+    number_outline: '#1C2A44'
+    number_places:
+    - back
+    - chest
+    - sleeve
+    layout: racing
+    panel: '#E3A72F'
+    piping: '#F2F0EB'
+    number: KING
+identity: *id001
+shading:
+  mode: realistic
+  seed: 3
+  wrinkles: 1.0
+id: bad-identity-word
+style: athleisure
+audience: unisex
+family: realistic
+palette:
+- '#1C2A44'
+- '#F2F0EB'
+- '#E3A72F'
+recipes:
+- family: realistic
+  style: athleisure
+  template: racing_jersey
+  colours:
+  - '#1C2A44'
+  - '#F2F0EB'
+  - '#E3A72F'
+  - '#F2F0EB'
+  seed: 3
+  number: 27
+listings:
+  words:
+    colour: Navy
+    garment: Racing Jersey
+    style:
+    - swag
+  shirt:
+    name: Navy Racing Jersey Swag Outfit Top
+    description: A navy racing jersey with curved amber side panels, white piping and a large number 27 on the back, chest and sleeve. Wear it with Navy Racing Jersey Swag Outfit Pants for the full look.
+  pants:
+    name: Navy Racing Jersey Swag Outfit Pants
+    description: Navy track joggers with an amber side panel and white sneakers, with the racing jersey on the torso. Wear them with Navy Racing Jersey Swag Outfit Top for the full look.
+moderation_check: Number only (27), invented colour layout; no team name, sponsor, flag, league or real kit colours.

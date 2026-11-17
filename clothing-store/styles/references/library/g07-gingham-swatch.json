@@ -1,0 +1,46 @@
+{
+ "id": "g07-gingham-swatch",
+ "name": "Gingham swatch",
+ "motif": "gingham",
+ "styles": [
+  "soft-girl",
+  "cottagecore",
+  "christmas"
+ ],
+ "mood": [
+  "cute"
+ ],
+ "size": "small",
+ "families": [
+  "decorated",
+  "realistic"
+ ],
+ "symmetric": false,
+ "band": false,
+ "kind": "swatch",
+ "placement": "allover",
+ "readability": "ok",
+ "source": "owner-generated",
+ "mask": "owner/g07-gingham-swatch.png",
+ "colour": "owner/g07-gingham-swatch-colour.png",
+ "ink": "owner/g07-gingham-swatch-ink.png",
+ "colours": [
+  "#DEBEBC",
+  "#CDA2A3",
+  "#100B0C"
+ ],
+ "sheet": "sheet-07",
+ "box": [
+  228,
+  1015,
+  420,
+  1148
+ ],
+ "license": {
+  "licence": "the store owner's own artwork, generated with ChatGPT; owner holds the rights",
+  "generated": "2026-11-16",
+  "source_url": "styles/references/inbox/sheet-07.png"
+ },
+ "tile": "owner/g07-gingham-swatch-tile.png",
+ "tile_mask": "owner/g07-gingham-swatch-tile-mask.png"
+}

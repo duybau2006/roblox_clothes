@@ -1,0 +1,43 @@
+{
+ "id": "g06-scratch-marks",
+ "name": "Scratch marks",
+ "motif": "scratch",
+ "styles": [
+  "grunge",
+  "emo"
+ ],
+ "mood": [
+  "grunge"
+ ],
+ "size": "large",
+ "families": [
+  "print",
+  "decorated"
+ ],
+ "symmetric": false,
+ "band": false,
+ "kind": "texture",
+ "placement": "chest",
+ "readability": "ok",
+ "source": "owner-generated",
+ "mask": "owner/g06-scratch-marks.png",
+ "colour": "owner/g06-scratch-marks-colour.png",
+ "ink": "owner/g06-scratch-marks-ink.png",
+ "colours": [
+  "#393636",
+  "#444141",
+  "#524F4E"
+ ],
+ "sheet": "sheet-06",
+ "box": [
+  488,
+  817,
+  678,
+  925
+ ],
+ "license": {
+  "licence": "the store owner's own artwork, generated with ChatGPT; owner holds the rights",
+  "generated": "2026-11-16",
+  "source_url": "styles/references/inbox/sheet-06.png"
+ }
+}

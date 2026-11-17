@@ -1,0 +1,56 @@
+id: owner-y2k
+style: y2k
+audience: fem
+family: print
+palette:
+- '#2A2A2E'
+- '#F2A7C9'
+- '#9DB4CF'
+- '#FFFFFF'
+torso:
+  garment: black baby tee with a pink butterfly back print
+  palette:
+  - '#2A2A2E'
+  details:
+  - crew collar
+  hem: plain
+  hem_line: 100
+  decor:
+  - print:
+      placement: back
+      template: centered_stack
+      elements:
+      - g02-gothic-butterfly
+      - g02-chrome-star
+      ink: '#F2A7C9'
+      distress: 0
+      seed: 4
+arms:
+  sleeves: short
+legs:
+  garment: light low-rise jeans and white sneakers
+  type: trousers
+  waist_line: 100
+  waistband: plain
+  base_pattern: denim
+  details:
+  - belt loops
+  palette:
+  - '#9DB4CF'
+  shoes: white sneakers
+  shoe_palette:
+  - '#FFFFFF'
+  - '#FFFFFF'
+listings:
+  words:
+    colour: Black
+    garment: Butterfly Tee
+    style:
+    - y2k
+  shirt:
+    name: Black Butterfly Tee Y2K Outfit Top
+    description: A black baby tee with a large pink butterfly and chrome star printed on the back. Wear it with Black Butterfly Tee Y2K Outfit Pants for the full look.
+  pants:
+    name: Black Butterfly Tee Y2K Outfit Pants
+    description: Light low-rise jeans and white sneakers, with the butterfly tee on the torso. Wear them with Black Butterfly Tee Y2K Outfit Top for the full look.
+moderation_check: Butterfly and star from the owner's sheets; no crosses, text or brands.

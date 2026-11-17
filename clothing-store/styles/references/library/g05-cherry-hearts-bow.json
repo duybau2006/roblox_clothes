@@ -1,0 +1,47 @@
+{
+ "id": "g05-cherry-hearts-bow",
+ "name": "Cherry hearts bow",
+ "motif": "cherry",
+ "styles": [
+  "baddie",
+  "soft-girl",
+  "y2k"
+ ],
+ "mood": [
+  "cute",
+  "glam"
+ ],
+ "size": "medium",
+ "families": [
+  "decorated",
+  "print"
+ ],
+ "symmetric": false,
+ "band": false,
+ "kind": "motif",
+ "placement": "chest",
+ "readability": "simplified",
+ "source": "owner-generated",
+ "mask": "owner/g05-cherry-hearts-bow.png",
+ "colour": "owner/g05-cherry-hearts-bow-colour.png",
+ "ink": "owner/g05-cherry-hearts-bow-ink.png",
+ "colours": [
+  "#843A50",
+  "#C37192",
+  "#E9B2CC"
+ ],
+ "sheet": "sheet-05",
+ "box": [
+  210,
+  575,
+  390,
+  735
+ ],
+ "license": {
+  "licence": "the store owner's own artwork, generated with ChatGPT; owner holds the rights",
+  "generated": "2026-11-16",
+  "source_url": "styles/references/inbox/sheet-05.png"
+ },
+ "bold": "owner/g05-cherry-hearts-bow-bold.png",
+ "bold_below": 48
+}

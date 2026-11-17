@@ -1,0 +1,42 @@
+{
+ "id": "g06-paint-drip-stroke",
+ "name": "Paint drip stroke",
+ "motif": "drip",
+ "styles": [
+  "grunge",
+  "emo"
+ ],
+ "mood": [
+  "grunge"
+ ],
+ "size": "large",
+ "families": [
+  "print"
+ ],
+ "symmetric": false,
+ "band": false,
+ "kind": "texture",
+ "placement": "chest",
+ "readability": "ok",
+ "source": "owner-generated",
+ "mask": "owner/g06-paint-drip-stroke.png",
+ "colour": "owner/g06-paint-drip-stroke-colour.png",
+ "ink": "owner/g06-paint-drip-stroke-ink.png",
+ "colours": [
+  "#393838",
+  "#312F30",
+  "#41403F"
+ ],
+ "sheet": "sheet-06",
+ "box": [
+  15,
+  830,
+  248,
+  940
+ ],
+ "license": {
+  "licence": "the store owner's own artwork, generated with ChatGPT; owner holds the rights",
+  "generated": "2026-11-16",
+  "source_url": "styles/references/inbox/sheet-06.png"
+ }
+}

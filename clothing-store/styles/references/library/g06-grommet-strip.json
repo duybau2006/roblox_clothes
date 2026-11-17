@@ -1,0 +1,46 @@
+{
+ "id": "g06-grommet-strip",
+ "name": "Grommet strip",
+ "motif": "grommet",
+ "styles": [
+  "grunge",
+  "emo",
+  "archive"
+ ],
+ "mood": [
+  "punk"
+ ],
+ "size": "small",
+ "families": [
+  "decorated",
+  "realistic"
+ ],
+ "symmetric": false,
+ "band": true,
+ "kind": "border",
+ "placement": "hem",
+ "readability": "ok",
+ "source": "owner-generated",
+ "mask": "owner/g06-grommet-strip.png",
+ "colour": "owner/g06-grommet-strip-colour.png",
+ "ink": "owner/g06-grommet-strip-ink.png",
+ "colours": [
+  "#2D2B2C",
+  "#615C5B",
+  "#191718"
+ ],
+ "sheet": "sheet-06",
+ "box": [
+  1005,
+  1148,
+  1250,
+  1243
+ ],
+ "license": {
+  "licence": "the store owner's own artwork, generated with ChatGPT; owner holds the rights",
+  "generated": "2026-11-16",
+  "source_url": "styles/references/inbox/sheet-06.png"
+ },
+ "tile": "owner/g06-grommet-strip-tile.png",
+ "tile_mask": "owner/g06-grommet-strip-tile-mask.png"
+}

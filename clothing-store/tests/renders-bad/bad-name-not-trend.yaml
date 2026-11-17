@@ -1,0 +1,61 @@
+id: bad-name-not-trend
+style: streetwear-hoodie-set
+blend_with: ''
+audience: unisex
+family: decorated
+palette:
+- '#8E9199'
+- '#80838B'
+- '#ECECEC'
+- '#F2F2F2'
+- '#CFCFCF'
+torso:
+  garment: plain pullover hoodie
+  palette:
+  - '#8E9199'
+  - '#80838B'
+  - '#ECECEC'
+  base_pattern: solid
+  details:
+  - hood
+  - drawstrings
+  - kangaroo pocket
+  hem: rib
+  hem_line: 112
+arms:
+  details:
+  - ribbed cuffs
+  sleeves: long
+  mirror: true
+legs:
+  garment: jogger sweatpants
+  type: trousers
+  waist_line: 96
+  waistband: elastic
+  palette:
+  - '#8E9199'
+  - '#80838B'
+  - '#ECECEC'
+  base_pattern: solid
+  details:
+  - side pockets
+  - cuffed ankles
+  shoes: plain white sneakers
+  shoe_palette:
+  - '#F2F2F2'
+  - '#CFCFCF'
+  mirror: true
+listings:
+  words:
+    colour: Grey
+    garment: Hoodie Jogger
+    style:
+    - streetwear
+  shirt:
+    name: Grey Hoodie Jogger Streetwear Outfit Top
+    description: Test top. Wear it with Grey Hoodie Jogger Streetwear Outfit Pants.
+  pants:
+    name: Grey Hoodie Jogger Streetwear Outfit Pants
+    description: Test pants. Wear them with Grey Hoodie Jogger Streetwear Outfit Top.
+moderation_check: No brands, marks, text or skin-tone fabric; ordinary fully covering
+  hoodie and joggers.

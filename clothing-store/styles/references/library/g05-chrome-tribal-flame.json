@@ -1,0 +1,47 @@
+{
+ "id": "g05-chrome-tribal-flame",
+ "name": "Chrome tribal flame",
+ "motif": "flame",
+ "styles": [
+  "baddie",
+  "y2k"
+ ],
+ "mood": [
+  "chrome"
+ ],
+ "size": "medium",
+ "families": [
+  "decorated",
+  "print"
+ ],
+ "symmetric": false,
+ "band": true,
+ "kind": "border",
+ "placement": "hem",
+ "readability": "simplified",
+ "source": "owner-generated",
+ "mask": "owner/g05-chrome-tribal-flame.png",
+ "colour": "owner/g05-chrome-tribal-flame-colour.png",
+ "ink": "owner/g05-chrome-tribal-flame-ink.png",
+ "colours": [
+  "#7E3E56",
+  "#C47596",
+  "#ECB7D1"
+ ],
+ "sheet": "sheet-05",
+ "box": [
+  450,
+  335,
+  935,
+  430
+ ],
+ "license": {
+  "licence": "the store owner's own artwork, generated with ChatGPT; owner holds the rights",
+  "generated": "2026-11-16",
+  "source_url": "styles/references/inbox/sheet-05.png"
+ },
+ "bold": "owner/g05-chrome-tribal-flame-bold.png",
+ "bold_below": 256,
+ "tile": "owner/g05-chrome-tribal-flame-tile.png",
+ "tile_mask": "owner/g05-chrome-tribal-flame-tile-mask.png"
+}

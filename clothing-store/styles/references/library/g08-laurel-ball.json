@@ -1,0 +1,45 @@
+{
+ "id": "g08-laurel-ball",
+ "name": "Laurel ball",
+ "motif": "laurel",
+ "styles": [
+  "preppy",
+  "athleisure"
+ ],
+ "mood": [
+  "sporty"
+ ],
+ "size": "medium",
+ "families": [
+  "decorated",
+  "print"
+ ],
+ "symmetric": false,
+ "band": false,
+ "kind": "motif",
+ "placement": "chest",
+ "readability": "simplified",
+ "source": "owner-generated",
+ "mask": "owner/g08-laurel-ball.png",
+ "colour": "owner/g08-laurel-ball-colour.png",
+ "ink": "owner/g08-laurel-ball-ink.png",
+ "colours": [
+  "#504E49",
+  "#E2D5C7",
+  "#A6998C"
+ ],
+ "sheet": "sheet-08",
+ "box": [
+  760,
+  350,
+  1025,
+  490
+ ],
+ "license": {
+  "licence": "the store owner's own artwork, generated with ChatGPT; owner holds the rights",
+  "generated": "2026-11-16",
+  "source_url": "styles/references/inbox/sheet-08.png"
+ },
+ "bold": "owner/g08-laurel-ball-bold.png",
+ "bold_below": 48
+}

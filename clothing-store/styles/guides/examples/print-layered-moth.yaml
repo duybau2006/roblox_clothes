@@ -1,0 +1,52 @@
+id: print-layered-moth
+style: grunge
+blend_with: archive
+audience: unisex
+family: print
+palette: ["#5E6152", "#141414", "#E8E4DC", "#3A3A3A"]
+
+torso:
+  garment: mineral wash olive tee over a striped long sleeve
+  palette: ["#5E6152"]
+  base_pattern: mineral_wash
+  details: [crew collar]
+  hem: plain
+  hem_line: 114
+  decor:
+    - print:
+        placement: back
+        template: centered_stack
+        elements: [moth-engraved, thorn-vine, star-5]
+        ink: "#E8E4DC"
+        distress: {worn: 2, cracked: 1}
+        seed: 8
+
+arms:
+  sleeves: short
+  under:
+    palette: ["#141414", "#E8E4DC"]
+    base_pattern: stripes
+    pattern: {width: 4}
+    details: [ribbed cuffs]
+
+legs:
+  garment: charcoal washed jeans
+  type: trousers
+  waist_line: 92
+  waistband: plain
+  palette: ["#3A3A3A", "#141414"]
+  base_pattern: denim
+  details: [belt loops, button]
+  shoes: black boots
+  shoe_palette: ["#141414", "#3A3A3A"]
+
+listings:
+  words: {colour: "Olive", garment: "Moth Layered Tee Jeans", style: ["grunge"]}
+  shirt:
+    name: "Olive Moth Layered Tee Jeans Grunge Outfit Top"
+    description: "A mineral wash olive tee over a striped long sleeve, with a worn vintage moth and thorn print on the back. Wear it with Olive Moth Layered Tee Jeans Grunge Outfit Pants for the full look."
+  pants:
+    name: "Olive Moth Layered Tee Jeans Grunge Outfit Pants"
+    description: "Charcoal washed jeans and black boots, with the layered moth tee on the torso. Wear them with Olive Moth Layered Tee Jeans Grunge Outfit Top for the full look."
+
+moderation_check: "Moth artwork derived from a CC0 museum watercolour (see LICENSES.md); no text, logos or gore."

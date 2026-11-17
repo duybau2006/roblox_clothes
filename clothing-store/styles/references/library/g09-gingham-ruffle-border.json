@@ -1,0 +1,44 @@
+{
+ "id": "g09-gingham-ruffle-border",
+ "name": "Gingham ruffle border",
+ "motif": "gingham",
+ "styles": [
+  "cottagecore",
+  "soft-girl"
+ ],
+ "mood": [
+  "cute"
+ ],
+ "size": "small",
+ "families": [
+  "decorated"
+ ],
+ "symmetric": false,
+ "band": true,
+ "kind": "border",
+ "placement": "hem",
+ "readability": "ok",
+ "source": "owner-generated",
+ "mask": "owner/g09-gingham-ruffle-border.png",
+ "colour": "owner/g09-gingham-ruffle-border-colour.png",
+ "ink": "owner/g09-gingham-ruffle-border-ink.png",
+ "colours": [
+  "#CD9F98",
+  "#E6CCC1",
+  "#AD7170"
+ ],
+ "sheet": "sheet-09",
+ "box": [
+  508,
+  1100,
+  880,
+  1172
+ ],
+ "license": {
+  "licence": "the store owner's own artwork, generated with ChatGPT; owner holds the rights",
+  "generated": "2026-11-16",
+  "source_url": "styles/references/inbox/sheet-09.png"
+ },
+ "tile": "owner/g09-gingham-ruffle-border-tile.png",
+ "tile_mask": "owner/g09-gingham-ruffle-border-tile-mask.png"
+}

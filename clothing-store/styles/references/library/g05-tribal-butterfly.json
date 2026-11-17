@@ -1,0 +1,48 @@
+{
+ "id": "g05-tribal-butterfly",
+ "name": "Tribal butterfly",
+ "motif": "butterfly",
+ "styles": [
+  "baddie",
+  "y2k"
+ ],
+ "mood": [
+  "chrome",
+  "tribal"
+ ],
+ "size": "medium",
+ "families": [
+  "decorated",
+  "print"
+ ],
+ "symmetric": false,
+ "band": true,
+ "kind": "border",
+ "placement": "hem",
+ "readability": "simplified",
+ "source": "owner-generated",
+ "mask": "owner/g05-tribal-butterfly.png",
+ "colour": "owner/g05-tribal-butterfly-colour.png",
+ "ink": "owner/g05-tribal-butterfly-ink.png",
+ "colours": [
+  "#9B808C",
+  "#090003",
+  "#000001"
+ ],
+ "sheet": "sheet-05",
+ "box": [
+  10,
+  1020,
+  440,
+  1135
+ ],
+ "license": {
+  "licence": "the store owner's own artwork, generated with ChatGPT; owner holds the rights",
+  "generated": "2026-11-16",
+  "source_url": "styles/references/inbox/sheet-05.png"
+ },
+ "bold": "owner/g05-tribal-butterfly-bold.png",
+ "bold_below": 256,
+ "tile": "owner/g05-tribal-butterfly-tile.png",
+ "tile_mask": "owner/g05-tribal-butterfly-tile-mask.png"
+}

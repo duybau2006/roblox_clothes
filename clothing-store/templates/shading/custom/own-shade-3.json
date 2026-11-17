@@ -1,0 +1,29 @@
+{
+ "source_url": "supplied by the store owner in chat on 2026-11-16 (original source not stated)",
+ "author": "not stated",
+ "licence": "not stated: owner to confirm source and licence before upload",
+ "credit": "unknown",
+ "fetched": "2026-11-16",
+ "provenance": "owner-supplied",
+ "licence_confirmed": false,
+ "id": "own-shade-3",
+ "file": "own-shade-3.png",
+ "raw_name": "3.jpg",
+ "garment": "shirt + pants",
+ "style": "bold painted folds, shadows only (JPEG flattened on a checkerboard)",
+ "strength": 0.8,
+ "parts": [
+  "torso",
+  "arms",
+  "legs"
+ ],
+ "seams_before": {
+  "failing_pairs": 23,
+  "worst_mean": 21.2
+ },
+ "seams_after": {
+  "failing_pairs": 0,
+  "worst_mean": 2.6
+ },
+ "notes": "rescaled from 735x752; checkerboard divided out; faces missing in the source filled flat: right_arm.bottom, left_arm.bottom"
+}

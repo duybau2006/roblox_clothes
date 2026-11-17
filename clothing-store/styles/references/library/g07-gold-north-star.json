@@ -1,0 +1,45 @@
+{
+ "id": "g07-gold-north-star",
+ "name": "Gold north star",
+ "motif": "star",
+ "styles": [
+  "christmas",
+  "soft-girl"
+ ],
+ "mood": [
+  "festive"
+ ],
+ "size": "medium",
+ "families": [
+  "decorated",
+  "print"
+ ],
+ "symmetric": false,
+ "band": false,
+ "kind": "motif",
+ "placement": "chest",
+ "readability": "simplified",
+ "source": "owner-generated",
+ "mask": "owner/g07-gold-north-star.png",
+ "colour": "owner/g07-gold-north-star-colour.png",
+ "ink": "owner/g07-gold-north-star-ink.png",
+ "colours": [
+  "#B59372",
+  "#D3BA9C",
+  "#EBDDCB"
+ ],
+ "sheet": "sheet-07",
+ "box": [
+  710,
+  25,
+  845,
+  205
+ ],
+ "license": {
+  "licence": "the store owner's own artwork, generated with ChatGPT; owner holds the rights",
+  "generated": "2026-11-16",
+  "source_url": "styles/references/inbox/sheet-07.png"
+ },
+ "bold": "owner/g07-gold-north-star-bold.png",
+ "bold_below": 48
+}

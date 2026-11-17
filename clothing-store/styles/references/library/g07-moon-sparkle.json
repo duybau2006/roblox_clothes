@@ -1,0 +1,43 @@
+{
+ "id": "g07-moon-sparkle",
+ "name": "Moon sparkle",
+ "motif": "moon",
+ "styles": [
+  "soft-girl",
+  "christmas"
+ ],
+ "mood": [
+  "dreamy"
+ ],
+ "size": "small",
+ "families": [
+  "decorated",
+  "print"
+ ],
+ "symmetric": false,
+ "band": false,
+ "kind": "motif",
+ "placement": "chest",
+ "readability": "ok",
+ "source": "owner-generated",
+ "mask": "owner/g07-moon-sparkle.png",
+ "colour": "owner/g07-moon-sparkle-colour.png",
+ "ink": "owner/g07-moon-sparkle-ink.png",
+ "colours": [
+  "#CEB9B4",
+  "#E5D7D0",
+  "#F0E7E0"
+ ],
+ "sheet": "sheet-07",
+ "box": [
+  250,
+  665,
+  435,
+  835
+ ],
+ "license": {
+  "licence": "the store owner's own artwork, generated with ChatGPT; owner holds the rights",
+  "generated": "2026-11-16",
+  "source_url": "styles/references/inbox/sheet-07.png"
+ }
+}

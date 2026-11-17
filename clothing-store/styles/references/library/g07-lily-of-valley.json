@@ -1,0 +1,46 @@
+{
+ "id": "g07-lily-of-valley",
+ "name": "Lily of valley",
+ "motif": "lily",
+ "styles": [
+  "soft-girl",
+  "cottagecore",
+  "christmas"
+ ],
+ "mood": [
+  "soft"
+ ],
+ "size": "medium",
+ "families": [
+  "decorated",
+  "print"
+ ],
+ "symmetric": false,
+ "band": false,
+ "kind": "motif",
+ "placement": "chest",
+ "readability": "simplified",
+ "source": "owner-generated",
+ "mask": "owner/g07-lily-of-valley.png",
+ "colour": "owner/g07-lily-of-valley-colour.png",
+ "ink": "owner/g07-lily-of-valley-ink.png",
+ "colours": [
+  "#D6BEB5",
+  "#AD958A",
+  "#E9D9D0"
+ ],
+ "sheet": "sheet-07",
+ "box": [
+  1050,
+  205,
+  1250,
+  465
+ ],
+ "license": {
+  "licence": "the store owner's own artwork, generated with ChatGPT; owner holds the rights",
+  "generated": "2026-11-16",
+  "source_url": "styles/references/inbox/sheet-07.png"
+ },
+ "bold": "owner/g07-lily-of-valley-bold.png",
+ "bold_below": 48
+}

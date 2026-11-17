@@ -1,0 +1,41 @@
+{
+ "id": "g10-draft-lines",
+ "name": "Draft lines",
+ "motif": "pattern",
+ "styles": [
+  "archive"
+ ],
+ "mood": [
+  "deconstructed"
+ ],
+ "size": "large",
+ "families": [
+  "print"
+ ],
+ "symmetric": false,
+ "band": false,
+ "kind": "texture",
+ "placement": "allover",
+ "readability": "ok",
+ "source": "owner-generated",
+ "mask": "owner/g10-draft-lines.png",
+ "colour": "owner/g10-draft-lines-colour.png",
+ "ink": "owner/g10-draft-lines-ink.png",
+ "colours": [
+  "#313031",
+  "#343334",
+  "#373737"
+ ],
+ "sheet": "sheet-10",
+ "box": [
+  912,
+  360,
+  1240,
+  505
+ ],
+ "license": {
+  "licence": "the store owner's own artwork, generated with ChatGPT; owner holds the rights",
+  "generated": "2026-11-16",
+  "source_url": "styles/references/inbox/sheet-10.png"
+ }
+}

@@ -1,0 +1,44 @@
+{
+ "id": "g09-flower-sprig",
+ "name": "Flower sprig",
+ "motif": "flower",
+ "styles": [
+  "cottagecore",
+  "soft-girl"
+ ],
+ "mood": [
+  "soft"
+ ],
+ "size": "medium",
+ "families": [
+  "decorated"
+ ],
+ "symmetric": false,
+ "band": false,
+ "kind": "motif",
+ "placement": "sleeve",
+ "readability": "simplified",
+ "source": "owner-generated",
+ "mask": "owner/g09-flower-sprig.png",
+ "colour": "owner/g09-flower-sprig-colour.png",
+ "ink": "owner/g09-flower-sprig-ink.png",
+ "colours": [
+  "#8B7357",
+  "#B0957A",
+  "#DFC6B6"
+ ],
+ "sheet": "sheet-09",
+ "box": [
+  900,
+  455,
+  1065,
+  565
+ ],
+ "license": {
+  "licence": "the store owner's own artwork, generated with ChatGPT; owner holds the rights",
+  "generated": "2026-11-16",
+  "source_url": "styles/references/inbox/sheet-09.png"
+ },
+ "bold": "owner/g09-flower-sprig-bold.png",
+ "bold_below": 48
+}

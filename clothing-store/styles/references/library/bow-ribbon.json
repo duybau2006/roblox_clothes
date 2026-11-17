@@ -1,0 +1,119 @@
+{
+ "id": "bow-ribbon",
+ "name": "Long-tail ribbon bow",
+ "motif": "bow",
+ "styles": [
+  "soft-girl",
+  "cottagecore",
+  "baddie",
+  "y2k",
+  "preppy"
+ ],
+ "mood": [
+  "cute"
+ ],
+ "size": "small",
+ "families": [
+  "decorated",
+  "print"
+ ],
+ "symmetric": true,
+ "band": false,
+ "source": "original",
+ "shapes": [
+  {
+   "t": "poly",
+   "pts": [
+    [
+     0,
+     0
+    ],
+    [
+     -0.8,
+     -0.5
+    ],
+    [
+     -0.85,
+     0.05
+    ],
+    [
+     -0.7,
+     0.4
+    ]
+   ],
+   "tone": 0
+  },
+  {
+   "t": "poly",
+   "pts": [
+    [
+     0,
+     0
+    ],
+    [
+     0.8,
+     -0.5
+    ],
+    [
+     0.85,
+     0.05
+    ],
+    [
+     0.7,
+     0.4
+    ]
+   ],
+   "tone": 0
+  },
+  {
+   "t": "line",
+   "pts": [
+    [
+     -0.05,
+     0.1
+    ],
+    [
+     -0.35,
+     0.55
+    ],
+    [
+     -0.2,
+     0.98
+    ]
+   ],
+   "w": 0.1,
+   "tone": 1
+  },
+  {
+   "t": "line",
+   "pts": [
+    [
+     0.05,
+     0.1
+    ],
+    [
+     0.35,
+     0.55
+    ],
+    [
+     0.2,
+     0.98
+    ]
+   ],
+   "w": 0.1,
+   "tone": 1
+  },
+  {
+   "t": "ellipse",
+   "c": [
+    0,
+    0
+   ],
+   "r": [
+    0.18,
+    0.2
+   ],
+   "tone": 2
+  }
+ ]
+}

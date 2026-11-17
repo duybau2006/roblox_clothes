@@ -1,0 +1,43 @@
+{
+ "id": "g06-claw-scratch",
+ "name": "Claw scratch",
+ "motif": "scratch",
+ "styles": [
+  "grunge",
+  "emo"
+ ],
+ "mood": [
+  "grunge"
+ ],
+ "size": "large",
+ "families": [
+  "print",
+  "decorated"
+ ],
+ "symmetric": false,
+ "band": false,
+ "kind": "texture",
+ "placement": "sleeve",
+ "readability": "ok",
+ "source": "owner-generated",
+ "mask": "owner/g06-claw-scratch.png",
+ "colour": "owner/g06-claw-scratch-colour.png",
+ "ink": "owner/g06-claw-scratch-ink.png",
+ "colours": [
+  "#333031",
+  "#434040",
+  "#555150"
+ ],
+ "sheet": "sheet-06",
+ "box": [
+  740,
+  800,
+  870,
+  960
+ ],
+ "license": {
+  "licence": "the store owner's own artwork, generated with ChatGPT; owner holds the rights",
+  "generated": "2026-11-16",
+  "source_url": "styles/references/inbox/sheet-06.png"
+ }
+}

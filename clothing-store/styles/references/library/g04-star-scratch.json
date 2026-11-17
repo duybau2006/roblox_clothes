@@ -1,0 +1,46 @@
+{
+ "id": "g04-star-scratch",
+ "name": "Star scratch",
+ "motif": "star",
+ "styles": [
+  "emo",
+  "grunge",
+  "baddie"
+ ],
+ "mood": [
+  "grunge"
+ ],
+ "size": "medium",
+ "families": [
+  "decorated",
+  "print"
+ ],
+ "symmetric": false,
+ "band": false,
+ "kind": "motif",
+ "placement": "chest",
+ "readability": "simplified",
+ "source": "owner-generated",
+ "mask": "owner/g04-star-scratch.png",
+ "colour": "owner/g04-star-scratch-colour.png",
+ "ink": "owner/g04-star-scratch-ink.png",
+ "colours": [
+  "#312C2F",
+  "#7C7176",
+  "#020004"
+ ],
+ "sheet": "sheet-04",
+ "box": [
+  690,
+  580,
+  910,
+  800
+ ],
+ "license": {
+  "licence": "the store owner's own artwork, generated with ChatGPT; owner holds the rights",
+  "generated": "2026-11-16",
+  "source_url": "styles/references/inbox/sheet-04.png"
+ },
+ "bold": "owner/g04-star-scratch-bold.png",
+ "bold_below": 48
+}

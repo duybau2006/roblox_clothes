@@ -1,0 +1,45 @@
+{
+ "id": "g07-snowflake",
+ "name": "Snowflake",
+ "motif": "snowflake",
+ "styles": [
+  "christmas",
+  "soft-girl"
+ ],
+ "mood": [
+  "wintry"
+ ],
+ "size": "medium",
+ "families": [
+  "decorated",
+  "print"
+ ],
+ "symmetric": false,
+ "band": false,
+ "kind": "motif",
+ "placement": "sleeve",
+ "readability": "simplified",
+ "source": "owner-generated",
+ "mask": "owner/g07-snowflake.png",
+ "colour": "owner/g07-snowflake-colour.png",
+ "ink": "owner/g07-snowflake-ink.png",
+ "colours": [
+  "#AA8F88",
+  "#C5B1A9",
+  "#DBCCC4"
+ ],
+ "sheet": "sheet-07",
+ "box": [
+  1088,
+  15,
+  1245,
+  195
+ ],
+ "license": {
+  "licence": "the store owner's own artwork, generated with ChatGPT; owner holds the rights",
+  "generated": "2026-11-16",
+  "source_url": "styles/references/inbox/sheet-07.png"
+ },
+ "bold": "owner/g07-snowflake-bold.png",
+ "bold_below": 48
+}

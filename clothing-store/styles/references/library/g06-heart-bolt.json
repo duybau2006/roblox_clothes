@@ -1,0 +1,43 @@
+{
+ "id": "g06-heart-bolt",
+ "name": "Heart bolt",
+ "motif": "heart",
+ "styles": [
+  "grunge",
+  "emo"
+ ],
+ "mood": [
+  "grunge"
+ ],
+ "size": "small",
+ "families": [
+  "decorated",
+  "print"
+ ],
+ "symmetric": false,
+ "band": false,
+ "kind": "motif",
+ "placement": "chest",
+ "readability": "ok",
+ "source": "owner-generated",
+ "mask": "owner/g06-heart-bolt.png",
+ "colour": "owner/g06-heart-bolt-colour.png",
+ "ink": "owner/g06-heart-bolt-ink.png",
+ "colours": [
+  "#353233",
+  "#4F494A",
+  "#6E6667"
+ ],
+ "sheet": "sheet-06",
+ "box": [
+  232,
+  345,
+  422,
+  535
+ ],
+ "license": {
+  "licence": "the store owner's own artwork, generated with ChatGPT; owner holds the rights",
+  "generated": "2026-11-16",
+  "source_url": "styles/references/inbox/sheet-06.png"
+ }
+}

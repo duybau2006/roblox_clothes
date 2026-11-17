@@ -1,0 +1,45 @@
+{
+ "id": "g07-candy-stripe-swatch",
+ "name": "Candy stripe swatch",
+ "motif": "stripe",
+ "styles": [
+  "christmas",
+  "soft-girl"
+ ],
+ "mood": [
+  "festive"
+ ],
+ "size": "small",
+ "families": [
+  "decorated",
+  "realistic"
+ ],
+ "symmetric": false,
+ "band": false,
+ "kind": "swatch",
+ "placement": "allover",
+ "readability": "ok",
+ "source": "owner-generated",
+ "mask": "owner/g07-candy-stripe-swatch.png",
+ "colour": "owner/g07-candy-stripe-swatch-colour.png",
+ "ink": "owner/g07-candy-stripe-swatch-ink.png",
+ "colours": [
+  "#F0E5DD",
+  "#C29192",
+  "#0F0A0A"
+ ],
+ "sheet": "sheet-07",
+ "box": [
+  833,
+  1015,
+  1040,
+  1150
+ ],
+ "license": {
+  "licence": "the store owner's own artwork, generated with ChatGPT; owner holds the rights",
+  "generated": "2026-11-16",
+  "source_url": "styles/references/inbox/sheet-07.png"
+ },
+ "tile": "owner/g07-candy-stripe-swatch-tile.png",
+ "tile_mask": "owner/g07-candy-stripe-swatch-tile-mask.png"
+}

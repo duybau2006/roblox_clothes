@@ -1,0 +1,45 @@
+{
+ "id": "g07-snowflake-cluster",
+ "name": "Snowflake cluster",
+ "motif": "snowflake",
+ "styles": [
+  "christmas",
+  "soft-girl"
+ ],
+ "mood": [
+  "wintry"
+ ],
+ "size": "medium",
+ "families": [
+  "decorated",
+  "print"
+ ],
+ "symmetric": false,
+ "band": false,
+ "kind": "motif",
+ "placement": "chest",
+ "readability": "simplified",
+ "source": "owner-generated",
+ "mask": "owner/g07-snowflake-cluster.png",
+ "colour": "owner/g07-snowflake-cluster-colour.png",
+ "ink": "owner/g07-snowflake-cluster-ink.png",
+ "colours": [
+  "#AD9497",
+  "#C9B7B7",
+  "#DFD2D1"
+ ],
+ "sheet": "sheet-07",
+ "box": [
+  18,
+  650,
+  228,
+  830
+ ],
+ "license": {
+  "licence": "the store owner's own artwork, generated with ChatGPT; owner holds the rights",
+  "generated": "2026-11-16",
+  "source_url": "styles/references/inbox/sheet-07.png"
+ },
+ "bold": "owner/g07-snowflake-cluster-bold.png",
+ "bold_below": 48
+}

@@ -1,0 +1,45 @@
+{
+ "id": "g07-holly-bow",
+ "name": "Holly bow",
+ "motif": "holly",
+ "styles": [
+  "christmas",
+  "soft-girl"
+ ],
+ "mood": [
+  "festive"
+ ],
+ "size": "medium",
+ "families": [
+  "decorated",
+  "print"
+ ],
+ "symmetric": false,
+ "band": false,
+ "kind": "motif",
+ "placement": "chest",
+ "readability": "simplified",
+ "source": "owner-generated",
+ "mask": "owner/g07-holly-bow.png",
+ "colour": "owner/g07-holly-bow-colour.png",
+ "ink": "owner/g07-holly-bow-ink.png",
+ "colours": [
+  "#A58A82",
+  "#CFB5AF",
+  "#E5D4CE"
+ ],
+ "sheet": "sheet-07",
+ "box": [
+  865,
+  10,
+  1070,
+  220
+ ],
+ "license": {
+  "licence": "the store owner's own artwork, generated with ChatGPT; owner holds the rights",
+  "generated": "2026-11-16",
+  "source_url": "styles/references/inbox/sheet-07.png"
+ },
+ "bold": "owner/g07-holly-bow-bold.png",
+ "bold_below": 48
+}

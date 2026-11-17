@@ -1,0 +1,47 @@
+{
+ "id": "g06-barbed-wire-double",
+ "name": "Barbed wire double",
+ "motif": "barbed",
+ "styles": [
+  "grunge",
+  "emo"
+ ],
+ "mood": [
+  "edgy"
+ ],
+ "size": "medium",
+ "families": [
+  "decorated",
+  "print"
+ ],
+ "symmetric": false,
+ "band": true,
+ "kind": "border",
+ "placement": "hem",
+ "readability": "simplified",
+ "source": "owner-generated",
+ "mask": "owner/g06-barbed-wire-double.png",
+ "colour": "owner/g06-barbed-wire-double-colour.png",
+ "ink": "owner/g06-barbed-wire-double-ink.png",
+ "colours": [
+  "#3A3635",
+  "#5D5957",
+  "#7E7A77"
+ ],
+ "sheet": "sheet-06",
+ "box": [
+  515,
+  1155,
+  750,
+  1232
+ ],
+ "license": {
+  "licence": "the store owner's own artwork, generated with ChatGPT; owner holds the rights",
+  "generated": "2026-11-16",
+  "source_url": "styles/references/inbox/sheet-06.png"
+ },
+ "bold": "owner/g06-barbed-wire-double-bold.png",
+ "bold_below": 256,
+ "tile": "owner/g06-barbed-wire-double-tile.png",
+ "tile_mask": "owner/g06-barbed-wire-double-tile-mask.png"
+}

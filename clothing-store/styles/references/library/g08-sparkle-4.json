@@ -1,0 +1,44 @@
+{
+ "id": "g08-sparkle-4",
+ "name": "Sparkle 4",
+ "motif": "sparkle",
+ "styles": [
+  "preppy",
+  "athleisure"
+ ],
+ "mood": [
+  "minimal"
+ ],
+ "size": "medium",
+ "families": [
+  "decorated"
+ ],
+ "symmetric": false,
+ "band": false,
+ "kind": "motif",
+ "placement": "sleeve",
+ "readability": "simplified",
+ "source": "owner-generated",
+ "mask": "owner/g08-sparkle-4.png",
+ "colour": "owner/g08-sparkle-4-colour.png",
+ "ink": "owner/g08-sparkle-4-ink.png",
+ "colours": [
+  "#2E3342",
+  "#E7DBCF",
+  "#9B9391"
+ ],
+ "sheet": "sheet-08",
+ "box": [
+  355,
+  905,
+  498,
+  1048
+ ],
+ "license": {
+  "licence": "the store owner's own artwork, generated with ChatGPT; owner holds the rights",
+  "generated": "2026-11-16",
+  "source_url": "styles/references/inbox/sheet-08.png"
+ },
+ "bold": "owner/g08-sparkle-4-bold.png",
+ "bold_below": 48
+}

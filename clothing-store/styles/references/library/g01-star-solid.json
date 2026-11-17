@@ -1,0 +1,44 @@
+{
+ "id": "g01-star-solid",
+ "name": "Star solid",
+ "motif": "star",
+ "styles": [
+  "gen-z",
+  "emo",
+  "grunge"
+ ],
+ "mood": [
+  "grunge"
+ ],
+ "size": "small",
+ "families": [
+  "decorated",
+  "print"
+ ],
+ "symmetric": false,
+ "band": false,
+ "kind": "motif",
+ "placement": "chest",
+ "readability": "ok",
+ "source": "owner-generated",
+ "mask": "owner/g01-star-solid.png",
+ "colour": "owner/g01-star-solid-colour.png",
+ "ink": "owner/g01-star-solid-ink.png",
+ "colours": [
+  "#4B4A49",
+  "#3F3D3E",
+  "#565654"
+ ],
+ "sheet": "sheet-01",
+ "box": [
+  213,
+  385,
+  336,
+  505
+ ],
+ "license": {
+  "licence": "the store owner's own artwork, generated with ChatGPT; owner holds the rights",
+  "generated": "2026-11-16",
+  "source_url": "styles/references/inbox/sheet-01.png"
+ }
+}

@@ -1,0 +1,45 @@
+{
+ "id": "g08-chevron-navy",
+ "name": "Chevron navy",
+ "motif": "chevron",
+ "styles": [
+  "athleisure",
+  "preppy"
+ ],
+ "mood": [
+  "sporty"
+ ],
+ "size": "medium",
+ "families": [
+  "decorated",
+  "realistic"
+ ],
+ "symmetric": false,
+ "band": false,
+ "kind": "motif",
+ "placement": "sleeve",
+ "readability": "simplified",
+ "source": "owner-generated",
+ "mask": "owner/g08-chevron-navy.png",
+ "colour": "owner/g08-chevron-navy-colour.png",
+ "ink": "owner/g08-chevron-navy-ink.png",
+ "colours": [
+  "#424552",
+  "#D4C6BB",
+  "#E6DACD"
+ ],
+ "sheet": "sheet-08",
+ "box": [
+  772,
+  898,
+  1005,
+  1050
+ ],
+ "license": {
+  "licence": "the store owner's own artwork, generated with ChatGPT; owner holds the rights",
+  "generated": "2026-11-16",
+  "source_url": "styles/references/inbox/sheet-08.png"
+ },
+ "bold": "owner/g08-chevron-navy-bold.png",
+ "bold_below": 48
+}

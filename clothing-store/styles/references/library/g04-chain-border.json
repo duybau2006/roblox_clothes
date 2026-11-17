@@ -1,0 +1,48 @@
+{
+ "id": "g04-chain-border",
+ "name": "Chain border",
+ "motif": "chain",
+ "styles": [
+  "emo",
+  "grunge",
+  "vamp-goth",
+  "baddie"
+ ],
+ "mood": [
+  "punk"
+ ],
+ "size": "medium",
+ "families": [
+  "decorated"
+ ],
+ "symmetric": false,
+ "band": true,
+ "kind": "border",
+ "placement": "hem",
+ "readability": "simplified",
+ "source": "owner-generated",
+ "mask": "owner/g04-chain-border.png",
+ "colour": "owner/g04-chain-border-colour.png",
+ "ink": "owner/g04-chain-border-ink.png",
+ "colours": [
+  "#322E30",
+  "#5E585A",
+  "#AEA7A8"
+ ],
+ "sheet": "sheet-04",
+ "box": [
+  595,
+  815,
+  890,
+  885
+ ],
+ "license": {
+  "licence": "the store owner's own artwork, generated with ChatGPT; owner holds the rights",
+  "generated": "2026-11-16",
+  "source_url": "styles/references/inbox/sheet-04.png"
+ },
+ "bold": "owner/g04-chain-border-bold.png",
+ "bold_below": 256,
+ "tile": "owner/g04-chain-border-tile.png",
+ "tile_mask": "owner/g04-chain-border-tile-mask.png"
+}

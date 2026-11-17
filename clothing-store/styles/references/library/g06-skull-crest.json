@@ -1,0 +1,45 @@
+{
+ "id": "g06-skull-crest",
+ "name": "Skull crest",
+ "motif": "skull",
+ "styles": [
+  "grunge",
+  "vamp-goth",
+  "emo",
+  "archive"
+ ],
+ "mood": [
+  "ornate",
+  "dark"
+ ],
+ "size": "large",
+ "families": [
+  "print"
+ ],
+ "symmetric": false,
+ "band": false,
+ "kind": "hero",
+ "placement": "back",
+ "readability": "ok",
+ "source": "owner-generated",
+ "mask": "owner/g06-skull-crest.png",
+ "colour": "owner/g06-skull-crest-colour.png",
+ "ink": "owner/g06-skull-crest-ink.png",
+ "colours": [
+  "#464141",
+  "#9F9996",
+  "#050001"
+ ],
+ "sheet": "sheet-06",
+ "box": [
+  730,
+  5,
+  1080,
+  345
+ ],
+ "license": {
+  "licence": "the store owner's own artwork, generated with ChatGPT; owner holds the rights",
+  "generated": "2026-11-16",
+  "source_url": "styles/references/inbox/sheet-06.png"
+ }
+}

@@ -1,0 +1,47 @@
+{
+ "id": "g04-barbed-wire-2",
+ "name": "Barbed wire 2",
+ "motif": "barbed",
+ "styles": [
+  "emo",
+  "grunge"
+ ],
+ "mood": [
+  "edgy"
+ ],
+ "size": "medium",
+ "families": [
+  "decorated",
+  "print"
+ ],
+ "symmetric": false,
+ "band": true,
+ "kind": "border",
+ "placement": "hem",
+ "readability": "simplified",
+ "source": "owner-generated",
+ "mask": "owner/g04-barbed-wire-2.png",
+ "colour": "owner/g04-barbed-wire-2-colour.png",
+ "ink": "owner/g04-barbed-wire-2-ink.png",
+ "colours": [
+  "#2B282A",
+  "#474446",
+  "#918E8F"
+ ],
+ "sheet": "sheet-04",
+ "box": [
+  937,
+  1052,
+  1250,
+  1122
+ ],
+ "license": {
+  "licence": "the store owner's own artwork, generated with ChatGPT; owner holds the rights",
+  "generated": "2026-11-16",
+  "source_url": "styles/references/inbox/sheet-04.png"
+ },
+ "bold": "owner/g04-barbed-wire-2-bold.png",
+ "bold_below": 256,
+ "tile": "owner/g04-barbed-wire-2-tile.png",
+ "tile_mask": "owner/g04-barbed-wire-2-tile-mask.png"
+}

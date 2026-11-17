@@ -1,0 +1,44 @@
+{
+ "id": "g02-glitter-butterfly",
+ "name": "Glitter butterfly",
+ "motif": "butterfly",
+ "styles": [
+  "y2k",
+  "soft-girl",
+  "baddie"
+ ],
+ "mood": [
+  "glitter"
+ ],
+ "size": "small",
+ "families": [
+  "decorated",
+  "print"
+ ],
+ "symmetric": false,
+ "band": false,
+ "kind": "motif",
+ "placement": "chest",
+ "readability": "ok",
+ "source": "owner-generated",
+ "mask": "owner/g02-glitter-butterfly.png",
+ "colour": "owner/g02-glitter-butterfly-colour.png",
+ "ink": "owner/g02-glitter-butterfly-ink.png",
+ "colours": [
+  "#61565E",
+  "#E2D6DD",
+  "#AC9DA6"
+ ],
+ "sheet": "sheet-02",
+ "box": [
+  440,
+  425,
+  660,
+  615
+ ],
+ "license": {
+  "licence": "the store owner's own artwork, generated with ChatGPT; owner holds the rights",
+  "generated": "2026-11-16",
+  "source_url": "styles/references/inbox/sheet-02.png"
+ }
+}

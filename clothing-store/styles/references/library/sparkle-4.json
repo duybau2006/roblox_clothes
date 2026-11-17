@@ -1,0 +1,64 @@
+{
+ "id": "sparkle-4",
+ "name": "Four-point sparkle",
+ "motif": "sparkle",
+ "styles": [
+  "y2k",
+  "baddie",
+  "soft-girl",
+  "christmas",
+  "gen-z",
+  "vamp-goth"
+ ],
+ "mood": [
+  "sparkly"
+ ],
+ "size": "small",
+ "families": [
+  "decorated",
+  "print"
+ ],
+ "symmetric": true,
+ "band": false,
+ "source": "original",
+ "shapes": [
+  {
+   "t": "poly",
+   "pts": [
+    [
+     0.0,
+     -1.0
+    ],
+    [
+     0.1414,
+     -0.1414
+    ],
+    [
+     1.0,
+     -0.0
+    ],
+    [
+     0.1414,
+     0.1414
+    ],
+    [
+     0.0,
+     1.0
+    ],
+    [
+     -0.1414,
+     0.1414
+    ],
+    [
+     -1.0,
+     0.0
+    ],
+    [
+     -0.1414,
+     -0.1414
+    ]
+   ],
+   "tone": 0
+  }
+ ]
+}

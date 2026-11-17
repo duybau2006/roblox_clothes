@@ -1,0 +1,45 @@
+{
+ "id": "g08-rib-stripe",
+ "name": "Rib stripe",
+ "motif": "stripe",
+ "styles": [
+  "preppy",
+  "athleisure"
+ ],
+ "mood": [
+  "sporty"
+ ],
+ "size": "small",
+ "families": [
+  "decorated",
+  "realistic"
+ ],
+ "symmetric": false,
+ "band": false,
+ "kind": "swatch",
+ "placement": "allover",
+ "readability": "ok",
+ "source": "owner-generated",
+ "mask": "owner/g08-rib-stripe.png",
+ "colour": "owner/g08-rib-stripe-colour.png",
+ "ink": "owner/g08-rib-stripe-ink.png",
+ "colours": [
+  "#592C37",
+  "#E9DBCF",
+  "#050203"
+ ],
+ "sheet": "sheet-08",
+ "box": [
+  916,
+  25,
+  1000,
+  245
+ ],
+ "license": {
+  "licence": "the store owner's own artwork, generated with ChatGPT; owner holds the rights",
+  "generated": "2026-11-16",
+  "source_url": "styles/references/inbox/sheet-08.png"
+ },
+ "tile": "owner/g08-rib-stripe-tile.png",
+ "tile_mask": "owner/g08-rib-stripe-tile-mask.png"
+}

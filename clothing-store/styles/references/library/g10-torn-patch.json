@@ -1,0 +1,43 @@
+{
+ "id": "g10-torn-patch",
+ "name": "Torn patch",
+ "motif": "patch",
+ "styles": [
+  "archive",
+  "grunge"
+ ],
+ "mood": [
+  "worn"
+ ],
+ "size": "medium",
+ "families": [
+  "realistic",
+  "decorated"
+ ],
+ "symmetric": false,
+ "band": false,
+ "kind": "part",
+ "placement": "chest",
+ "readability": "ok",
+ "source": "owner-generated",
+ "mask": "owner/g10-torn-patch.png",
+ "colour": "owner/g10-torn-patch-colour.png",
+ "ink": "owner/g10-torn-patch-ink.png",
+ "colours": [
+  "#ADA9A5",
+  "#797676",
+  "#4A474B"
+ ],
+ "sheet": "sheet-10",
+ "box": [
+  855,
+  1045,
+  1035,
+  1245
+ ],
+ "license": {
+  "licence": "the store owner's own artwork, generated with ChatGPT; owner holds the rights",
+  "generated": "2026-11-16",
+  "source_url": "styles/references/inbox/sheet-10.png"
+ }
+}

@@ -1,0 +1,43 @@
+{
+ "id": "g09-teacup",
+ "name": "Teacup",
+ "motif": "teacup",
+ "styles": [
+  "cottagecore",
+  "soft-girl"
+ ],
+ "mood": [
+  "vintage"
+ ],
+ "size": "small",
+ "families": [
+  "decorated",
+  "print"
+ ],
+ "symmetric": false,
+ "band": false,
+ "kind": "motif",
+ "placement": "chest",
+ "readability": "ok",
+ "source": "owner-generated",
+ "mask": "owner/g09-teacup.png",
+ "colour": "owner/g09-teacup-colour.png",
+ "ink": "owner/g09-teacup-ink.png",
+ "colours": [
+  "#E7D0C0",
+  "#BF9A88",
+  "#996C5D"
+ ],
+ "sheet": "sheet-09",
+ "box": [
+  15,
+  415,
+  258,
+  580
+ ],
+ "license": {
+  "licence": "the store owner's own artwork, generated with ChatGPT; owner holds the rights",
+  "generated": "2026-11-16",
+  "source_url": "styles/references/inbox/sheet-09.png"
+ }
+}

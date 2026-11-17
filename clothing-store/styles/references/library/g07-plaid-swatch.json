@@ -1,0 +1,46 @@
+{
+ "id": "g07-plaid-swatch",
+ "name": "Plaid swatch",
+ "motif": "plaid",
+ "styles": [
+  "christmas",
+  "preppy",
+  "soft-girl"
+ ],
+ "mood": [
+  "cozy"
+ ],
+ "size": "small",
+ "families": [
+  "decorated",
+  "realistic"
+ ],
+ "symmetric": false,
+ "band": false,
+ "kind": "swatch",
+ "placement": "allover",
+ "readability": "ok",
+ "source": "owner-generated",
+ "mask": "owner/g07-plaid-swatch.png",
+ "colour": "owner/g07-plaid-swatch-colour.png",
+ "ink": "owner/g07-plaid-swatch-ink.png",
+ "colours": [
+  "#8A5F61",
+  "#70464B",
+  "#BA9795"
+ ],
+ "sheet": "sheet-07",
+ "box": [
+  10,
+  1015,
+  225,
+  1145
+ ],
+ "license": {
+  "licence": "the store owner's own artwork, generated with ChatGPT; owner holds the rights",
+  "generated": "2026-11-16",
+  "source_url": "styles/references/inbox/sheet-07.png"
+ },
+ "tile": "owner/g07-plaid-swatch-tile.png",
+ "tile_mask": "owner/g07-plaid-swatch-tile-mask.png"
+}

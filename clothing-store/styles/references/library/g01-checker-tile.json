@@ -1,0 +1,46 @@
+{
+ "id": "g01-checker-tile",
+ "name": "Checker tile",
+ "motif": "checker",
+ "styles": [
+  "gen-z",
+  "emo",
+  "grunge"
+ ],
+ "mood": [
+  "retro"
+ ],
+ "size": "small",
+ "families": [
+  "decorated",
+  "realistic"
+ ],
+ "symmetric": false,
+ "band": false,
+ "kind": "swatch",
+ "placement": "allover",
+ "readability": "ok",
+ "source": "owner-generated",
+ "mask": "owner/g01-checker-tile.png",
+ "colour": "owner/g01-checker-tile-colour.png",
+ "ink": "owner/g01-checker-tile-ink.png",
+ "colours": [
+  "#434243",
+  "#504F4F",
+  "#5B5B5A"
+ ],
+ "sheet": "sheet-01",
+ "box": [
+  499,
+  1030,
+  705,
+  1240
+ ],
+ "license": {
+  "licence": "the store owner's own artwork, generated with ChatGPT; owner holds the rights",
+  "generated": "2026-11-16",
+  "source_url": "styles/references/inbox/sheet-01.png"
+ },
+ "tile": "owner/g01-checker-tile-tile.png",
+ "tile_mask": "owner/g01-checker-tile-tile-mask.png"
+}

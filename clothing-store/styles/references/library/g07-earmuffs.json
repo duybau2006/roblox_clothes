@@ -1,0 +1,42 @@
+{
+ "id": "g07-earmuffs",
+ "name": "Earmuffs",
+ "motif": "earmuffs",
+ "styles": [
+  "christmas",
+  "soft-girl"
+ ],
+ "mood": [
+  "cozy"
+ ],
+ "size": "small",
+ "families": [
+  "decorated"
+ ],
+ "symmetric": false,
+ "band": false,
+ "kind": "motif",
+ "placement": "chest",
+ "readability": "ok",
+ "source": "owner-generated",
+ "mask": "owner/g07-earmuffs.png",
+ "colour": "owner/g07-earmuffs-colour.png",
+ "ink": "owner/g07-earmuffs-ink.png",
+ "colours": [
+  "#E3D1CB",
+  "#C5A7A3",
+  "#EFE4DE"
+ ],
+ "sheet": "sheet-07",
+ "box": [
+  10,
+  250,
+  250,
+  465
+ ],
+ "license": {
+  "licence": "the store owner's own artwork, generated with ChatGPT; owner holds the rights",
+  "generated": "2026-11-16",
+  "source_url": "styles/references/inbox/sheet-07.png"
+ }
+}

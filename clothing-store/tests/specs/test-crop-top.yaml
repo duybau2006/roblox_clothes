@@ -1,0 +1,39 @@
+id: test-crop-top
+style: y2k-crop-cargo
+audience: fem
+family: decorated
+palette: ["#F7B6D2", "#FFFFFF", "#7FA6CF", "#4A6FA5", "#F2F2F2"]
+
+torso:
+  garment: cropped baby tee
+  palette: ["#F7B6D2", "#FFFFFF", "#FFFFFF"]
+  base_pattern: solid
+  details: [crew collar]
+  hem: plain
+  hem_line: 88           # crop: 12 px gap to the waistband at 100
+
+arms:
+  sleeves: short
+  details: []
+
+legs:
+  garment: light wash straight jeans
+  type: trousers
+  waist_line: 100
+  waistband: plain
+  palette: ["#7FA6CF", "#4A6FA5", "#F2F2F2"]
+  base_pattern: denim
+  details: [belt loops, button, side pockets]
+  shoes: chunky white sneakers
+  shoe_palette: ["#F2F2F2", "#FFFFFF"]
+
+listings:
+  words: {colour: "Pink", garment: "Crop Tee Jeans", style: ["y2k", "cute"]}
+  shirt:
+    name: "Pink Crop Tee Jeans Y2K Cute Outfit Top"
+    description: "A pink cropped baby tee with light wash jeans. Wear it with Pink Crop Tee Jeans Y2K Cute Outfit Pants for the full look."
+  pants:
+    name: "Pink Crop Tee Jeans Y2K Cute Outfit Pants"
+    description: "Light wash straight jeans with white sneakers and the pink crop tee on the torso. Wear them with Pink Crop Tee Jeans Y2K Cute Outfit Top for the full look."
+
+moderation_check: "Ordinary baby tee ending just above a high waistband (12 px gap), no skin-tone fabric, no text or marks."

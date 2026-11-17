@@ -1,0 +1,44 @@
+{
+ "id": "g03-bat",
+ "name": "Bat",
+ "motif": "bat",
+ "styles": [
+  "vamp-goth",
+  "emo",
+  "grunge"
+ ],
+ "mood": [
+  "gothic"
+ ],
+ "size": "small",
+ "families": [
+  "decorated",
+  "print"
+ ],
+ "symmetric": false,
+ "band": false,
+ "kind": "motif",
+ "placement": "chest",
+ "readability": "ok",
+ "source": "owner-generated",
+ "mask": "owner/g03-bat.png",
+ "colour": "owner/g03-bat-colour.png",
+ "ink": "owner/g03-bat-ink.png",
+ "colours": [
+  "#3D3435",
+  "#5F5453",
+  "#7C716F"
+ ],
+ "sheet": "sheet-03",
+ "box": [
+  878,
+  5,
+  1100,
+  125
+ ],
+ "license": {
+  "licence": "the store owner's own artwork, generated with ChatGPT; owner holds the rights",
+  "generated": "2026-11-16",
+  "source_url": "styles/references/inbox/sheet-03.png"
+ }
+}

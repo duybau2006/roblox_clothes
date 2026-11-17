@@ -1,0 +1,47 @@
+{
+ "id": "g06-torn-lace-edge",
+ "name": "Torn lace edge",
+ "motif": "lace",
+ "styles": [
+  "grunge",
+  "vamp-goth",
+  "emo"
+ ],
+ "mood": [
+  "distressed"
+ ],
+ "size": "medium",
+ "families": [
+  "decorated"
+ ],
+ "symmetric": false,
+ "band": true,
+ "kind": "border",
+ "placement": "hem",
+ "readability": "simplified",
+ "source": "owner-generated",
+ "mask": "owner/g06-torn-lace-edge.png",
+ "colour": "owner/g06-torn-lace-edge-colour.png",
+ "ink": "owner/g06-torn-lace-edge-ink.png",
+ "colours": [
+  "#3B3638",
+  "#514D4D",
+  "#676361"
+ ],
+ "sheet": "sheet-06",
+ "box": [
+  5,
+  1145,
+  252,
+  1245
+ ],
+ "license": {
+  "licence": "the store owner's own artwork, generated with ChatGPT; owner holds the rights",
+  "generated": "2026-11-16",
+  "source_url": "styles/references/inbox/sheet-06.png"
+ },
+ "bold": "owner/g06-torn-lace-edge-bold.png",
+ "bold_below": 256,
+ "tile": "owner/g06-torn-lace-edge-tile.png",
+ "tile_mask": "owner/g06-torn-lace-edge-tile-mask.png"
+}

@@ -1,0 +1,44 @@
+{
+ "id": "g06-torn-hole",
+ "name": "Torn hole",
+ "motif": "rip",
+ "styles": [
+  "grunge",
+  "archive",
+  "emo"
+ ],
+ "mood": [
+  "distressed"
+ ],
+ "size": "large",
+ "families": [
+  "decorated",
+  "realistic"
+ ],
+ "symmetric": false,
+ "band": false,
+ "kind": "texture",
+ "placement": "chest",
+ "readability": "ok",
+ "source": "owner-generated",
+ "mask": "owner/g06-torn-hole.png",
+ "colour": "owner/g06-torn-hole-colour.png",
+ "ink": "owner/g06-torn-hole-ink.png",
+ "colours": [
+  "#938D8B",
+  "#312F2F",
+  "#020001"
+ ],
+ "sheet": "sheet-06",
+ "box": [
+  598,
+  350,
+  815,
+  550
+ ],
+ "license": {
+  "licence": "the store owner's own artwork, generated with ChatGPT; owner holds the rights",
+  "generated": "2026-11-16",
+  "source_url": "styles/references/inbox/sheet-06.png"
+ }
+}

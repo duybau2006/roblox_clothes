@@ -1,0 +1,47 @@
+{
+ "id": "g04-star-row",
+ "name": "Star row",
+ "motif": "star",
+ "styles": [
+  "emo",
+  "grunge",
+  "gen-z"
+ ],
+ "mood": [
+  "punk"
+ ],
+ "size": "medium",
+ "families": [
+  "decorated"
+ ],
+ "symmetric": false,
+ "band": true,
+ "kind": "border",
+ "placement": "hem",
+ "readability": "simplified",
+ "source": "owner-generated",
+ "mask": "owner/g04-star-row.png",
+ "colour": "owner/g04-star-row-colour.png",
+ "ink": "owner/g04-star-row-ink.png",
+ "colours": [
+  "#2B292A",
+  "#343232",
+  "#444242"
+ ],
+ "sheet": "sheet-04",
+ "box": [
+  10,
+  1158,
+  292,
+  1230
+ ],
+ "license": {
+  "licence": "the store owner's own artwork, generated with ChatGPT; owner holds the rights",
+  "generated": "2026-11-16",
+  "source_url": "styles/references/inbox/sheet-04.png"
+ },
+ "bold": "owner/g04-star-row-bold.png",
+ "bold_below": 256,
+ "tile": "owner/g04-star-row-tile.png",
+ "tile_mask": "owner/g04-star-row-tile-mask.png"
+}

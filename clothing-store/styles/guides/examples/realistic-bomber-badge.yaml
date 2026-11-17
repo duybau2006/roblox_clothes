@@ -1,0 +1,37 @@
+id: realistic-bomber-badge
+style: archive
+audience: masc
+family: realistic
+palette: ["#4A5236", "#1E1E1E", "#C9A15A", "#E8E4DC"]
+shading: {mode: realistic, seed: 5, wrinkles: 0.9}
+identity:
+  emblem: {frame: shield, element: star-5, colour: "#E8E4DC", accent: "#C9A15A"}
+torso:
+  garment: olive nylon flight jacket with rib collar and hem
+  garment_kind: bomber
+  material: nylon
+  palette: ["#4A5236", "#1E1E1E", "#C9A15A"]
+  base_pattern: solid
+  details: []
+  parts: [collar_stand, zip_full, chest_pocket]
+  hem: rib
+  hem_line: 104
+arms: {sleeves: long, details: [rib cuffs]}
+legs:
+  garment: black cargo trousers and boots
+  type: trousers
+  garment_kind: trousers
+  material: cotton
+  waist_line: 96
+  waistband: plain
+  palette: ["#1E1E1E"]
+  base_pattern: solid
+  parts: [belt, cargo_pockets]
+  shoes: black lace-up boots
+  shoe_style: boot
+  shoe_palette: ["#1E1E1E", "#1E1E1E", "#C9A15A"]
+listings:
+  words: {colour: "Olive", garment: "Flight Jacket", style: ["vintage"]}
+  shirt: {name: "Olive Flight Jacket Vintage Outfit Top", description: "An olive nylon flight jacket with a star shield badge on the chest and a large matching emblem on the back. Wear it with Olive Flight Jacket Vintage Outfit Pants for the full look."}
+  pants: {name: "Olive Flight Jacket Vintage Outfit Pants", description: "Black cargo trousers with a belt and lace-up boots, with the olive flight jacket on the torso. Wear them with Olive Flight Jacket Vintage Outfit Top for the full look."}
+moderation_check: "Invented shield + star emblem from the library; no real air force insignia, flags, ranks, text or brands."

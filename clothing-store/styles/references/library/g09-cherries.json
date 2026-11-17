@@ -1,0 +1,44 @@
+{
+ "id": "g09-cherries",
+ "name": "Cherries",
+ "motif": "cherry",
+ "styles": [
+  "cottagecore",
+  "soft-girl",
+  "baddie"
+ ],
+ "mood": [
+  "sweet"
+ ],
+ "size": "small",
+ "families": [
+  "decorated",
+  "print"
+ ],
+ "symmetric": false,
+ "band": false,
+ "kind": "motif",
+ "placement": "chest",
+ "readability": "ok",
+ "source": "owner-generated",
+ "mask": "owner/g09-cherries.png",
+ "colour": "owner/g09-cherries-colour.png",
+ "ink": "owner/g09-cherries-ink.png",
+ "colours": [
+  "#965D54",
+  "#A6816C",
+  "#BFA48B"
+ ],
+ "sheet": "sheet-09",
+ "box": [
+  510,
+  505,
+  665,
+  650
+ ],
+ "license": {
+  "licence": "the store owner's own artwork, generated with ChatGPT; owner holds the rights",
+  "generated": "2026-11-16",
+  "source_url": "styles/references/inbox/sheet-09.png"
+ }
+}

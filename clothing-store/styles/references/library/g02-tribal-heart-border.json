@@ -1,0 +1,49 @@
+{
+ "id": "g02-tribal-heart-border",
+ "name": "Tribal heart border",
+ "motif": "tribal",
+ "styles": [
+  "y2k",
+  "baddie",
+  "emo"
+ ],
+ "mood": [
+  "chrome",
+  "tribal"
+ ],
+ "size": "medium",
+ "families": [
+  "decorated",
+  "print"
+ ],
+ "symmetric": false,
+ "band": true,
+ "kind": "border",
+ "placement": "hem",
+ "readability": "simplified",
+ "source": "owner-generated",
+ "mask": "owner/g02-tribal-heart-border.png",
+ "colour": "owner/g02-tribal-heart-border-colour.png",
+ "ink": "owner/g02-tribal-heart-border-ink.png",
+ "colours": [
+  "#876F7F",
+  "#B7A1AE",
+  "#E0CFD8"
+ ],
+ "sheet": "sheet-02",
+ "box": [
+  288,
+  635,
+  790,
+  725
+ ],
+ "license": {
+  "licence": "the store owner's own artwork, generated with ChatGPT; owner holds the rights",
+  "generated": "2026-11-16",
+  "source_url": "styles/references/inbox/sheet-02.png"
+ },
+ "bold": "owner/g02-tribal-heart-border-bold.png",
+ "bold_below": 256,
+ "tile": "owner/g02-tribal-heart-border-tile.png",
+ "tile_mask": "owner/g02-tribal-heart-border-tile-mask.png"
+}

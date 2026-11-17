@@ -1,0 +1,47 @@
+{
+ "id": "g02-flame-heart",
+ "name": "Flame heart",
+ "motif": "heart",
+ "styles": [
+  "y2k",
+  "baddie",
+  "emo"
+ ],
+ "mood": [
+  "chrome",
+  "edgy"
+ ],
+ "size": "medium",
+ "families": [
+  "decorated",
+  "print"
+ ],
+ "symmetric": false,
+ "band": false,
+ "kind": "motif",
+ "placement": "chest",
+ "readability": "simplified",
+ "source": "owner-generated",
+ "mask": "owner/g02-flame-heart.png",
+ "colour": "owner/g02-flame-heart-colour.png",
+ "ink": "owner/g02-flame-heart-ink.png",
+ "colours": [
+  "#8D6F81",
+  "#B397A6",
+  "#D6BDCA"
+ ],
+ "sheet": "sheet-02",
+ "box": [
+  255,
+  420,
+  435,
+  615
+ ],
+ "license": {
+  "licence": "the store owner's own artwork, generated with ChatGPT; owner holds the rights",
+  "generated": "2026-11-16",
+  "source_url": "styles/references/inbox/sheet-02.png"
+ },
+ "bold": "owner/g02-flame-heart-bold.png",
+ "bold_below": 48
+}

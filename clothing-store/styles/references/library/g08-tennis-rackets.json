@@ -1,0 +1,43 @@
+{
+ "id": "g08-tennis-rackets",
+ "name": "Tennis rackets",
+ "motif": "tennis",
+ "styles": [
+  "preppy",
+  "athleisure"
+ ],
+ "mood": [
+  "sporty"
+ ],
+ "size": "small",
+ "families": [
+  "decorated",
+  "print"
+ ],
+ "symmetric": false,
+ "band": false,
+ "kind": "motif",
+ "placement": "chest",
+ "readability": "ok",
+ "source": "owner-generated",
+ "mask": "owner/g08-tennis-rackets.png",
+ "colour": "owner/g08-tennis-rackets-colour.png",
+ "ink": "owner/g08-tennis-rackets-ink.png",
+ "colours": [
+  "#D9D0C4",
+  "#5C5657",
+  "#000005"
+ ],
+ "sheet": "sheet-08",
+ "box": [
+  20,
+  275,
+  250,
+  520
+ ],
+ "license": {
+  "licence": "the store owner's own artwork, generated with ChatGPT; owner holds the rights",
+  "generated": "2026-11-16",
+  "source_url": "styles/references/inbox/sheet-08.png"
+ }
+}

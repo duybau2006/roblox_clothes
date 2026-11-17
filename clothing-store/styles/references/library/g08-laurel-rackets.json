@@ -1,0 +1,45 @@
+{
+ "id": "g08-laurel-rackets",
+ "name": "Laurel rackets",
+ "motif": "tennis",
+ "styles": [
+  "preppy",
+  "athleisure"
+ ],
+ "mood": [
+  "sporty"
+ ],
+ "size": "medium",
+ "families": [
+  "decorated",
+  "print"
+ ],
+ "symmetric": false,
+ "band": false,
+ "kind": "motif",
+ "placement": "chest",
+ "readability": "simplified",
+ "source": "owner-generated",
+ "mask": "owner/g08-laurel-rackets.png",
+ "colour": "owner/g08-laurel-rackets-colour.png",
+ "ink": "owner/g08-laurel-rackets-ink.png",
+ "colours": [
+  "#6F655A",
+  "#524241",
+  "#90877B"
+ ],
+ "sheet": "sheet-08",
+ "box": [
+  740,
+  520,
+  990,
+  720
+ ],
+ "license": {
+  "licence": "the store owner's own artwork, generated with ChatGPT; owner holds the rights",
+  "generated": "2026-11-16",
+  "source_url": "styles/references/inbox/sheet-08.png"
+ },
+ "bold": "owner/g08-laurel-rackets-bold.png",
+ "bold_below": 48
+}

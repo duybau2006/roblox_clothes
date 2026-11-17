@@ -1,0 +1,29 @@
+{
+ "source_url": "supplied by the store owner in chat on 2026-11-16 (original source not stated)",
+ "author": "not stated",
+ "licence": "not stated: owner to confirm source and licence before upload",
+ "credit": "unknown",
+ "fetched": "2026-11-16",
+ "provenance": "owner-supplied",
+ "licence_confirmed": false,
+ "id": "own-shade-all",
+ "file": "own-shade-all.png",
+ "raw_name": "1.png + 2.png + 3.jpg",
+ "garment": "shirt + pants",
+ "style": "all three owner templates stacked",
+ "strength": 1.0,
+ "parts": [
+  "torso",
+  "arms",
+  "legs"
+ ],
+ "seams_before": {
+  "failing_pairs": 0,
+  "worst_mean": 1.1
+ },
+ "seams_after": {
+  "failing_pairs": 0,
+  "worst_mean": 1.1
+ },
+ "notes": "stack of own-shade-1 x1.0, own-shade-2 x1.0, own-shade-3 x0.8, gain 0.7"
+}

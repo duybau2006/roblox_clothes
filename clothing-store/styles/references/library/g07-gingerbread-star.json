@@ -1,0 +1,45 @@
+{
+ "id": "g07-gingerbread-star",
+ "name": "Gingerbread star",
+ "motif": "star",
+ "styles": [
+  "christmas",
+  "soft-girl"
+ ],
+ "mood": [
+  "festive"
+ ],
+ "size": "medium",
+ "families": [
+  "decorated",
+  "print"
+ ],
+ "symmetric": false,
+ "band": false,
+ "kind": "motif",
+ "placement": "chest",
+ "readability": "simplified",
+ "source": "owner-generated",
+ "mask": "owner/g07-gingerbread-star.png",
+ "colour": "owner/g07-gingerbread-star-colour.png",
+ "ink": "owner/g07-gingerbread-star-ink.png",
+ "colours": [
+  "#B58E7D",
+  "#DBBFB5",
+  "#EEDFD8"
+ ],
+ "sheet": "sheet-07",
+ "box": [
+  945,
+  475,
+  1105,
+  650
+ ],
+ "license": {
+  "licence": "the store owner's own artwork, generated with ChatGPT; owner holds the rights",
+  "generated": "2026-11-16",
+  "source_url": "styles/references/inbox/sheet-07.png"
+ },
+ "bold": "owner/g07-gingerbread-star-bold.png",
+ "bold_below": 48
+}

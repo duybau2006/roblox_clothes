@@ -1,0 +1,41 @@
+{
+ "id": "g10-tie-tabs",
+ "name": "Tie tabs",
+ "motif": "strap",
+ "styles": [
+  "archive"
+ ],
+ "mood": [
+  "utility"
+ ],
+ "size": "medium",
+ "families": [
+  "realistic"
+ ],
+ "symmetric": false,
+ "band": false,
+ "kind": "part",
+ "placement": "sleeve",
+ "readability": "ok",
+ "source": "owner-generated",
+ "mask": "owner/g10-tie-tabs.png",
+ "colour": "owner/g10-tie-tabs-colour.png",
+ "ink": "owner/g10-tie-tabs-ink.png",
+ "colours": [
+  "#494545",
+  "#988F8A",
+  "#000003"
+ ],
+ "sheet": "sheet-10",
+ "box": [
+  750,
+  1050,
+  840,
+  1245
+ ],
+ "license": {
+  "licence": "the store owner's own artwork, generated with ChatGPT; owner holds the rights",
+  "generated": "2026-11-16",
+  "source_url": "styles/references/inbox/sheet-10.png"
+ }
+}

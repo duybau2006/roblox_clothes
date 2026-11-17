@@ -1,0 +1,44 @@
+{
+ "id": "g04-broken-heart",
+ "name": "Broken heart",
+ "motif": "heart",
+ "styles": [
+  "emo",
+  "grunge",
+  "baddie"
+ ],
+ "mood": [
+  "heartbreak"
+ ],
+ "size": "small",
+ "families": [
+  "decorated",
+  "print"
+ ],
+ "symmetric": false,
+ "band": false,
+ "kind": "motif",
+ "placement": "chest",
+ "readability": "ok",
+ "source": "owner-generated",
+ "mask": "owner/g04-broken-heart.png",
+ "colour": "owner/g04-broken-heart-colour.png",
+ "ink": "owner/g04-broken-heart-ink.png",
+ "colours": [
+  "#2E2A2C",
+  "#463E41",
+  "#766B6F"
+ ],
+ "sheet": "sheet-04",
+ "box": [
+  220,
+  405,
+  415,
+  585
+ ],
+ "license": {
+  "licence": "the store owner's own artwork, generated with ChatGPT; owner holds the rights",
+  "generated": "2026-11-16",
+  "source_url": "styles/references/inbox/sheet-04.png"
+ }
+}

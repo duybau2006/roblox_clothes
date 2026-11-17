@@ -1,0 +1,45 @@
+{
+ "id": "g01-star-outline",
+ "name": "Star outline",
+ "motif": "star",
+ "styles": [
+  "gen-z",
+  "emo",
+  "grunge",
+  "y2k"
+ ],
+ "mood": [
+  "grunge",
+  "sketch"
+ ],
+ "size": "large",
+ "families": [
+  "print"
+ ],
+ "symmetric": false,
+ "band": false,
+ "kind": "motif",
+ "placement": "chest",
+ "readability": "print-size only",
+ "source": "owner-generated",
+ "mask": "owner/g01-star-outline.png",
+ "colour": "owner/g01-star-outline-colour.png",
+ "ink": "owner/g01-star-outline-ink.png",
+ "colours": [
+  "#494748",
+  "#545253",
+  "#5E5D5D"
+ ],
+ "sheet": "sheet-01",
+ "box": [
+  28,
+  375,
+  177,
+  510
+ ],
+ "license": {
+  "licence": "the store owner's own artwork, generated with ChatGPT; owner holds the rights",
+  "generated": "2026-11-16",
+  "source_url": "styles/references/inbox/sheet-01.png"
+ }
+}

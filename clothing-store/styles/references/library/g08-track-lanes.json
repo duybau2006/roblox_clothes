@@ -1,0 +1,44 @@
+{
+ "id": "g08-track-lanes",
+ "name": "Track lanes",
+ "motif": "stripe",
+ "styles": [
+  "athleisure",
+  "preppy",
+  "gen-z"
+ ],
+ "mood": [
+  "sporty"
+ ],
+ "size": "small",
+ "families": [
+  "decorated",
+  "print"
+ ],
+ "symmetric": false,
+ "band": false,
+ "kind": "motif",
+ "placement": "sleeve",
+ "readability": "ok",
+ "source": "owner-generated",
+ "mask": "owner/g08-track-lanes.png",
+ "colour": "owner/g08-track-lanes-colour.png",
+ "ink": "owner/g08-track-lanes-ink.png",
+ "colours": [
+  "#673642",
+  "#5D2B39",
+  "#73434D"
+ ],
+ "sheet": "sheet-08",
+ "box": [
+  10,
+  540,
+  342,
+  690
+ ],
+ "license": {
+  "licence": "the store owner's own artwork, generated with ChatGPT; owner holds the rights",
+  "generated": "2026-11-16",
+  "source_url": "styles/references/inbox/sheet-08.png"
+ }
+}

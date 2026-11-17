@@ -1,0 +1,44 @@
+{
+ "id": "g03-velvet-bow",
+ "name": "Velvet bow",
+ "motif": "bow",
+ "styles": [
+  "vamp-goth",
+  "soft-girl",
+  "cottagecore"
+ ],
+ "mood": [
+  "romantic"
+ ],
+ "size": "small",
+ "families": [
+  "decorated",
+  "print"
+ ],
+ "symmetric": false,
+ "band": false,
+ "kind": "motif",
+ "placement": "chest",
+ "readability": "ok",
+ "source": "owner-generated",
+ "mask": "owner/g03-velvet-bow.png",
+ "colour": "owner/g03-velvet-bow-colour.png",
+ "ink": "owner/g03-velvet-bow-ink.png",
+ "colours": [
+  "#443236",
+  "#62484E",
+  "#785B60"
+ ],
+ "sheet": "sheet-03",
+ "box": [
+  708,
+  895,
+  865,
+  1125
+ ],
+ "license": {
+  "licence": "the store owner's own artwork, generated with ChatGPT; owner holds the rights",
+  "generated": "2026-11-16",
+  "source_url": "styles/references/inbox/sheet-03.png"
+ }
+}

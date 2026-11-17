@@ -1,0 +1,56 @@
+{
+ "id": "arrow-up",
+ "name": "Arrow",
+ "motif": "arrow",
+ "styles": [
+  "athleisure",
+  "gen-z"
+ ],
+ "mood": [
+  "sporty"
+ ],
+ "size": "small",
+ "families": [
+  "decorated",
+  "print"
+ ],
+ "symmetric": true,
+ "band": false,
+ "source": "original",
+ "shapes": [
+  {
+   "t": "poly",
+   "pts": [
+    [
+     0,
+     -1
+    ],
+    [
+     0.65,
+     -0.25
+    ],
+    [
+     0.25,
+     -0.25
+    ],
+    [
+     0.25,
+     0.95
+    ],
+    [
+     -0.25,
+     0.95
+    ],
+    [
+     -0.25,
+     -0.25
+    ],
+    [
+     -0.65,
+     -0.25
+    ]
+   ],
+   "tone": 0
+  }
+ ]
+}

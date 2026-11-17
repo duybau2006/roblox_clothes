@@ -1,0 +1,45 @@
+{
+ "id": "g02-sparkle-cluster",
+ "name": "Sparkle cluster",
+ "motif": "sparkle",
+ "styles": [
+  "y2k",
+  "baddie",
+  "soft-girl"
+ ],
+ "mood": [
+  "glint"
+ ],
+ "size": "large",
+ "families": [
+  "print"
+ ],
+ "symmetric": false,
+ "band": false,
+ "kind": "motif",
+ "placement": "chest",
+ "readability": "print-size only",
+ "source": "owner-generated",
+ "mask": "owner/g02-sparkle-cluster.png",
+ "colour": "owner/g02-sparkle-cluster-colour.png",
+ "ink": "owner/g02-sparkle-cluster-ink.png",
+ "colours": [
+  "#715F6C",
+  "#AD9BA7",
+  "#DFCFD9"
+ ],
+ "sheet": "sheet-02",
+ "box": [
+  380,
+  1100,
+  700,
+  1210
+ ],
+ "license": {
+  "licence": "the store owner's own artwork, generated with ChatGPT; owner holds the rights",
+  "generated": "2026-11-16",
+  "source_url": "styles/references/inbox/sheet-02.png"
+ },
+ "bold": "owner/g02-sparkle-cluster-bold.png",
+ "bold_below": 48
+}

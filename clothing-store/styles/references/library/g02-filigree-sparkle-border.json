@@ -1,0 +1,48 @@
+{
+ "id": "g02-filigree-sparkle-border",
+ "name": "Filigree sparkle border",
+ "motif": "filigree",
+ "styles": [
+  "y2k",
+  "baddie",
+  "vamp-goth"
+ ],
+ "mood": [
+  "ornate"
+ ],
+ "size": "medium",
+ "families": [
+  "decorated",
+  "print"
+ ],
+ "symmetric": false,
+ "band": true,
+ "kind": "border",
+ "placement": "hem",
+ "readability": "simplified",
+ "source": "owner-generated",
+ "mask": "owner/g02-filigree-sparkle-border.png",
+ "colour": "owner/g02-filigree-sparkle-border-colour.png",
+ "ink": "owner/g02-filigree-sparkle-border-ink.png",
+ "colours": [
+  "#6B5D68",
+  "#BCB0B8",
+  "#0A000B"
+ ],
+ "sheet": "sheet-02",
+ "box": [
+  10,
+  1100,
+  365,
+  1210
+ ],
+ "license": {
+  "licence": "the store owner's own artwork, generated with ChatGPT; owner holds the rights",
+  "generated": "2026-11-16",
+  "source_url": "styles/references/inbox/sheet-02.png"
+ },
+ "bold": "owner/g02-filigree-sparkle-border-bold.png",
+ "bold_below": 256,
+ "tile": "owner/g02-filigree-sparkle-border-tile.png",
+ "tile_mask": "owner/g02-filigree-sparkle-border-tile-mask.png"
+}

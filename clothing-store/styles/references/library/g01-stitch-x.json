@@ -1,0 +1,47 @@
+{
+ "id": "g01-stitch-x",
+ "name": "Stitch x",
+ "motif": "stitch",
+ "styles": [
+  "gen-z",
+  "grunge",
+  "archive",
+  "emo"
+ ],
+ "mood": [
+  "handmade"
+ ],
+ "size": "medium",
+ "families": [
+  "decorated",
+  "realistic"
+ ],
+ "symmetric": false,
+ "band": false,
+ "kind": "motif",
+ "placement": "sleeve",
+ "readability": "simplified",
+ "source": "owner-generated",
+ "mask": "owner/g01-stitch-x.png",
+ "colour": "owner/g01-stitch-x-colour.png",
+ "ink": "owner/g01-stitch-x-ink.png",
+ "colours": [
+  "#464345",
+  "#525051",
+  "#5D5C5C"
+ ],
+ "sheet": "sheet-01",
+ "box": [
+  838,
+  880,
+  957,
+  984
+ ],
+ "license": {
+  "licence": "the store owner's own artwork, generated with ChatGPT; owner holds the rights",
+  "generated": "2026-11-16",
+  "source_url": "styles/references/inbox/sheet-01.png"
+ },
+ "bold": "owner/g01-stitch-x-bold.png",
+ "bold_below": 48
+}

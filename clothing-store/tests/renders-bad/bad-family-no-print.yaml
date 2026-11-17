@@ -1,0 +1,65 @@
+id: bad-family-no-print
+style: streetwear-hoodie-set
+blend_with: ''
+audience: unisex
+family: print
+palette:
+- '#8E9199'
+- '#80838B'
+- '#ECECEC'
+- '#F2F2F2'
+- '#CFCFCF'
+torso:
+  garment: plain pullover hoodie
+  palette:
+  - '#8E9199'
+  - '#80838B'
+  - '#ECECEC'
+  base_pattern: solid
+  details:
+  - hood
+  - drawstrings
+  - kangaroo pocket
+  hem: rib
+  hem_line: 112
+arms:
+  details:
+  - ribbed cuffs
+  sleeves: long
+  mirror: true
+legs:
+  garment: jogger sweatpants
+  type: trousers
+  waist_line: 96
+  waistband: elastic
+  palette:
+  - '#8E9199'
+  - '#80838B'
+  - '#ECECEC'
+  base_pattern: solid
+  details:
+  - side pockets
+  - cuffed ankles
+  shoes: plain white sneakers
+  shoe_palette:
+  - '#F2F2F2'
+  - '#CFCFCF'
+  mirror: true
+listings:
+  words:
+    colour: Grey
+    garment: Hoodie Jogger
+    style:
+    - aesthetic
+  shirt:
+    name: Grey Hoodie Jogger Aesthetic Outfit Top
+    description: A plain heather grey hoodie outfit with hood, drawstrings and kangaroo
+      pocket. Wear it with Grey Hoodie Jogger Aesthetic Outfit Pants for the full
+      look.
+  pants:
+    name: Grey Hoodie Jogger Aesthetic Outfit Pants
+    description: Plain heather grey joggers with cuffed ankles and white sneakers,
+      with the matching hoodie on the torso. Wear them with Grey Hoodie Jogger Aesthetic
+      Outfit Top for the full look.
+moderation_check: No brands, marks, text or skin-tone fabric; ordinary fully covering
+  hoodie and joggers.

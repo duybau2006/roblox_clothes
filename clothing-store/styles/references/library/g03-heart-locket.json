@@ -1,0 +1,45 @@
+{
+ "id": "g03-heart-locket",
+ "name": "Heart locket",
+ "motif": "heart",
+ "styles": [
+  "vamp-goth",
+  "soft-girl",
+  "emo"
+ ],
+ "mood": [
+  "romantic"
+ ],
+ "size": "medium",
+ "families": [
+  "decorated"
+ ],
+ "symmetric": false,
+ "band": false,
+ "kind": "motif",
+ "placement": "chest",
+ "readability": "simplified",
+ "source": "owner-generated",
+ "mask": "owner/g03-heart-locket.png",
+ "colour": "owner/g03-heart-locket-colour.png",
+ "ink": "owner/g03-heart-locket-ink.png",
+ "colours": [
+  "#4A373B",
+  "#685858",
+  "#8C7F7B"
+ ],
+ "sheet": "sheet-03",
+ "box": [
+  360,
+  815,
+  440,
+  965
+ ],
+ "license": {
+  "licence": "the store owner's own artwork, generated with ChatGPT; owner holds the rights",
+  "generated": "2026-11-16",
+  "source_url": "styles/references/inbox/sheet-03.png"
+ },
+ "bold": "owner/g03-heart-locket-bold.png",
+ "bold_below": 48
+}

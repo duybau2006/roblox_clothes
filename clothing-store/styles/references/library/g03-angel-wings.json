@@ -1,0 +1,45 @@
+{
+ "id": "g03-angel-wings",
+ "name": "Angel wings",
+ "motif": "wings",
+ "styles": [
+  "vamp-goth",
+  "y2k",
+  "soft-girl",
+  "emo"
+ ],
+ "mood": [
+  "ethereal"
+ ],
+ "size": "large",
+ "families": [
+  "print",
+  "decorated"
+ ],
+ "symmetric": false,
+ "band": false,
+ "kind": "hero",
+ "placement": "back",
+ "readability": "ok",
+ "source": "owner-generated",
+ "mask": "owner/g03-angel-wings.png",
+ "colour": "owner/g03-angel-wings-colour.png",
+ "ink": "owner/g03-angel-wings-ink.png",
+ "colours": [
+  "#615253",
+  "#9A8A88",
+  "#B9AAA5"
+ ],
+ "sheet": "sheet-03",
+ "box": [
+  8,
+  805,
+  355,
+  980
+ ],
+ "license": {
+  "licence": "the store owner's own artwork, generated with ChatGPT; owner holds the rights",
+  "generated": "2026-11-16",
+  "source_url": "styles/references/inbox/sheet-03.png"
+ }
+}

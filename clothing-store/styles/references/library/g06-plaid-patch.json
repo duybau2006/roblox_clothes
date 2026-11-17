@@ -1,0 +1,45 @@
+{
+ "id": "g06-plaid-patch",
+ "name": "Plaid patch",
+ "motif": "plaid",
+ "styles": [
+  "grunge",
+  "emo"
+ ],
+ "mood": [
+  "worn"
+ ],
+ "size": "small",
+ "families": [
+  "decorated",
+  "realistic"
+ ],
+ "symmetric": false,
+ "band": false,
+ "kind": "swatch",
+ "placement": "allover",
+ "readability": "ok",
+ "source": "owner-generated",
+ "mask": "owner/g06-plaid-patch.png",
+ "colour": "owner/g06-plaid-patch-colour.png",
+ "ink": "owner/g06-plaid-patch-ink.png",
+ "colours": [
+  "#3B343A",
+  "#665D64",
+  "#272327"
+ ],
+ "sheet": "sheet-06",
+ "box": [
+  8,
+  630,
+  250,
+  820
+ ],
+ "license": {
+  "licence": "the store owner's own artwork, generated with ChatGPT; owner holds the rights",
+  "generated": "2026-11-16",
+  "source_url": "styles/references/inbox/sheet-06.png"
+ },
+ "tile": "owner/g06-plaid-patch-tile.png",
+ "tile_mask": "owner/g06-plaid-patch-tile-mask.png"
+}

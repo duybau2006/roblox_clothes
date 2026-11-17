@@ -1,0 +1,68 @@
+id: guide-archive
+style: archive
+blend_with: ''
+audience: masc
+family: decorated
+palette:
+- '#1A1A1A'
+- '#3A3A3A'
+- '#8A8580'
+torso:
+  garment: washed black long tee
+  palette:
+  - '#1A1A1A'
+  - '#3A3A3A'
+  base_pattern: solid
+  details:
+  - crew collar
+  hem: plain
+  hem_line: 118
+  decor:
+  - motif: stitch
+    layout: stitch
+    colour: '#8A8580'
+arms:
+  sleeves: short
+  under:
+    palette:
+    - '#8A8580'
+    - '#3A3A3A'
+    base_pattern: solid
+    details:
+    - ribbed cuffs
+legs:
+  garment: charcoal wide trousers
+  type: trousers
+  waist_line: 96
+  waistband: none
+  palette:
+  - '#3A3A3A'
+  - '#1A1A1A'
+  base_pattern: solid
+  details: []
+  shoes: black boots
+  shoe_palette:
+  - '#1A1A1A'
+  - '#3A3A3A'
+  decor:
+  - motif: stitch
+    layout: stitch
+    colour: '#8A8580'
+  - motif: patch
+    layout: patch
+    colour: '#1A1A1A'
+    accent: '#8A8580'
+    size: 8
+listings:
+  words:
+    colour: Black
+    garment: Long Tee Trousers
+    style:
+    - goth
+  shirt:
+    name: Black Long Tee Trousers Goth Outfit Top
+    description: A washed black long-line tee layered over an ash grey long sleeve. Wear it with Black Long Tee Trousers Goth Outfit Pants for the full look.
+  pants:
+    name: Black Long Tee Trousers Goth Outfit Pants
+    description: Charcoal wide trousers with black boots, with the layered long tee on the torso. Wear them with Black Long Tee Trousers Goth Outfit Top for the full look.
+moderation_check: Monochrome layering, no designer names, logos or symbols.

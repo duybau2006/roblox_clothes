@@ -1,0 +1,45 @@
+{
+ "id": "g05-rhinestone-orbit-star",
+ "name": "Rhinestone orbit star",
+ "motif": "star",
+ "styles": [
+  "baddie",
+  "y2k"
+ ],
+ "mood": [
+  "rhinestone"
+ ],
+ "size": "medium",
+ "families": [
+  "print",
+  "decorated"
+ ],
+ "symmetric": false,
+ "band": false,
+ "kind": "hero",
+ "placement": "back",
+ "readability": "simplified",
+ "source": "owner-generated",
+ "mask": "owner/g05-rhinestone-orbit-star.png",
+ "colour": "owner/g05-rhinestone-orbit-star-colour.png",
+ "ink": "owner/g05-rhinestone-orbit-star-ink.png",
+ "colours": [
+  "#C6B8BC",
+  "#726067",
+  "#0A0005"
+ ],
+ "sheet": "sheet-05",
+ "box": [
+  200,
+  360,
+  560,
+  560
+ ],
+ "license": {
+  "licence": "the store owner's own artwork, generated with ChatGPT; owner holds the rights",
+  "generated": "2026-11-16",
+  "source_url": "styles/references/inbox/sheet-05.png"
+ },
+ "bold": "owner/g05-rhinestone-orbit-star-bold.png",
+ "bold_below": 70
+}

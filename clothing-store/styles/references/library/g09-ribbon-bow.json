@@ -1,0 +1,46 @@
+{
+ "id": "g09-ribbon-bow",
+ "name": "Ribbon bow",
+ "motif": "bow",
+ "styles": [
+  "cottagecore",
+  "soft-girl",
+  "preppy"
+ ],
+ "mood": [
+  "romantic"
+ ],
+ "size": "medium",
+ "families": [
+  "decorated",
+  "print"
+ ],
+ "symmetric": false,
+ "band": false,
+ "kind": "motif",
+ "placement": "chest",
+ "readability": "simplified",
+ "source": "owner-generated",
+ "mask": "owner/g09-ribbon-bow.png",
+ "colour": "owner/g09-ribbon-bow-colour.png",
+ "ink": "owner/g09-ribbon-bow-ink.png",
+ "colours": [
+  "#AF7976",
+  "#D1A7A0",
+  "#E3C3BB"
+ ],
+ "sheet": "sheet-09",
+ "box": [
+  545,
+  315,
+  900,
+  560
+ ],
+ "license": {
+  "licence": "the store owner's own artwork, generated with ChatGPT; owner holds the rights",
+  "generated": "2026-11-16",
+  "source_url": "styles/references/inbox/sheet-09.png"
+ },
+ "bold": "owner/g09-ribbon-bow-bold.png",
+ "bold_below": 48
+}

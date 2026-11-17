@@ -1,0 +1,25 @@
+id: test-cargo-bottom-only
+style: gen-z
+audience: unisex
+family: realistic
+coverage: bottom_only
+palette: ["#6B6B4E", "#1A1A1A", "#F2F0EB"]
+shading: {mode: realistic, seed: 13}
+torso: {}
+arms: {}
+legs:
+  garment: khaki cargo trousers with white sneakers
+  type: trousers
+  garment_kind: trousers
+  material: cotton
+  waist_line: 96
+  waistband: plain
+  palette: ["#6B6B4E"]
+  parts: [belt, cargo_pockets]
+  shoes: white sneakers
+  shoe_style: sneaker
+  shoe_palette: ["#F2F0EB", "#F2F0EB", "#1A1A1A"]
+listings:
+  words: {colour: "Khaki", garment: "Cargo Pants", style: ["swag"]}
+  pants: {name: "Khaki Cargo Pants Swag Pants", description: "Khaki cargo trousers with a belt, side pockets and white sneakers; wear them with any top."}
+moderation_check: "Separate bottoms; torso above the waist left transparent."

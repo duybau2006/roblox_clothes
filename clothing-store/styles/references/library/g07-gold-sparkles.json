@@ -1,0 +1,44 @@
+{
+ "id": "g07-gold-sparkles",
+ "name": "Gold sparkles",
+ "motif": "sparkle",
+ "styles": [
+  "christmas",
+  "soft-girl"
+ ],
+ "mood": [
+  "glint"
+ ],
+ "size": "medium",
+ "families": [
+  "decorated"
+ ],
+ "symmetric": false,
+ "band": false,
+ "kind": "motif",
+ "placement": "sleeve",
+ "readability": "simplified",
+ "source": "owner-generated",
+ "mask": "owner/g07-gold-sparkles.png",
+ "colour": "owner/g07-gold-sparkles-colour.png",
+ "ink": "owner/g07-gold-sparkles-ink.png",
+ "colours": [
+  "#C3A279",
+  "#E0C9A9",
+  "#F1E6D5"
+ ],
+ "sheet": "sheet-07",
+ "box": [
+  1128,
+  470,
+  1235,
+  615
+ ],
+ "license": {
+  "licence": "the store owner's own artwork, generated with ChatGPT; owner holds the rights",
+  "generated": "2026-11-16",
+  "source_url": "styles/references/inbox/sheet-07.png"
+ },
+ "bold": "owner/g07-gold-sparkles-bold.png",
+ "bold_below": 48
+}

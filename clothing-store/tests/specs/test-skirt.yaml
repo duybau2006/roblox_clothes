@@ -1,0 +1,43 @@
+id: test-skirt
+style: preppy-old-money
+blend_with: soft-girl
+audience: fem
+family: decorated
+palette: ["#F3EBDD", "#1C2A4A", "#8B1E2D", "#FFFFFF", "#111111"]
+
+torso:
+  garment: cream knit sweater
+  palette: ["#F3EBDD", "#1C2A4A"]
+  base_pattern: knit
+  details: [crew collar]
+  hem: rib
+  hem_line: 104
+
+arms:
+  details: [ribbed cuffs]
+
+legs:
+  garment: pleated plaid skirt
+  type: skirt
+  waist_line: 96
+  waistband: plain
+  palette: ["#1C2A4A", "#8B1E2D", "#FFFFFF"]
+  base_pattern: plaid
+  details: [pleats]
+  skirt_length: 44
+  legwear: socks
+  legwear_palette: ["#FFFFFF"]
+  sock_top: 72
+  shoes: black loafers
+  shoe_palette: ["#111111", "#111111"]
+
+listings:
+  words: {colour: "Cream", garment: "Sweater Plaid Skirt", style: ["preppy", "cute"]}
+  shirt:
+    name: "Cream Sweater Plaid Skirt Preppy Cute Outfit Top"
+    description: "A cream knit sweater over a navy plaid pleated skirt. Wear it with Cream Sweater Plaid Skirt Preppy Cute Outfit Pants for the full look."
+  pants:
+    name: "Cream Sweater Plaid Skirt Preppy Cute Outfit Pants"
+    description: "A navy plaid pleated skirt with white knee socks and black loafers. Wear it with Cream Sweater Plaid Skirt Preppy Cute Outfit Top for the full look."
+
+moderation_check: "Knee-length-look pleated skirt (44 px of 128), opaque white socks, no skin-tone fabric, no text or marks."

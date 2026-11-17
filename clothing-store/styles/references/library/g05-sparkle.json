@@ -1,0 +1,42 @@
+{
+ "id": "g05-sparkle",
+ "name": "Sparkle",
+ "motif": "sparkle",
+ "styles": [
+  "baddie",
+  "y2k"
+ ],
+ "mood": [
+  "glint"
+ ],
+ "size": "small",
+ "families": [
+  "decorated"
+ ],
+ "symmetric": false,
+ "band": false,
+ "kind": "motif",
+ "placement": "sleeve",
+ "readability": "ok",
+ "source": "owner-generated",
+ "mask": "owner/g05-sparkle.png",
+ "colour": "owner/g05-sparkle-colour.png",
+ "ink": "owner/g05-sparkle-ink.png",
+ "colours": [
+  "#65545C",
+  "#B59CA7",
+  "#E7D5DD"
+ ],
+ "sheet": "sheet-05",
+ "box": [
+  1115,
+  360,
+  1225,
+  490
+ ],
+ "license": {
+  "licence": "the store owner's own artwork, generated with ChatGPT; owner holds the rights",
+  "generated": "2026-11-16",
+  "source_url": "styles/references/inbox/sheet-05.png"
+ }
+}

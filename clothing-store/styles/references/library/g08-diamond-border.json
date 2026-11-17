@@ -1,0 +1,44 @@
+{
+ "id": "g08-diamond-border",
+ "name": "Diamond border",
+ "motif": "argyle",
+ "styles": [
+  "preppy"
+ ],
+ "mood": [
+  "classic"
+ ],
+ "size": "small",
+ "families": [
+  "decorated",
+  "realistic"
+ ],
+ "symmetric": false,
+ "band": true,
+ "kind": "border",
+ "placement": "hem",
+ "readability": "ok",
+ "source": "owner-generated",
+ "mask": "owner/g08-diamond-border.png",
+ "colour": "owner/g08-diamond-border-colour.png",
+ "ink": "owner/g08-diamond-border-ink.png",
+ "colours": [
+  "#333A4A",
+  "#CEC4BA",
+  "#212636"
+ ],
+ "sheet": "sheet-08",
+ "box": [
+  937,
+  1065,
+  1248,
+  1163
+ ],
+ "license": {
+  "licence": "the store owner's own artwork, generated with ChatGPT; owner holds the rights",
+  "generated": "2026-11-16",
+  "source_url": "styles/references/inbox/sheet-08.png"
+ },
+ "tile": "owner/g08-diamond-border-tile.png",
+ "tile_mask": "owner/g08-diamond-border-tile-mask.png"
+}

@@ -1,0 +1,45 @@
+{
+ "id": "g09-strawberry-flowers",
+ "name": "Strawberry flowers",
+ "motif": "strawberry",
+ "styles": [
+  "cottagecore",
+  "soft-girl"
+ ],
+ "mood": [
+  "sweet"
+ ],
+ "size": "medium",
+ "families": [
+  "decorated",
+  "print"
+ ],
+ "symmetric": false,
+ "band": false,
+ "kind": "motif",
+ "placement": "chest",
+ "readability": "simplified",
+ "source": "owner-generated",
+ "mask": "owner/g09-strawberry-flowers.png",
+ "colour": "owner/g09-strawberry-flowers-colour.png",
+ "ink": "owner/g09-strawberry-flowers-ink.png",
+ "colours": [
+  "#906953",
+  "#B29175",
+  "#DDC0AD"
+ ],
+ "sheet": "sheet-09",
+ "box": [
+  18,
+  575,
+  305,
+  740
+ ],
+ "license": {
+  "licence": "the store owner's own artwork, generated with ChatGPT; owner holds the rights",
+  "generated": "2026-11-16",
+  "source_url": "styles/references/inbox/sheet-09.png"
+ },
+ "bold": "owner/g09-strawberry-flowers-bold.png",
+ "bold_below": 48
+}

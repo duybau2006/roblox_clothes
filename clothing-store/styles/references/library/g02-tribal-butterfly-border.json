@@ -1,0 +1,48 @@
+{
+ "id": "g02-tribal-butterfly-border",
+ "name": "Tribal butterfly border",
+ "motif": "butterfly",
+ "styles": [
+  "y2k",
+  "baddie"
+ ],
+ "mood": [
+  "chrome",
+  "tribal"
+ ],
+ "size": "medium",
+ "families": [
+  "decorated",
+  "print"
+ ],
+ "symmetric": false,
+ "band": true,
+ "kind": "border",
+ "placement": "hem",
+ "readability": "simplified",
+ "source": "owner-generated",
+ "mask": "owner/g02-tribal-butterfly-border.png",
+ "colour": "owner/g02-tribal-butterfly-border-colour.png",
+ "ink": "owner/g02-tribal-butterfly-border-ink.png",
+ "colours": [
+  "#695C67",
+  "#978D95",
+  "#C2B9BF"
+ ],
+ "sheet": "sheet-02",
+ "box": [
+  745,
+  890,
+  1200,
+  985
+ ],
+ "license": {
+  "licence": "the store owner's own artwork, generated with ChatGPT; owner holds the rights",
+  "generated": "2026-11-16",
+  "source_url": "styles/references/inbox/sheet-02.png"
+ },
+ "bold": "owner/g02-tribal-butterfly-border-bold.png",
+ "bold_below": 256,
+ "tile": "owner/g02-tribal-butterfly-border-tile.png",
+ "tile_mask": "owner/g02-tribal-butterfly-border-tile-mask.png"
+}

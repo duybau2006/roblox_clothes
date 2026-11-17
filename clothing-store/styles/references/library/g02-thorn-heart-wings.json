@@ -1,0 +1,47 @@
+{
+ "id": "g02-thorn-heart-wings",
+ "name": "Thorn heart wings",
+ "motif": "heart",
+ "styles": [
+  "y2k",
+  "baddie",
+  "vamp-goth"
+ ],
+ "mood": [
+  "chrome",
+  "tribal"
+ ],
+ "size": "medium",
+ "families": [
+  "print",
+  "decorated"
+ ],
+ "symmetric": false,
+ "band": false,
+ "kind": "hero",
+ "placement": "back",
+ "readability": "simplified",
+ "source": "owner-generated",
+ "mask": "owner/g02-thorn-heart-wings.png",
+ "colour": "owner/g02-thorn-heart-wings-colour.png",
+ "ink": "owner/g02-thorn-heart-wings-ink.png",
+ "colours": [
+  "#655A63",
+  "#9E9299",
+  "#D0C5CC"
+ ],
+ "sheet": "sheet-02",
+ "box": [
+  275,
+  225,
+  550,
+  430
+ ],
+ "license": {
+  "licence": "the store owner's own artwork, generated with ChatGPT; owner holds the rights",
+  "generated": "2026-11-16",
+  "source_url": "styles/references/inbox/sheet-02.png"
+ },
+ "bold": "owner/g02-thorn-heart-wings-bold.png",
+ "bold_below": 70
+}

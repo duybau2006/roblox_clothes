@@ -1,0 +1,46 @@
+{
+ "id": "g06-fleur",
+ "name": "Fleur",
+ "motif": "fleur",
+ "styles": [
+  "grunge",
+  "vamp-goth",
+  "archive"
+ ],
+ "mood": [
+  "ornate"
+ ],
+ "size": "medium",
+ "families": [
+  "decorated",
+  "print"
+ ],
+ "symmetric": false,
+ "band": false,
+ "kind": "motif",
+ "placement": "chest",
+ "readability": "simplified",
+ "source": "owner-generated",
+ "mask": "owner/g06-fleur.png",
+ "colour": "owner/g06-fleur-colour.png",
+ "ink": "owner/g06-fleur-ink.png",
+ "colours": [
+  "#484241",
+  "#817977",
+  "#BDB5B1"
+ ],
+ "sheet": "sheet-06",
+ "box": [
+  230,
+  928,
+  405,
+  1138
+ ],
+ "license": {
+  "licence": "the store owner's own artwork, generated with ChatGPT; owner holds the rights",
+  "generated": "2026-11-16",
+  "source_url": "styles/references/inbox/sheet-06.png"
+ },
+ "bold": "owner/g06-fleur-bold.png",
+ "bold_below": 48
+}

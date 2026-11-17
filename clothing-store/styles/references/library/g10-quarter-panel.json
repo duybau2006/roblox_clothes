@@ -1,0 +1,41 @@
+{
+ "id": "g10-quarter-panel",
+ "name": "Quarter panel",
+ "motif": "panel",
+ "styles": [
+  "archive"
+ ],
+ "mood": [
+  "deconstructed"
+ ],
+ "size": "medium",
+ "families": [
+  "realistic"
+ ],
+ "symmetric": false,
+ "band": false,
+ "kind": "part",
+ "placement": "allover",
+ "readability": "ok",
+ "source": "owner-generated",
+ "mask": "owner/g10-quarter-panel.png",
+ "colour": "owner/g10-quarter-panel-colour.png",
+ "ink": "owner/g10-quarter-panel-ink.png",
+ "colours": [
+  "#BBB5B1",
+  "#302E30",
+  "#6A6666"
+ ],
+ "sheet": "sheet-10",
+ "box": [
+  1040,
+  1045,
+  1250,
+  1245
+ ],
+ "license": {
+  "licence": "the store owner's own artwork, generated with ChatGPT; owner holds the rights",
+  "generated": "2026-11-16",
+  "source_url": "styles/references/inbox/sheet-10.png"
+ }
+}

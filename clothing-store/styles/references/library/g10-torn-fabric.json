@@ -1,0 +1,43 @@
+{
+ "id": "g10-torn-fabric",
+ "name": "Torn fabric",
+ "motif": "rip",
+ "styles": [
+  "archive",
+  "grunge"
+ ],
+ "mood": [
+  "distressed"
+ ],
+ "size": "large",
+ "families": [
+  "decorated",
+  "realistic"
+ ],
+ "symmetric": false,
+ "band": false,
+ "kind": "texture",
+ "placement": "chest",
+ "readability": "ok",
+ "source": "owner-generated",
+ "mask": "owner/g10-torn-fabric.png",
+ "colour": "owner/g10-torn-fabric-colour.png",
+ "ink": "owner/g10-torn-fabric-ink.png",
+ "colours": [
+  "#A29B94",
+  "#534D4B",
+  "#060001"
+ ],
+ "sheet": "sheet-10",
+ "box": [
+  420,
+  330,
+  728,
+  510
+ ],
+ "license": {
+  "licence": "the store owner's own artwork, generated with ChatGPT; owner holds the rights",
+  "generated": "2026-11-16",
+  "source_url": "styles/references/inbox/sheet-10.png"
+ }
+}

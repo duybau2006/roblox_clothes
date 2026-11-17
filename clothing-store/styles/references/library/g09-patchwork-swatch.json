@@ -1,0 +1,45 @@
+{
+ "id": "g09-patchwork-swatch",
+ "name": "Patchwork swatch",
+ "motif": "patchwork",
+ "styles": [
+  "cottagecore",
+  "soft-girl"
+ ],
+ "mood": [
+  "handmade"
+ ],
+ "size": "small",
+ "families": [
+  "decorated",
+  "realistic"
+ ],
+ "symmetric": false,
+ "band": false,
+ "kind": "swatch",
+ "placement": "allover",
+ "readability": "ok",
+ "source": "owner-generated",
+ "mask": "owner/g09-patchwork-swatch.png",
+ "colour": "owner/g09-patchwork-swatch-colour.png",
+ "ink": "owner/g09-patchwork-swatch-ink.png",
+ "colours": [
+  "#B49083",
+  "#ECDDCF",
+  "#D2BAAB"
+ ],
+ "sheet": "sheet-09",
+ "box": [
+  652,
+  790,
+  858,
+  985
+ ],
+ "license": {
+  "licence": "the store owner's own artwork, generated with ChatGPT; owner holds the rights",
+  "generated": "2026-11-16",
+  "source_url": "styles/references/inbox/sheet-09.png"
+ },
+ "tile": "owner/g09-patchwork-swatch-tile.png",
+ "tile_mask": "owner/g09-patchwork-swatch-tile-mask.png"
+}

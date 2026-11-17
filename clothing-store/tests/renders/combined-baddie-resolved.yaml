@@ -1,0 +1,88 @@
+id: combined-baddie
+style: baddie-street
+audience: fem
+family: combined
+palette:
+- '#111111'
+- '#C0C0C0'
+- '#E0115F'
+- '#2A2A2A'
+torso:
+  garment: black fitted tee
+  palette:
+  - '#111111'
+  base_pattern: solid
+  details:
+  - crew collar
+  hem: plain
+  hem_line: 108
+  decor:
+  - element: heart-winged
+    layout: pocket
+    colour: '#E0115F'
+    size: 7
+  - print:
+      placement: back
+      template: centered_stack
+      elements:
+      - heart-winged
+      - g02-feather-wings
+      - chain-loop
+      ink: '#C0C0C0'
+      distress: 1
+      seed: 13
+      wrap: false
+      scale: 1.0
+    _recipe: true
+arms:
+  sleeves: short
+  decor:
+  - element: heart
+    layout: scatter
+    colour: '#E0115F'
+    size: 2.6
+    spacing: 15
+legs:
+  garment: black straight jeans
+  type: trousers
+  waist_line: 96
+  waistband: plain
+  palette:
+  - '#111111'
+  - '#2A2A2A'
+  - '#C0C0C0'
+  base_pattern: denim
+  details:
+  - belt loops
+  - button
+  shoes: black sneakers
+  shoe_palette:
+  - '#111111'
+  - '#C0C0C0'
+  _identity: null
+recipes:
+- family: print
+  style: baddie
+  template: centered_stack
+  placement: back
+  tags:
+  - heart
+  - wings
+  - chain
+  ink: '#C0C0C0'
+  distress: 1
+  seed: 13
+listings:
+  words:
+    colour: Black
+    garment: Winged Heart Tee Jeans
+    style:
+    - baddie
+  shirt:
+    name: Black Winged Heart Tee Jeans Baddie Outfit Top
+    description: A black fitted tee with a silver winged heart and chain back print, a pink winged heart on the chest and tiny hearts on the sleeves. Wear it with Black Winged Heart Tee Jeans Baddie Outfit
+      Pants for the full look.
+  pants:
+    name: Black Winged Heart Tee Jeans Baddie Outfit Pants
+    description: Black straight jeans and sneakers, with the winged heart tee on the torso. Wear them with Black Winged Heart Tee Jeans Baddie Outfit Top for the full look.
+moderation_check: Hearts, wings and chains only; no tattoos on skin, gang motifs, text or logos.

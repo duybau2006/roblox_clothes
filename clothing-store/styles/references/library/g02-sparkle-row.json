@@ -1,0 +1,47 @@
+{
+ "id": "g02-sparkle-row",
+ "name": "Sparkle row",
+ "motif": "sparkle",
+ "styles": [
+  "y2k",
+  "baddie",
+  "soft-girl"
+ ],
+ "mood": [
+  "glint"
+ ],
+ "size": "medium",
+ "families": [
+  "decorated"
+ ],
+ "symmetric": false,
+ "band": true,
+ "kind": "border",
+ "placement": "hem",
+ "readability": "simplified",
+ "source": "owner-generated",
+ "mask": "owner/g02-sparkle-row.png",
+ "colour": "owner/g02-sparkle-row-colour.png",
+ "ink": "owner/g02-sparkle-row-ink.png",
+ "colours": [
+  "#6D5E69",
+  "#A89BA3",
+  "#DFD0D9"
+ ],
+ "sheet": "sheet-02",
+ "box": [
+  20,
+  890,
+  265,
+  950
+ ],
+ "license": {
+  "licence": "the store owner's own artwork, generated with ChatGPT; owner holds the rights",
+  "generated": "2026-11-16",
+  "source_url": "styles/references/inbox/sheet-02.png"
+ },
+ "bold": "owner/g02-sparkle-row-bold.png",
+ "bold_below": 256,
+ "tile": "owner/g02-sparkle-row-tile.png",
+ "tile_mask": "owner/g02-sparkle-row-tile-mask.png"
+}

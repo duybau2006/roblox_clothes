@@ -1,0 +1,49 @@
+id: print-emo
+style: emo-scene
+audience: unisex
+family: print
+palette: ["#111111", "#2A2A2A", "#EDEDED", "#FF1493"]
+
+torso:
+  garment: black hoodie
+  palette: ["#111111", "#2A2A2A", "#EDEDED"]
+  base_pattern: solid
+  details: [hood, drawstrings]
+  hem: rib
+  hem_line: 110
+
+arms:
+  sleeves: long
+  details: [ribbed cuffs]
+
+legs:
+  garment: black skinny jeans
+  type: trousers
+  waist_line: 92
+  waistband: plain
+  palette: ["#111111", "#2A2A2A", "#EDEDED"]
+  base_pattern: denim
+  details: [belt loops, button]
+  shoes: black and white sneakers
+  shoe_palette: ["#111111", "#EDEDED"]
+
+recipes:
+  - family: print
+    style: emo
+    template: offcentre_figure
+    placement: front
+    tags: [heart, dagger, star]
+    ink: "#FF1493"
+    distress: {halftone: 2, drips: 2, worn: 1}
+    seed: 5
+
+listings:
+  words: {colour: "Black", garment: "Heart Hoodie Jeans", style: ["emo", "y2k"]}
+  shirt:
+    name: "Black Heart Hoodie Jeans Emo Y2K Outfit Top"
+    description: "A black hoodie with a hot pink dripping heart and dagger print that fades into halftone. Wear it with Black Heart Hoodie Jeans Emo Y2K Outfit Pants for the full look."
+  pants:
+    name: "Black Heart Hoodie Jeans Emo Y2K Outfit Pants"
+    description: "Black skinny jeans and sneakers, with the heart print hoodie on the torso. Wear them with Black Heart Hoodie Jeans Emo Y2K Outfit Top for the full look."
+
+moderation_check: "Ornamental dagger with a heart, no blood or self-harm references; ink drips are paint, not gore; no text."

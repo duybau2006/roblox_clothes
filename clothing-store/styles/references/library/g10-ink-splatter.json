@@ -1,0 +1,43 @@
+{
+ "id": "g10-ink-splatter",
+ "name": "Ink splatter",
+ "motif": "splatter",
+ "styles": [
+  "archive",
+  "grunge",
+  "emo"
+ ],
+ "mood": [
+  "grunge"
+ ],
+ "size": "large",
+ "families": [
+  "print"
+ ],
+ "symmetric": false,
+ "band": false,
+ "kind": "texture",
+ "placement": "chest",
+ "readability": "ok",
+ "source": "owner-generated",
+ "mask": "owner/g10-ink-splatter.png",
+ "colour": "owner/g10-ink-splatter-colour.png",
+ "ink": "owner/g10-ink-splatter-ink.png",
+ "colours": [
+  "#343334",
+  "#363536",
+  "#3A3939"
+ ],
+ "sheet": "sheet-10",
+ "box": [
+  985,
+  660,
+  1248,
+  915
+ ],
+ "license": {
+  "licence": "the store owner's own artwork, generated with ChatGPT; owner holds the rights",
+  "generated": "2026-11-16",
+  "source_url": "styles/references/inbox/sheet-10.png"
+ }
+}

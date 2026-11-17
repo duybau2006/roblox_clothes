@@ -1,0 +1,45 @@
+{
+ "id": "g10-frayed-strip",
+ "name": "Frayed strip",
+ "motif": "fray",
+ "styles": [
+  "archive",
+  "grunge"
+ ],
+ "mood": [
+  "distressed"
+ ],
+ "size": "small",
+ "families": [
+  "decorated",
+  "realistic"
+ ],
+ "symmetric": false,
+ "band": true,
+ "kind": "border",
+ "placement": "hem",
+ "readability": "ok",
+ "source": "owner-generated",
+ "mask": "owner/g10-frayed-strip.png",
+ "colour": "owner/g10-frayed-strip-colour.png",
+ "ink": "owner/g10-frayed-strip-ink.png",
+ "colours": [
+  "#494749",
+  "#848280",
+  "#1E1B1D"
+ ],
+ "sheet": "sheet-10",
+ "box": [
+  5,
+  938,
+  336,
+  1042
+ ],
+ "license": {
+  "licence": "the store owner's own artwork, generated with ChatGPT; owner holds the rights",
+  "generated": "2026-11-16",
+  "source_url": "styles/references/inbox/sheet-10.png"
+ },
+ "tile": "owner/g10-frayed-strip-tile.png",
+ "tile_mask": "owner/g10-frayed-strip-tile-mask.png"
+}

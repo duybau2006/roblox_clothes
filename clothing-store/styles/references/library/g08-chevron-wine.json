@@ -1,0 +1,43 @@
+{
+ "id": "g08-chevron-wine",
+ "name": "Chevron wine",
+ "motif": "chevron",
+ "styles": [
+  "athleisure",
+  "preppy"
+ ],
+ "mood": [
+  "sporty"
+ ],
+ "size": "small",
+ "families": [
+  "decorated",
+  "realistic"
+ ],
+ "symmetric": false,
+ "band": false,
+ "kind": "motif",
+ "placement": "sleeve",
+ "readability": "ok",
+ "source": "owner-generated",
+ "mask": "owner/g08-chevron-wine.png",
+ "colour": "owner/g08-chevron-wine-colour.png",
+ "ink": "owner/g08-chevron-wine-ink.png",
+ "colours": [
+  "#5B2E3B",
+  "#D0BFB5",
+  "#421626"
+ ],
+ "sheet": "sheet-08",
+ "box": [
+  1020,
+  915,
+  1243,
+  1053
+ ],
+ "license": {
+  "licence": "the store owner's own artwork, generated with ChatGPT; owner holds the rights",
+  "generated": "2026-11-16",
+  "source_url": "styles/references/inbox/sheet-08.png"
+ }
+}

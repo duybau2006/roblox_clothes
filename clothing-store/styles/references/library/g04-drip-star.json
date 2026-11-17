@@ -1,0 +1,44 @@
+{
+ "id": "g04-drip-star",
+ "name": "Drip star",
+ "motif": "star",
+ "styles": [
+  "emo",
+  "baddie",
+  "gen-z"
+ ],
+ "mood": [
+  "edgy"
+ ],
+ "size": "small",
+ "families": [
+  "decorated",
+  "print"
+ ],
+ "symmetric": false,
+ "band": false,
+ "kind": "motif",
+ "placement": "chest",
+ "readability": "ok",
+ "source": "owner-generated",
+ "mask": "owner/g04-drip-star.png",
+ "colour": "owner/g04-drip-star-colour.png",
+ "ink": "owner/g04-drip-star-ink.png",
+ "colours": [
+  "#433D40",
+  "#EAE0E4",
+  "#B6AAB0"
+ ],
+ "sheet": "sheet-04",
+ "box": [
+  1090,
+  380,
+  1250,
+  595
+ ],
+ "license": {
+  "licence": "the store owner's own artwork, generated with ChatGPT; owner holds the rights",
+  "generated": "2026-11-16",
+  "source_url": "styles/references/inbox/sheet-04.png"
+ }
+}

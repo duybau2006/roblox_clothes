@@ -1,0 +1,47 @@
+{
+ "id": "g02-rose-thorn-tribal",
+ "name": "Rose thorn tribal",
+ "motif": "rose",
+ "styles": [
+  "y2k",
+  "vamp-goth",
+  "baddie"
+ ],
+ "mood": [
+  "chrome",
+  "romantic"
+ ],
+ "size": "medium",
+ "families": [
+  "print",
+  "decorated"
+ ],
+ "symmetric": false,
+ "band": false,
+ "kind": "hero",
+ "placement": "back",
+ "readability": "simplified",
+ "source": "owner-generated",
+ "mask": "owner/g02-rose-thorn-tribal.png",
+ "colour": "owner/g02-rose-thorn-tribal-colour.png",
+ "ink": "owner/g02-rose-thorn-tribal-ink.png",
+ "colours": [
+  "#6A5B66",
+  "#AA98A3",
+  "#DDCBD6"
+ ],
+ "sheet": "sheet-02",
+ "box": [
+  780,
+  1080,
+  1232,
+  1245
+ ],
+ "license": {
+  "licence": "the store owner's own artwork, generated with ChatGPT; owner holds the rights",
+  "generated": "2026-11-16",
+  "source_url": "styles/references/inbox/sheet-02.png"
+ },
+ "bold": "owner/g02-rose-thorn-tribal-bold.png",
+ "bold_below": 70
+}

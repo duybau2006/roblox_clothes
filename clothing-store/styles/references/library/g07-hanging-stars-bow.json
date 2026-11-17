@@ -1,0 +1,45 @@
+{
+ "id": "g07-hanging-stars-bow",
+ "name": "Hanging stars bow",
+ "motif": "star",
+ "styles": [
+  "christmas",
+  "soft-girl"
+ ],
+ "mood": [
+  "festive"
+ ],
+ "size": "medium",
+ "families": [
+  "decorated",
+  "print"
+ ],
+ "symmetric": false,
+ "band": false,
+ "kind": "motif",
+ "placement": "chest",
+ "readability": "simplified",
+ "source": "owner-generated",
+ "mask": "owner/g07-hanging-stars-bow.png",
+ "colour": "owner/g07-hanging-stars-bow-colour.png",
+ "ink": "owner/g07-hanging-stars-bow-ink.png",
+ "colours": [
+  "#C69F95",
+  "#E2C4BC",
+  "#F0DCD4"
+ ],
+ "sheet": "sheet-07",
+ "box": [
+  610,
+  840,
+  830,
+  1005
+ ],
+ "license": {
+  "licence": "the store owner's own artwork, generated with ChatGPT; owner holds the rights",
+  "generated": "2026-11-16",
+  "source_url": "styles/references/inbox/sheet-07.png"
+ },
+ "bold": "owner/g07-hanging-stars-bow-bold.png",
+ "bold_below": 48
+}

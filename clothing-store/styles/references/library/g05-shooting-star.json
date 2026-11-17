@@ -1,0 +1,44 @@
+{
+ "id": "g05-shooting-star",
+ "name": "Shooting star",
+ "motif": "star",
+ "styles": [
+  "baddie",
+  "y2k",
+  "gen-z"
+ ],
+ "mood": [
+  "glam"
+ ],
+ "size": "small",
+ "families": [
+  "decorated",
+  "print"
+ ],
+ "symmetric": false,
+ "band": false,
+ "kind": "motif",
+ "placement": "chest",
+ "readability": "ok",
+ "source": "owner-generated",
+ "mask": "owner/g05-shooting-star.png",
+ "colour": "owner/g05-shooting-star-colour.png",
+ "ink": "owner/g05-shooting-star-ink.png",
+ "colours": [
+  "#D584A7",
+  "#B44372",
+  "#5D001B"
+ ],
+ "sheet": "sheet-05",
+ "box": [
+  875,
+  885,
+  1240,
+  1025
+ ],
+ "license": {
+  "licence": "the store owner's own artwork, generated with ChatGPT; owner holds the rights",
+  "generated": "2026-11-16",
+  "source_url": "styles/references/inbox/sheet-05.png"
+ }
+}

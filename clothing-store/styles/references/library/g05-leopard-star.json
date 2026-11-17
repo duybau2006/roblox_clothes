@@ -1,0 +1,45 @@
+{
+ "id": "g05-leopard-star",
+ "name": "Leopard star",
+ "motif": "star",
+ "styles": [
+  "baddie",
+  "y2k"
+ ],
+ "mood": [
+  "wild"
+ ],
+ "size": "medium",
+ "families": [
+  "decorated",
+  "print"
+ ],
+ "symmetric": false,
+ "band": false,
+ "kind": "motif",
+ "placement": "chest",
+ "readability": "simplified",
+ "source": "owner-generated",
+ "mask": "owner/g05-leopard-star.png",
+ "colour": "owner/g05-leopard-star-colour.png",
+ "ink": "owner/g05-leopard-star-ink.png",
+ "colours": [
+  "#603144",
+  "#CD7DA1",
+  "#ECAACD"
+ ],
+ "sheet": "sheet-05",
+ "box": [
+  455,
+  1080,
+  655,
+  1245
+ ],
+ "license": {
+  "licence": "the store owner's own artwork, generated with ChatGPT; owner holds the rights",
+  "generated": "2026-11-16",
+  "source_url": "styles/references/inbox/sheet-05.png"
+ },
+ "bold": "owner/g05-leopard-star-bold.png",
+ "bold_below": 48
+}

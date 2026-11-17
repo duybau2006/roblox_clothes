@@ -1,0 +1,46 @@
+{
+ "id": "g05-satin-bow",
+ "name": "Satin bow",
+ "motif": "bow",
+ "styles": [
+  "baddie",
+  "soft-girl",
+  "y2k"
+ ],
+ "mood": [
+  "glam"
+ ],
+ "size": "medium",
+ "families": [
+  "decorated",
+  "print"
+ ],
+ "symmetric": false,
+ "band": false,
+ "kind": "motif",
+ "placement": "chest",
+ "readability": "simplified",
+ "source": "owner-generated",
+ "mask": "owner/g05-satin-bow.png",
+ "colour": "owner/g05-satin-bow-colour.png",
+ "ink": "owner/g05-satin-bow-ink.png",
+ "colours": [
+  "#B46085",
+  "#E5A1C1",
+  "#F6D4E4"
+ ],
+ "sheet": "sheet-05",
+ "box": [
+  795,
+  705,
+  1000,
+  900
+ ],
+ "license": {
+  "licence": "the store owner's own artwork, generated with ChatGPT; owner holds the rights",
+  "generated": "2026-11-16",
+  "source_url": "styles/references/inbox/sheet-05.png"
+ },
+ "bold": "owner/g05-satin-bow-bold.png",
+ "bold_below": 48
+}

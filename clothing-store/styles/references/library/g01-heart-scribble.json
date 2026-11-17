@@ -1,0 +1,48 @@
+{
+ "id": "g01-heart-scribble",
+ "name": "Heart scribble",
+ "motif": "heart",
+ "styles": [
+  "gen-z",
+  "emo",
+  "y2k",
+  "soft-girl"
+ ],
+ "mood": [
+  "sketch",
+  "cute"
+ ],
+ "size": "medium",
+ "families": [
+  "decorated",
+  "print"
+ ],
+ "symmetric": false,
+ "band": false,
+ "kind": "motif",
+ "placement": "chest",
+ "readability": "simplified",
+ "source": "owner-generated",
+ "mask": "owner/g01-heart-scribble.png",
+ "colour": "owner/g01-heart-scribble-colour.png",
+ "ink": "owner/g01-heart-scribble-ink.png",
+ "colours": [
+  "#4E4D4C",
+  "#424141",
+  "#585856"
+ ],
+ "sheet": "sheet-01",
+ "box": [
+  367,
+  380,
+  495,
+  520
+ ],
+ "license": {
+  "licence": "the store owner's own artwork, generated with ChatGPT; owner holds the rights",
+  "generated": "2026-11-16",
+  "source_url": "styles/references/inbox/sheet-01.png"
+ },
+ "bold": "owner/g01-heart-scribble-bold.png",
+ "bold_below": 48
+}

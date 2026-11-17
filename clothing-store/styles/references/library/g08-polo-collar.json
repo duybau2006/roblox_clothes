@@ -1,0 +1,42 @@
+{
+ "id": "g08-polo-collar",
+ "name": "Polo collar",
+ "motif": "collar",
+ "styles": [
+  "preppy",
+  "athleisure"
+ ],
+ "mood": [
+  "classic"
+ ],
+ "size": "medium",
+ "families": [
+  "realistic"
+ ],
+ "symmetric": false,
+ "band": false,
+ "kind": "part",
+ "placement": "chest",
+ "readability": "ok",
+ "source": "owner-generated",
+ "mask": "owner/g08-polo-collar.png",
+ "colour": "owner/g08-polo-collar-colour.png",
+ "ink": "owner/g08-polo-collar-ink.png",
+ "colours": [
+  "#B7ACA6",
+  "#010004",
+  "#020000"
+ ],
+ "sheet": "sheet-08",
+ "box": [
+  25,
+  720,
+  288,
+  905
+ ],
+ "license": {
+  "licence": "the store owner's own artwork, generated with ChatGPT; owner holds the rights",
+  "generated": "2026-11-16",
+  "source_url": "styles/references/inbox/sheet-08.png"
+ }
+}

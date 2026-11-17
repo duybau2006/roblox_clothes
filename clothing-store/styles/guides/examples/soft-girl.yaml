@@ -1,0 +1,84 @@
+id: guide-soft-girl
+style: soft-girl
+blend_with: ''
+audience: fem
+family: decorated
+palette:
+- '#F7B6D2'
+- '#FFFFFF'
+- '#A7C7E7'
+torso:
+  garment: pink knit sweater
+  palette:
+  - '#F7B6D2'
+  - '#FFFFFF'
+  base_pattern: knit
+  details:
+  - crew collar
+  hem: rib
+  hem_line: 104
+  decor:
+  - motif: bow
+    layout: chest
+    colour: '#FFFFFF'
+    accent: '#F7B6D2'
+    size: 12
+  - motif: heart
+    layout: scatter
+    colour: '#FFFFFF'
+    size: 2.5
+    spacing: 16
+arms:
+  details:
+  - ribbed cuffs
+  sleeves: long
+  decor:
+  - motif: heart
+    layout: scatter
+    colour: '#FFFFFF'
+    size: 2.5
+    spacing: 16
+legs:
+  garment: baby blue pleated skirt
+  type: skirt
+  waist_line: 96
+  waistband: plain
+  palette:
+  - '#A7C7E7'
+  - '#FFFFFF'
+  base_pattern: solid
+  details:
+  - pleats
+  skirt_length: 44
+  legwear: socks
+  legwear_palette:
+  - '#FFFFFF'
+  sock_top: 74
+  shoes: pink sneakers
+  shoe_palette:
+  - '#F7B6D2'
+  - '#FFFFFF'
+  decor:
+  - motif: flower
+    layout: scatter
+    colour: '#FFFFFF'
+    accent: '#F7B6D2'
+    size: 2.4
+    spacing: 12
+  - motif: lace
+    layout: lace_hem
+    colour: '#FFFFFF'
+listings:
+  words:
+    colour: Pink
+    garment: Sweater Pleated Skirt
+    style:
+    - cute
+    - girl
+  shirt:
+    name: Pink Sweater Pleated Skirt Cute Girl Outfit Top
+    description: A soft pink knit sweater with white rib trim. Wear it with Pink Sweater Pleated Skirt Cute Girl Outfit Pants for the full look.
+  pants:
+    name: Pink Sweater Pleated Skirt Cute Girl Outfit Pants
+    description: A baby blue pleated skirt with white knee socks and pink sneakers, with the pink sweater on the torso. Wear them with Pink Sweater Pleated Skirt Cute Girl Outfit Top for the full look.
+moderation_check: Knee-length-look skirt with opaque socks; no skin-tone fabric or text.

@@ -1,0 +1,47 @@
+{
+ "id": "g02-orbit-heart",
+ "name": "Orbit heart",
+ "motif": "heart",
+ "styles": [
+  "y2k",
+  "baddie",
+  "soft-girl"
+ ],
+ "mood": [
+  "chrome",
+  "glam"
+ ],
+ "size": "medium",
+ "families": [
+  "decorated",
+  "print"
+ ],
+ "symmetric": false,
+ "band": false,
+ "kind": "motif",
+ "placement": "chest",
+ "readability": "simplified",
+ "source": "owner-generated",
+ "mask": "owner/g02-orbit-heart.png",
+ "colour": "owner/g02-orbit-heart-colour.png",
+ "ink": "owner/g02-orbit-heart-ink.png",
+ "colours": [
+  "#836A79",
+  "#D3BAC8",
+  "#040000"
+ ],
+ "sheet": "sheet-02",
+ "box": [
+  760,
+  10,
+  985,
+  225
+ ],
+ "license": {
+  "licence": "the store owner's own artwork, generated with ChatGPT; owner holds the rights",
+  "generated": "2026-11-16",
+  "source_url": "styles/references/inbox/sheet-02.png"
+ },
+ "bold": "owner/g02-orbit-heart-bold.png",
+ "bold_below": 48
+}

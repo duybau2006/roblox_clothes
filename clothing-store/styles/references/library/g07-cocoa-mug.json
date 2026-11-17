@@ -1,0 +1,43 @@
+{
+ "id": "g07-cocoa-mug",
+ "name": "Cocoa mug",
+ "motif": "mug",
+ "styles": [
+  "christmas",
+  "soft-girl"
+ ],
+ "mood": [
+  "cozy"
+ ],
+ "size": "small",
+ "families": [
+  "decorated",
+  "print"
+ ],
+ "symmetric": false,
+ "band": false,
+ "kind": "motif",
+ "placement": "chest",
+ "readability": "ok",
+ "source": "owner-generated",
+ "mask": "owner/g07-cocoa-mug.png",
+ "colour": "owner/g07-cocoa-mug-colour.png",
+ "ink": "owner/g07-cocoa-mug-ink.png",
+ "colours": [
+  "#B38181",
+  "#D6B2AD",
+  "#EBDCD4"
+ ],
+ "sheet": "sheet-07",
+ "box": [
+  850,
+  640,
+  1015,
+  835
+ ],
+ "license": {
+  "licence": "the store owner's own artwork, generated with ChatGPT; owner holds the rights",
+  "generated": "2026-11-16",
+  "source_url": "styles/references/inbox/sheet-07.png"
+ }
+}

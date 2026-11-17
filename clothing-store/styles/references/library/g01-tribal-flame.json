@@ -1,0 +1,47 @@
+{
+ "id": "g01-tribal-flame",
+ "name": "Tribal flame",
+ "motif": "flame",
+ "styles": [
+  "y2k",
+  "gen-z",
+  "baddie",
+  "emo"
+ ],
+ "mood": [
+  "edgy"
+ ],
+ "size": "medium",
+ "families": [
+  "decorated",
+  "print"
+ ],
+ "symmetric": false,
+ "band": false,
+ "kind": "motif",
+ "placement": "sleeve",
+ "readability": "simplified",
+ "source": "owner-generated",
+ "mask": "owner/g01-tribal-flame.png",
+ "colour": "owner/g01-tribal-flame-colour.png",
+ "ink": "owner/g01-tribal-flame-ink.png",
+ "colours": [
+  "#4F4B4E",
+  "#5E5B5D",
+  "#6A6869"
+ ],
+ "sheet": "sheet-01",
+ "box": [
+  983,
+  1057,
+  1243,
+  1185
+ ],
+ "license": {
+  "licence": "the store owner's own artwork, generated with ChatGPT; owner holds the rights",
+  "generated": "2026-11-16",
+  "source_url": "styles/references/inbox/sheet-01.png"
+ },
+ "bold": "owner/g01-tribal-flame-bold.png",
+ "bold_below": 48
+}

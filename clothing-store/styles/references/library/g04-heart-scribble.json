@@ -1,0 +1,44 @@
+{
+ "id": "g04-heart-scribble",
+ "name": "Heart scribble",
+ "motif": "heart",
+ "styles": [
+  "emo",
+  "gen-z"
+ ],
+ "mood": [
+  "sketch"
+ ],
+ "size": "medium",
+ "families": [
+  "decorated"
+ ],
+ "symmetric": false,
+ "band": false,
+ "kind": "motif",
+ "placement": "sleeve",
+ "readability": "simplified",
+ "source": "owner-generated",
+ "mask": "owner/g04-heart-scribble.png",
+ "colour": "owner/g04-heart-scribble-colour.png",
+ "ink": "owner/g04-heart-scribble-ink.png",
+ "colours": [
+  "#473741",
+  "#3E303A",
+  "#4F3E48"
+ ],
+ "sheet": "sheet-04",
+ "box": [
+  1065,
+  930,
+  1182,
+  1052
+ ],
+ "license": {
+  "licence": "the store owner's own artwork, generated with ChatGPT; owner holds the rights",
+  "generated": "2026-11-16",
+  "source_url": "styles/references/inbox/sheet-04.png"
+ },
+ "bold": "owner/g04-heart-scribble-bold.png",
+ "bold_below": 48
+}

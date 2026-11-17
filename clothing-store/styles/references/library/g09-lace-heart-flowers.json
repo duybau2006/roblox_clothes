@@ -1,0 +1,43 @@
+{
+ "id": "g09-lace-heart-flowers",
+ "name": "Lace heart flowers",
+ "motif": "heart",
+ "styles": [
+  "cottagecore",
+  "soft-girl"
+ ],
+ "mood": [
+  "romantic"
+ ],
+ "size": "large",
+ "families": [
+  "print",
+  "decorated"
+ ],
+ "symmetric": false,
+ "band": false,
+ "kind": "hero",
+ "placement": "back",
+ "readability": "ok",
+ "source": "owner-generated",
+ "mask": "owner/g09-lace-heart-flowers.png",
+ "colour": "owner/g09-lace-heart-flowers-colour.png",
+ "ink": "owner/g09-lace-heart-flowers-ink.png",
+ "colours": [
+  "#ECDDD1",
+  "#CAAD9E",
+  "#9B7666"
+ ],
+ "sheet": "sheet-09",
+ "box": [
+  900,
+  10,
+  1250,
+  310
+ ],
+ "license": {
+  "licence": "the store owner's own artwork, generated with ChatGPT; owner holds the rights",
+  "generated": "2026-11-16",
+  "source_url": "styles/references/inbox/sheet-09.png"
+ }
+}

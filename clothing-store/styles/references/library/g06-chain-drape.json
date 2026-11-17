@@ -1,0 +1,45 @@
+{
+ "id": "g06-chain-drape",
+ "name": "Chain drape",
+ "motif": "chain",
+ "styles": [
+  "grunge",
+  "emo",
+  "archive"
+ ],
+ "mood": [
+  "punk"
+ ],
+ "size": "medium",
+ "families": [
+  "decorated"
+ ],
+ "symmetric": false,
+ "band": false,
+ "kind": "motif",
+ "placement": "chest",
+ "readability": "simplified",
+ "source": "owner-generated",
+ "mask": "owner/g06-chain-drape.png",
+ "colour": "owner/g06-chain-drape-colour.png",
+ "ink": "owner/g06-chain-drape-ink.png",
+ "colours": [
+  "#3F3A39",
+  "#645F5D",
+  "#908B88"
+ ],
+ "sheet": "sheet-06",
+ "box": [
+  1025,
+  512,
+  1240,
+  682
+ ],
+ "license": {
+  "licence": "the store owner's own artwork, generated with ChatGPT; owner holds the rights",
+  "generated": "2026-11-16",
+  "source_url": "styles/references/inbox/sheet-06.png"
+ },
+ "bold": "owner/g06-chain-drape-bold.png",
+ "bold_below": 48
+}

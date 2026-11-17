@@ -1,0 +1,44 @@
+{
+ "id": "g08-arch-border",
+ "name": "Arch border",
+ "motif": "arch",
+ "styles": [
+  "preppy",
+  "archive"
+ ],
+ "mood": [
+  "classic"
+ ],
+ "size": "small",
+ "families": [
+  "decorated"
+ ],
+ "symmetric": false,
+ "band": true,
+ "kind": "border",
+ "placement": "hem",
+ "readability": "ok",
+ "source": "owner-generated",
+ "mask": "owner/g08-arch-border.png",
+ "colour": "owner/g08-arch-border-colour.png",
+ "ink": "owner/g08-arch-border-ink.png",
+ "colours": [
+  "#E4DBCF",
+  "#282D3D",
+  "#999593"
+ ],
+ "sheet": "sheet-08",
+ "box": [
+  615,
+  1172,
+  930,
+  1233
+ ],
+ "license": {
+  "licence": "the store owner's own artwork, generated with ChatGPT; owner holds the rights",
+  "generated": "2026-11-16",
+  "source_url": "styles/references/inbox/sheet-08.png"
+ },
+ "tile": "owner/g08-arch-border-tile.png",
+ "tile_mask": "owner/g08-arch-border-tile-mask.png"
+}

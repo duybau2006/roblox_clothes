@@ -1,0 +1,62 @@
+{
+ "id": "star-4",
+ "name": "Four-point star",
+ "motif": "star",
+ "styles": [
+  "y2k",
+  "baddie",
+  "emo",
+  "gen-z"
+ ],
+ "mood": [
+  "sparkly"
+ ],
+ "size": "small",
+ "families": [
+  "decorated",
+  "print"
+ ],
+ "symmetric": true,
+ "band": false,
+ "source": "original",
+ "shapes": [
+  {
+   "t": "poly",
+   "pts": [
+    [
+     0.0,
+     -1.0
+    ],
+    [
+     0.2121,
+     -0.2121
+    ],
+    [
+     1.0,
+     -0.0
+    ],
+    [
+     0.2121,
+     0.2121
+    ],
+    [
+     0.0,
+     1.0
+    ],
+    [
+     -0.2121,
+     0.2121
+    ],
+    [
+     -1.0,
+     0.0
+    ],
+    [
+     -0.2121,
+     -0.2121
+    ]
+   ],
+   "tone": 0
+  }
+ ]
+}

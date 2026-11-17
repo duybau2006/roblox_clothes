@@ -1,0 +1,46 @@
+{
+ "id": "g04-heart-scribble-row",
+ "name": "Heart scribble row",
+ "motif": "heart",
+ "styles": [
+  "emo",
+  "gen-z"
+ ],
+ "mood": [
+  "sketch"
+ ],
+ "size": "medium",
+ "families": [
+  "decorated"
+ ],
+ "symmetric": false,
+ "band": true,
+ "kind": "border",
+ "placement": "hem",
+ "readability": "simplified",
+ "source": "owner-generated",
+ "mask": "owner/g04-heart-scribble-row.png",
+ "colour": "owner/g04-heart-scribble-row-colour.png",
+ "ink": "owner/g04-heart-scribble-row-ink.png",
+ "colours": [
+  "#332A30",
+  "#3A3036",
+  "#41373D"
+ ],
+ "sheet": "sheet-04",
+ "box": [
+  943,
+  1153,
+  1235,
+  1238
+ ],
+ "license": {
+  "licence": "the store owner's own artwork, generated with ChatGPT; owner holds the rights",
+  "generated": "2026-11-16",
+  "source_url": "styles/references/inbox/sheet-04.png"
+ },
+ "bold": "owner/g04-heart-scribble-row-bold.png",
+ "bold_below": 256,
+ "tile": "owner/g04-heart-scribble-row-tile.png",
+ "tile_mask": "owner/g04-heart-scribble-row-tile-mask.png"
+}

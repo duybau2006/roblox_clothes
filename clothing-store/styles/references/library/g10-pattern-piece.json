@@ -1,0 +1,42 @@
+{
+ "id": "g10-pattern-piece",
+ "name": "Pattern piece",
+ "motif": "pattern",
+ "styles": [
+  "archive"
+ ],
+ "mood": [
+  "deconstructed"
+ ],
+ "size": "medium",
+ "families": [
+  "realistic",
+  "print"
+ ],
+ "symmetric": false,
+ "band": false,
+ "kind": "part",
+ "placement": "allover",
+ "readability": "ok",
+ "source": "owner-generated",
+ "mask": "owner/g10-pattern-piece.png",
+ "colour": "owner/g10-pattern-piece-colour.png",
+ "ink": "owner/g10-pattern-piece-ink.png",
+ "colours": [
+  "#E4DFDF",
+  "#EAE6E5",
+  "#949191"
+ ],
+ "sheet": "sheet-10",
+ "box": [
+  1112,
+  8,
+  1245,
+  352
+ ],
+ "license": {
+  "licence": "the store owner's own artwork, generated with ChatGPT; owner holds the rights",
+  "generated": "2026-11-16",
+  "source_url": "styles/references/inbox/sheet-10.png"
+ }
+}

@@ -1,0 +1,47 @@
+{
+ "id": "g09-flower-vine-border",
+ "name": "Flower vine border",
+ "motif": "flower",
+ "styles": [
+  "cottagecore",
+  "soft-girl"
+ ],
+ "mood": [
+  "natural"
+ ],
+ "size": "medium",
+ "families": [
+  "decorated",
+  "print"
+ ],
+ "symmetric": false,
+ "band": true,
+ "kind": "border",
+ "placement": "hem",
+ "readability": "simplified",
+ "source": "owner-generated",
+ "mask": "owner/g09-flower-vine-border.png",
+ "colour": "owner/g09-flower-vine-border-colour.png",
+ "ink": "owner/g09-flower-vine-border-ink.png",
+ "colours": [
+  "#998065",
+  "#BCA188",
+  "#E2C3B6"
+ ],
+ "sheet": "sheet-09",
+ "box": [
+  385,
+  1008,
+  858,
+  1085
+ ],
+ "license": {
+  "licence": "the store owner's own artwork, generated with ChatGPT; owner holds the rights",
+  "generated": "2026-11-16",
+  "source_url": "styles/references/inbox/sheet-09.png"
+ },
+ "bold": "owner/g09-flower-vine-border-bold.png",
+ "bold_below": 256,
+ "tile": "owner/g09-flower-vine-border-tile.png",
+ "tile_mask": "owner/g09-flower-vine-border-tile-mask.png"
+}

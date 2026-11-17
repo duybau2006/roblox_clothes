@@ -1,0 +1,44 @@
+{
+ "id": "g03-bat-small",
+ "name": "Bat small",
+ "motif": "bat",
+ "styles": [
+  "vamp-goth",
+  "emo"
+ ],
+ "mood": [
+  "gothic"
+ ],
+ "size": "medium",
+ "families": [
+  "decorated"
+ ],
+ "symmetric": false,
+ "band": false,
+ "kind": "motif",
+ "placement": "sleeve",
+ "readability": "simplified",
+ "source": "owner-generated",
+ "mask": "owner/g03-bat-small.png",
+ "colour": "owner/g03-bat-small-colour.png",
+ "ink": "owner/g03-bat-small-ink.png",
+ "colours": [
+  "#48363A",
+  "#665355",
+  "#7F6E6D"
+ ],
+ "sheet": "sheet-03",
+ "box": [
+  440,
+  895,
+  598,
+  965
+ ],
+ "license": {
+  "licence": "the store owner's own artwork, generated with ChatGPT; owner holds the rights",
+  "generated": "2026-11-16",
+  "source_url": "styles/references/inbox/sheet-03.png"
+ },
+ "bold": "owner/g03-bat-small-bold.png",
+ "bold_below": 48
+}

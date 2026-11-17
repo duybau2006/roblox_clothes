@@ -1,0 +1,42 @@
+{
+ "id": "g08-sleeve-panel",
+ "name": "Sleeve panel",
+ "motif": "panel",
+ "styles": [
+  "athleisure",
+  "preppy"
+ ],
+ "mood": [
+  "sporty"
+ ],
+ "size": "medium",
+ "families": [
+  "realistic"
+ ],
+ "symmetric": false,
+ "band": false,
+ "kind": "part",
+ "placement": "sleeve",
+ "readability": "ok",
+ "source": "owner-generated",
+ "mask": "owner/g08-sleeve-panel.png",
+ "colour": "owner/g08-sleeve-panel-colour.png",
+ "ink": "owner/g08-sleeve-panel-ink.png",
+ "colours": [
+  "#30374A",
+  "#CAC0B7",
+  "#21263A"
+ ],
+ "sheet": "sheet-08",
+ "box": [
+  25,
+  870,
+  168,
+  1060
+ ],
+ "license": {
+  "licence": "the store owner's own artwork, generated with ChatGPT; owner holds the rights",
+  "generated": "2026-11-16",
+  "source_url": "styles/references/inbox/sheet-08.png"
+ }
+}

@@ -1,0 +1,43 @@
+{
+ "id": "g10-cargo-pocket",
+ "name": "Cargo pocket",
+ "motif": "pocket",
+ "styles": [
+  "archive",
+  "athleisure",
+  "gen-z"
+ ],
+ "mood": [
+  "utility"
+ ],
+ "size": "medium",
+ "families": [
+  "realistic"
+ ],
+ "symmetric": false,
+ "band": false,
+ "kind": "part",
+ "placement": "chest",
+ "readability": "ok",
+ "source": "owner-generated",
+ "mask": "owner/g10-cargo-pocket.png",
+ "colour": "owner/g10-cargo-pocket-colour.png",
+ "ink": "owner/g10-cargo-pocket-ink.png",
+ "colours": [
+  "#A39B93",
+  "#7F7671",
+  "#3F3C3B"
+ ],
+ "sheet": "sheet-10",
+ "box": [
+  415,
+  1040,
+  640,
+  1245
+ ],
+ "license": {
+  "licence": "the store owner's own artwork, generated with ChatGPT; owner holds the rights",
+  "generated": "2026-11-16",
+  "source_url": "styles/references/inbox/sheet-10.png"
+ }
+}

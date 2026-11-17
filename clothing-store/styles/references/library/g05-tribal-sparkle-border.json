@@ -1,0 +1,48 @@
+{
+ "id": "g05-tribal-sparkle-border",
+ "name": "Tribal sparkle border",
+ "motif": "tribal",
+ "styles": [
+  "baddie",
+  "y2k"
+ ],
+ "mood": [
+  "chrome",
+  "tribal"
+ ],
+ "size": "medium",
+ "families": [
+  "decorated",
+  "print"
+ ],
+ "symmetric": false,
+ "band": true,
+ "kind": "border",
+ "placement": "hem",
+ "readability": "simplified",
+ "source": "owner-generated",
+ "mask": "owner/g05-tribal-sparkle-border.png",
+ "colour": "owner/g05-tribal-sparkle-border-colour.png",
+ "ink": "owner/g05-tribal-sparkle-border-ink.png",
+ "colours": [
+  "#C5B7BE",
+  "#63505B",
+  "#0E0006"
+ ],
+ "sheet": "sheet-05",
+ "box": [
+  30,
+  1135,
+  430,
+  1245
+ ],
+ "license": {
+  "licence": "the store owner's own artwork, generated with ChatGPT; owner holds the rights",
+  "generated": "2026-11-16",
+  "source_url": "styles/references/inbox/sheet-05.png"
+ },
+ "bold": "owner/g05-tribal-sparkle-border-bold.png",
+ "bold_below": 256,
+ "tile": "owner/g05-tribal-sparkle-border-tile.png",
+ "tile_mask": "owner/g05-tribal-sparkle-border-tile-mask.png"
+}

@@ -1,0 +1,45 @@
+{
+ "id": "g08-crowned-shield",
+ "name": "Crowned shield",
+ "motif": "shield",
+ "styles": [
+  "preppy",
+  "archive"
+ ],
+ "mood": [
+  "heraldic"
+ ],
+ "size": "medium",
+ "families": [
+  "decorated",
+  "print"
+ ],
+ "symmetric": false,
+ "band": false,
+ "kind": "motif",
+ "placement": "chest",
+ "readability": "simplified",
+ "source": "owner-generated",
+ "mask": "owner/g08-crowned-shield.png",
+ "colour": "owner/g08-crowned-shield-colour.png",
+ "ink": "owner/g08-crowned-shield-ink.png",
+ "colours": [
+  "#3D3C41",
+  "#BEB2A6",
+  "#010004"
+ ],
+ "sheet": "sheet-08",
+ "box": [
+  505,
+  250,
+  750,
+  515
+ ],
+ "license": {
+  "licence": "the store owner's own artwork, generated with ChatGPT; owner holds the rights",
+  "generated": "2026-11-16",
+  "source_url": "styles/references/inbox/sheet-08.png"
+ },
+ "bold": "owner/g08-crowned-shield-bold.png",
+ "bold_below": 48
+}

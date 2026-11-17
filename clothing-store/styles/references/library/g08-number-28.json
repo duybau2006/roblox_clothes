@@ -1,0 +1,45 @@
+{
+ "id": "g08-number-28",
+ "name": "Number 28",
+ "motif": "number",
+ "styles": [
+  "athleisure",
+  "preppy",
+  "gen-z"
+ ],
+ "mood": [
+  "varsity"
+ ],
+ "size": "large",
+ "families": [
+  "decorated",
+  "print",
+  "realistic"
+ ],
+ "symmetric": false,
+ "band": false,
+ "kind": "hero",
+ "placement": "back",
+ "readability": "ok",
+ "source": "owner-generated",
+ "mask": "owner/g08-number-28.png",
+ "colour": "owner/g08-number-28-colour.png",
+ "ink": "owner/g08-number-28-ink.png",
+ "colours": [
+  "#2E3340",
+  "#1F2332",
+  "#BAB2AB"
+ ],
+ "sheet": "sheet-08",
+ "box": [
+  1005,
+  22,
+  1248,
+  252
+ ],
+ "license": {
+  "licence": "the store owner's own artwork, generated with ChatGPT; owner holds the rights",
+  "generated": "2026-11-16",
+  "source_url": "styles/references/inbox/sheet-08.png"
+ }
+}

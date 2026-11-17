@@ -1,0 +1,46 @@
+{
+ "id": "g08-laurel-bow",
+ "name": "Laurel bow",
+ "motif": "laurel",
+ "styles": [
+  "preppy",
+  "athleisure",
+  "archive"
+ ],
+ "mood": [
+  "classic"
+ ],
+ "size": "medium",
+ "families": [
+  "decorated",
+  "print"
+ ],
+ "symmetric": false,
+ "band": false,
+ "kind": "motif",
+ "placement": "chest",
+ "readability": "simplified",
+ "source": "owner-generated",
+ "mask": "owner/g08-laurel-bow.png",
+ "colour": "owner/g08-laurel-bow-colour.png",
+ "ink": "owner/g08-laurel-bow-ink.png",
+ "colours": [
+  "#573C3F",
+  "#74685D",
+  "#988A7A"
+ ],
+ "sheet": "sheet-08",
+ "box": [
+  255,
+  265,
+  500,
+  510
+ ],
+ "license": {
+  "licence": "the store owner's own artwork, generated with ChatGPT; owner holds the rights",
+  "generated": "2026-11-16",
+  "source_url": "styles/references/inbox/sheet-08.png"
+ },
+ "bold": "owner/g08-laurel-bow-bold.png",
+ "bold_below": 48
+}

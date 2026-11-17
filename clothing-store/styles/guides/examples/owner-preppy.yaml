@@ -1,0 +1,42 @@
+id: owner-preppy
+style: preppy
+audience: masc
+family: realistic
+palette:
+- '#26304C'
+- '#EDE6D6'
+- '#6B2D3A'
+- '#3A2A20'
+recipes:
+- family: realistic
+  style: preppy
+  template: knit_stripes
+  colours:
+  - '#26304C'
+  - '#EDE6D6'
+  - '#6B2D3A'
+  - '#3A2A20'
+  seed: 21
+  swatch: argyle
+  tags:
+  - laurel
+  - tennis
+  ink: '#EDE6D6'
+torso:
+  garment: navy argyle sweater with a laurel badge
+arms: {}
+legs:
+  garment: wine trousers and brown loafers
+listings:
+  words:
+    colour: Navy
+    garment: Argyle Sweater
+    style:
+    - preppy
+  shirt:
+    name: Navy Argyle Sweater Preppy Outfit Top
+    description: A navy heavy knit argyle sweater with a small laurel badge on the chest and tennis rackets on the sleeve. Wear it with Navy Argyle Sweater Preppy Outfit Pants for the full look.
+  pants:
+    name: Navy Argyle Sweater Preppy Outfit Pants
+    description: Wine pressed trousers and brown loafers, with the argyle sweater on the torso. Wear them with Navy Argyle Sweater Preppy Outfit Top for the full look.
+moderation_check: Argyle, laurel and rackets from the owner's sheets; no crest of a real school or club, no text.

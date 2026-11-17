@@ -1,0 +1,44 @@
+{
+ "id": "g06-star-distressed",
+ "name": "Star distressed",
+ "motif": "star",
+ "styles": [
+  "grunge",
+  "emo",
+  "gen-z"
+ ],
+ "mood": [
+  "grunge"
+ ],
+ "size": "small",
+ "families": [
+  "decorated",
+  "print"
+ ],
+ "symmetric": false,
+ "band": false,
+ "kind": "motif",
+ "placement": "chest",
+ "readability": "ok",
+ "source": "owner-generated",
+ "mask": "owner/g06-star-distressed.png",
+ "colour": "owner/g06-star-distressed-colour.png",
+ "ink": "owner/g06-star-distressed-ink.png",
+ "colours": [
+  "#393637",
+  "#BEB5B2",
+  "#6A6564"
+ ],
+ "sheet": "sheet-06",
+ "box": [
+  455,
+  370,
+  592,
+  520
+ ],
+ "license": {
+  "licence": "the store owner's own artwork, generated with ChatGPT; owner holds the rights",
+  "generated": "2026-11-16",
+  "source_url": "styles/references/inbox/sheet-06.png"
+ }
+}

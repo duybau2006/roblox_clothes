@@ -1,0 +1,48 @@
+{
+ "id": "g03-baroque-border",
+ "name": "Baroque border",
+ "motif": "filigree",
+ "styles": [
+  "vamp-goth",
+  "archive",
+  "preppy"
+ ],
+ "mood": [
+  "baroque"
+ ],
+ "size": "medium",
+ "families": [
+  "decorated",
+  "print"
+ ],
+ "symmetric": false,
+ "band": true,
+ "kind": "border",
+ "placement": "hem",
+ "readability": "simplified",
+ "source": "owner-generated",
+ "mask": "owner/g03-baroque-border.png",
+ "colour": "owner/g03-baroque-border-colour.png",
+ "ink": "owner/g03-baroque-border-ink.png",
+ "colours": [
+  "#514545",
+  "#7F706E",
+  "#A1928E"
+ ],
+ "sheet": "sheet-03",
+ "box": [
+  440,
+  760,
+  850,
+  905
+ ],
+ "license": {
+  "licence": "the store owner's own artwork, generated with ChatGPT; owner holds the rights",
+  "generated": "2026-11-16",
+  "source_url": "styles/references/inbox/sheet-03.png"
+ },
+ "bold": "owner/g03-baroque-border-bold.png",
+ "bold_below": 256,
+ "tile": "owner/g03-baroque-border-tile.png",
+ "tile_mask": "owner/g03-baroque-border-tile-mask.png"
+}

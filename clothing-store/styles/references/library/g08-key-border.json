@@ -1,0 +1,45 @@
+{
+ "id": "g08-key-border",
+ "name": "Key border",
+ "motif": "meander",
+ "styles": [
+  "preppy",
+  "archive"
+ ],
+ "mood": [
+  "classic"
+ ],
+ "size": "small",
+ "families": [
+  "decorated",
+  "realistic"
+ ],
+ "symmetric": false,
+ "band": true,
+ "kind": "border",
+ "placement": "hem",
+ "readability": "ok",
+ "source": "owner-generated",
+ "mask": "owner/g08-key-border.png",
+ "colour": "owner/g08-key-border-colour.png",
+ "ink": "owner/g08-key-border-ink.png",
+ "colours": [
+  "#282D3D",
+  "#E5D9CC",
+  "#020203"
+ ],
+ "sheet": "sheet-08",
+ "box": [
+  938,
+  1170,
+  1250,
+  1245
+ ],
+ "license": {
+  "licence": "the store owner's own artwork, generated with ChatGPT; owner holds the rights",
+  "generated": "2026-11-16",
+  "source_url": "styles/references/inbox/sheet-08.png"
+ },
+ "tile": "owner/g08-key-border-tile.png",
+ "tile_mask": "owner/g08-key-border-tile-mask.png"
+}

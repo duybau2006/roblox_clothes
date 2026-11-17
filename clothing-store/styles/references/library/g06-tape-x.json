@@ -1,0 +1,43 @@
+{
+ "id": "g06-tape-x",
+ "name": "Tape x",
+ "motif": "tape",
+ "styles": [
+  "grunge",
+  "emo",
+  "archive"
+ ],
+ "mood": [
+  "diy"
+ ],
+ "size": "small",
+ "families": [
+  "decorated"
+ ],
+ "symmetric": false,
+ "band": false,
+ "kind": "motif",
+ "placement": "chest",
+ "readability": "ok",
+ "source": "owner-generated",
+ "mask": "owner/g06-tape-x.png",
+ "colour": "owner/g06-tape-x-colour.png",
+ "ink": "owner/g06-tape-x-ink.png",
+ "colours": [
+  "#686565",
+  "#9D9893",
+  "#212021"
+ ],
+ "sheet": "sheet-06",
+ "box": [
+  758,
+  638,
+  960,
+  800
+ ],
+ "license": {
+  "licence": "the store owner's own artwork, generated with ChatGPT; owner holds the rights",
+  "generated": "2026-11-16",
+  "source_url": "styles/references/inbox/sheet-06.png"
+ }
+}

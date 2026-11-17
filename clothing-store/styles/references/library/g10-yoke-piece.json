@@ -1,0 +1,41 @@
+{
+ "id": "g10-yoke-piece",
+ "name": "Yoke piece",
+ "motif": "panel",
+ "styles": [
+  "archive"
+ ],
+ "mood": [
+  "deconstructed"
+ ],
+ "size": "medium",
+ "families": [
+  "realistic"
+ ],
+ "symmetric": false,
+ "band": false,
+ "kind": "part",
+ "placement": "chest",
+ "readability": "ok",
+ "source": "owner-generated",
+ "mask": "owner/g10-yoke-piece.png",
+ "colour": "owner/g10-yoke-piece-colour.png",
+ "ink": "owner/g10-yoke-piece-ink.png",
+ "colours": [
+  "#C8C2BE",
+  "#A9A3A1",
+  "#474141"
+ ],
+ "sheet": "sheet-10",
+ "box": [
+  640,
+  922,
+  935,
+  1032
+ ],
+ "license": {
+  "licence": "the store owner's own artwork, generated with ChatGPT; owner holds the rights",
+  "generated": "2026-11-16",
+  "source_url": "styles/references/inbox/sheet-10.png"
+ }
+}

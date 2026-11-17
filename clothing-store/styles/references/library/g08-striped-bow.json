@@ -1,0 +1,45 @@
+{
+ "id": "g08-striped-bow",
+ "name": "Striped bow",
+ "motif": "bow",
+ "styles": [
+  "preppy",
+  "soft-girl"
+ ],
+ "mood": [
+  "classic"
+ ],
+ "size": "medium",
+ "families": [
+  "decorated",
+  "print"
+ ],
+ "symmetric": false,
+ "band": false,
+ "kind": "motif",
+ "placement": "chest",
+ "readability": "simplified",
+ "source": "owner-generated",
+ "mask": "owner/g08-striped-bow.png",
+ "colour": "owner/g08-striped-bow-colour.png",
+ "ink": "owner/g08-striped-bow-ink.png",
+ "colours": [
+  "#522935",
+  "#C4B0A7",
+  "#120006"
+ ],
+ "sheet": "sheet-08",
+ "box": [
+  995,
+  500,
+  1250,
+  735
+ ],
+ "license": {
+  "licence": "the store owner's own artwork, generated with ChatGPT; owner holds the rights",
+  "generated": "2026-11-16",
+  "source_url": "styles/references/inbox/sheet-08.png"
+ },
+ "bold": "owner/g08-striped-bow-bold.png",
+ "bold_below": 48
+}

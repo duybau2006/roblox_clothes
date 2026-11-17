@@ -1,0 +1,44 @@
+{
+ "id": "g02-orbit-swirl",
+ "name": "Orbit swirl",
+ "motif": "sparkle",
+ "styles": [
+  "y2k",
+  "baddie"
+ ],
+ "mood": [
+  "cosmic"
+ ],
+ "size": "large",
+ "families": [
+  "print"
+ ],
+ "symmetric": false,
+ "band": false,
+ "kind": "motif",
+ "placement": "chest",
+ "readability": "print-size only",
+ "source": "owner-generated",
+ "mask": "owner/g02-orbit-swirl.png",
+ "colour": "owner/g02-orbit-swirl-colour.png",
+ "ink": "owner/g02-orbit-swirl-ink.png",
+ "colours": [
+  "#776170",
+  "#A3909B",
+  "#D8C6CF"
+ ],
+ "sheet": "sheet-02",
+ "box": [
+  800,
+  620,
+  1070,
+  730
+ ],
+ "license": {
+  "licence": "the store owner's own artwork, generated with ChatGPT; owner holds the rights",
+  "generated": "2026-11-16",
+  "source_url": "styles/references/inbox/sheet-02.png"
+ },
+ "bold": "owner/g02-orbit-swirl-bold.png",
+ "bold_below": 48
+}

@@ -1,0 +1,45 @@
+{
+ "id": "g03-spider-web",
+ "name": "Spider web",
+ "motif": "web",
+ "styles": [
+  "vamp-goth",
+  "emo",
+  "grunge"
+ ],
+ "mood": [
+  "gothic"
+ ],
+ "size": "large",
+ "families": [
+  "print"
+ ],
+ "symmetric": false,
+ "band": false,
+ "kind": "motif",
+ "placement": "chest",
+ "readability": "print-size only",
+ "source": "owner-generated",
+ "mask": "owner/g03-spider-web.png",
+ "colour": "owner/g03-spider-web-colour.png",
+ "ink": "owner/g03-spider-web-ink.png",
+ "colours": [
+  "#382F30",
+  "#423939",
+  "#564E4B"
+ ],
+ "sheet": "sheet-03",
+ "box": [
+  425,
+  560,
+  650,
+  790
+ ],
+ "license": {
+  "licence": "the store owner's own artwork, generated with ChatGPT; owner holds the rights",
+  "generated": "2026-11-16",
+  "source_url": "styles/references/inbox/sheet-03.png"
+ },
+ "bold": "owner/g03-spider-web-bold.png",
+ "bold_below": 48
+}

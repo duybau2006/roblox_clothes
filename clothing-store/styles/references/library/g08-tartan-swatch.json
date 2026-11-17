@@ -1,0 +1,46 @@
+{
+ "id": "g08-tartan-swatch",
+ "name": "Tartan swatch",
+ "motif": "plaid",
+ "styles": [
+  "preppy",
+  "christmas",
+  "grunge"
+ ],
+ "mood": [
+  "classic"
+ ],
+ "size": "small",
+ "families": [
+  "decorated",
+  "realistic"
+ ],
+ "symmetric": false,
+ "band": false,
+ "kind": "swatch",
+ "placement": "allover",
+ "readability": "ok",
+ "source": "owner-generated",
+ "mask": "owner/g08-tartan-swatch.png",
+ "colour": "owner/g08-tartan-swatch-colour.png",
+ "ink": "owner/g08-tartan-swatch-ink.png",
+ "colours": [
+  "#432632",
+  "#4E363F",
+  "#9B8A87"
+ ],
+ "sheet": "sheet-08",
+ "box": [
+  712,
+  25,
+  908,
+  245
+ ],
+ "license": {
+  "licence": "the store owner's own artwork, generated with ChatGPT; owner holds the rights",
+  "generated": "2026-11-16",
+  "source_url": "styles/references/inbox/sheet-08.png"
+ },
+ "tile": "owner/g08-tartan-swatch-tile.png",
+ "tile_mask": "owner/g08-tartan-swatch-tile-mask.png"
+}

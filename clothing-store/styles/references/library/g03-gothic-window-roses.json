@@ -1,0 +1,45 @@
+{
+ "id": "g03-gothic-window-roses",
+ "name": "Gothic window roses",
+ "motif": "window",
+ "styles": [
+  "vamp-goth",
+  "archive"
+ ],
+ "mood": [
+  "gothic",
+  "romantic"
+ ],
+ "size": "medium",
+ "families": [
+  "print"
+ ],
+ "symmetric": false,
+ "band": false,
+ "kind": "hero",
+ "placement": "back",
+ "readability": "simplified",
+ "source": "owner-generated",
+ "mask": "owner/g03-gothic-window-roses.png",
+ "colour": "owner/g03-gothic-window-roses-colour.png",
+ "ink": "owner/g03-gothic-window-roses-ink.png",
+ "colours": [
+  "#46393A",
+  "#6D5D5C",
+  "#998885"
+ ],
+ "sheet": "sheet-03",
+ "box": [
+  1010,
+  10,
+  1250,
+  585
+ ],
+ "license": {
+  "licence": "the store owner's own artwork, generated with ChatGPT; owner holds the rights",
+  "generated": "2026-11-16",
+  "source_url": "styles/references/inbox/sheet-03.png"
+ },
+ "bold": "owner/g03-gothic-window-roses-bold.png",
+ "bold_below": 70
+}

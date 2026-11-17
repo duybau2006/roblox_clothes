@@ -1,0 +1,43 @@
+{
+ "id": "g04-scratched-broken-heart",
+ "name": "Scratched broken heart",
+ "motif": "heart",
+ "styles": [
+  "emo",
+  "grunge"
+ ],
+ "mood": [
+  "heartbreak"
+ ],
+ "size": "small",
+ "families": [
+  "decorated",
+  "print"
+ ],
+ "symmetric": false,
+ "band": false,
+ "kind": "motif",
+ "placement": "chest",
+ "readability": "ok",
+ "source": "owner-generated",
+ "mask": "owner/g04-scratched-broken-heart.png",
+ "colour": "owner/g04-scratched-broken-heart-colour.png",
+ "ink": "owner/g04-scratched-broken-heart-ink.png",
+ "colours": [
+  "#44363F",
+  "#8F7784",
+  "#B69FA9"
+ ],
+ "sheet": "sheet-04",
+ "box": [
+  528,
+  898,
+  672,
+  1025
+ ],
+ "license": {
+  "licence": "the store owner's own artwork, generated with ChatGPT; owner holds the rights",
+  "generated": "2026-11-16",
+  "source_url": "styles/references/inbox/sheet-04.png"
+ }
+}

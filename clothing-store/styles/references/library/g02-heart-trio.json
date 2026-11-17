@@ -1,0 +1,46 @@
+{
+ "id": "g02-heart-trio",
+ "name": "Heart trio",
+ "motif": "heart",
+ "styles": [
+  "y2k",
+  "baddie",
+  "soft-girl"
+ ],
+ "mood": [
+  "chrome",
+  "cute"
+ ],
+ "size": "medium",
+ "families": [
+  "decorated"
+ ],
+ "symmetric": false,
+ "band": false,
+ "kind": "motif",
+ "placement": "chest",
+ "readability": "simplified",
+ "source": "owner-generated",
+ "mask": "owner/g02-heart-trio.png",
+ "colour": "owner/g02-heart-trio-colour.png",
+ "ink": "owner/g02-heart-trio-ink.png",
+ "colours": [
+  "#6E5965",
+  "#A58797",
+  "#DEC6D4"
+ ],
+ "sheet": "sheet-02",
+ "box": [
+  22,
+  480,
+  245,
+  575
+ ],
+ "license": {
+  "licence": "the store owner's own artwork, generated with ChatGPT; owner holds the rights",
+  "generated": "2026-11-16",
+  "source_url": "styles/references/inbox/sheet-02.png"
+ },
+ "bold": "owner/g02-heart-trio-bold.png",
+ "bold_below": 48
+}

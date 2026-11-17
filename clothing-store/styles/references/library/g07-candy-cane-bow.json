@@ -1,0 +1,45 @@
+{
+ "id": "g07-candy-cane-bow",
+ "name": "Candy cane bow",
+ "motif": "candy",
+ "styles": [
+  "christmas",
+  "soft-girl"
+ ],
+ "mood": [
+  "festive"
+ ],
+ "size": "medium",
+ "families": [
+  "decorated",
+  "print"
+ ],
+ "symmetric": false,
+ "band": false,
+ "kind": "motif",
+ "placement": "sleeve",
+ "readability": "simplified",
+ "source": "owner-generated",
+ "mask": "owner/g07-candy-cane-bow.png",
+ "colour": "owner/g07-candy-cane-bow-colour.png",
+ "ink": "owner/g07-candy-cane-bow-ink.png",
+ "colours": [
+  "#BA8989",
+  "#DDBFBB",
+  "#EEDDD7"
+ ],
+ "sheet": "sheet-07",
+ "box": [
+  885,
+  235,
+  1045,
+  465
+ ],
+ "license": {
+  "licence": "the store owner's own artwork, generated with ChatGPT; owner holds the rights",
+  "generated": "2026-11-16",
+  "source_url": "styles/references/inbox/sheet-07.png"
+ },
+ "bold": "owner/g07-candy-cane-bow-bold.png",
+ "bold_below": 48
+}

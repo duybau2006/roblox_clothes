@@ -1,0 +1,73 @@
+id: owner-archive
+style: archive
+audience: masc
+family: realistic
+palette:
+- '#5A5650'
+- '#2B2B2E'
+- '#C9C2B6'
+- '#3A3A3C'
+shading:
+  mode: realistic
+  seed: 23
+torso:
+  garment: washed grey utility jacket with a grommet patch and frayed hem
+  garment_kind: jacket
+  material: cotton
+  palette:
+  - '#5A5650'
+  - '#2B2B2E'
+  - '#C9C2B6'
+  details: []
+  parts:
+  - collar_stand
+  - zip_full
+  hem: plain
+  hem_line: 108
+  decor:
+  - element: g10-grommet-patch
+    layout: chest
+    colour: '#C9C2B6'
+    size: 10
+  - element: g10-frayed-strip
+    layout: border
+    colour: '#2B2B2E'
+    height: 6
+arms:
+  sleeves: long
+  decor:
+  - element: g10-snap-tab
+    layout: sleeve
+    colour: '#2B2B2E'
+    size: 6
+legs:
+  garment: charcoal cargo trousers and black boots
+  type: trousers
+  garment_kind: trousers
+  material: cotton
+  waist_line: 96
+  waistband: plain
+  palette:
+  - '#3A3A3C'
+  parts:
+  - belt
+  - cargo_pockets
+  shoes: black boots
+  shoe_style: boot
+  shoe_palette:
+  - '#2B2B2E'
+  - '#2B2B2E'
+  - '#C9C2B6'
+listings:
+  words:
+    colour: Grey
+    garment: Utility Jacket
+    style:
+    - vintage
+  shirt:
+    name: Grey Utility Jacket Vintage Outfit Top
+    description: A washed grey utility jacket with a grommet patch on the chest, a snap tab on the sleeve and a frayed hem. Wear it with Grey Utility Jacket Vintage Outfit Pants for the full look.
+  pants:
+    name: Grey Utility Jacket Vintage Outfit Pants
+    description: Charcoal cargo trousers and black boots, with the utility jacket on the torso. Wear them with Grey Utility Jacket Vintage Outfit Top for the full look.
+moderation_check: Patch, frayed strip and snap tab from the owner's sheets; no insignia, ranks or text.

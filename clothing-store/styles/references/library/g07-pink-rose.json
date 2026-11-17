@@ -1,0 +1,44 @@
+{
+ "id": "g07-pink-rose",
+ "name": "Pink rose",
+ "motif": "rose",
+ "styles": [
+  "soft-girl",
+  "cottagecore",
+  "christmas"
+ ],
+ "mood": [
+  "romantic"
+ ],
+ "size": "small",
+ "families": [
+  "decorated",
+  "print"
+ ],
+ "symmetric": false,
+ "band": false,
+ "kind": "motif",
+ "placement": "chest",
+ "readability": "ok",
+ "source": "owner-generated",
+ "mask": "owner/g07-pink-rose.png",
+ "colour": "owner/g07-pink-rose-colour.png",
+ "ink": "owner/g07-pink-rose-ink.png",
+ "colours": [
+  "#B59992",
+  "#DDC6C2",
+  "#EDDEDA"
+ ],
+ "sheet": "sheet-07",
+ "box": [
+  420,
+  855,
+  600,
+  1005
+ ],
+ "license": {
+  "licence": "the store owner's own artwork, generated with ChatGPT; owner holds the rights",
+  "generated": "2026-11-16",
+  "source_url": "styles/references/inbox/sheet-07.png"
+ }
+}

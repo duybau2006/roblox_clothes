@@ -1,0 +1,49 @@
+{
+ "id": "g01-number-07",
+ "name": "Number 07",
+ "motif": "number",
+ "styles": [
+  "gen-z",
+  "athleisure",
+  "preppy",
+  "grunge"
+ ],
+ "mood": [
+  "sporty",
+  "varsity"
+ ],
+ "size": "medium",
+ "families": [
+  "decorated",
+  "print",
+  "realistic"
+ ],
+ "symmetric": false,
+ "band": false,
+ "kind": "hero",
+ "placement": "back",
+ "readability": "simplified",
+ "source": "owner-generated",
+ "mask": "owner/g01-number-07.png",
+ "colour": "owner/g01-number-07-colour.png",
+ "ink": "owner/g01-number-07-ink.png",
+ "colours": [
+  "#4E4C4D",
+  "#413E40",
+  "#595958"
+ ],
+ "sheet": "sheet-01",
+ "box": [
+  805,
+  550,
+  984,
+  688
+ ],
+ "license": {
+  "licence": "the store owner's own artwork, generated with ChatGPT; owner holds the rights",
+  "generated": "2026-11-16",
+  "source_url": "styles/references/inbox/sheet-01.png"
+ },
+ "bold": "owner/g01-number-07-bold.png",
+ "bold_below": 70
+}

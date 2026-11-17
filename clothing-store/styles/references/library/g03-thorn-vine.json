@@ -1,0 +1,48 @@
+{
+ "id": "g03-thorn-vine",
+ "name": "Thorn vine",
+ "motif": "thorn",
+ "styles": [
+  "vamp-goth",
+  "emo",
+  "grunge"
+ ],
+ "mood": [
+  "gothic"
+ ],
+ "size": "medium",
+ "families": [
+  "decorated",
+  "print"
+ ],
+ "symmetric": false,
+ "band": true,
+ "kind": "border",
+ "placement": "hem",
+ "readability": "simplified",
+ "source": "owner-generated",
+ "mask": "owner/g03-thorn-vine.png",
+ "colour": "owner/g03-thorn-vine-colour.png",
+ "ink": "owner/g03-thorn-vine-ink.png",
+ "colours": [
+  "#45393A",
+  "#675958",
+  "#887976"
+ ],
+ "sheet": "sheet-03",
+ "box": [
+  15,
+  685,
+  480,
+  805
+ ],
+ "license": {
+  "licence": "the store owner's own artwork, generated with ChatGPT; owner holds the rights",
+  "generated": "2026-11-16",
+  "source_url": "styles/references/inbox/sheet-03.png"
+ },
+ "bold": "owner/g03-thorn-vine-bold.png",
+ "bold_below": 256,
+ "tile": "owner/g03-thorn-vine-tile.png",
+ "tile_mask": "owner/g03-thorn-vine-tile-mask.png"
+}

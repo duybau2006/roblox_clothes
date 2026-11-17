@@ -1,0 +1,45 @@
+{
+ "id": "g10-distress-strip",
+ "name": "Distress strip",
+ "motif": "distress",
+ "styles": [
+  "archive",
+  "grunge"
+ ],
+ "mood": [
+  "worn"
+ ],
+ "size": "small",
+ "families": [
+  "decorated",
+  "realistic"
+ ],
+ "symmetric": false,
+ "band": true,
+ "kind": "border",
+ "placement": "hem",
+ "readability": "ok",
+ "source": "owner-generated",
+ "mask": "owner/g10-distress-strip.png",
+ "colour": "owner/g10-distress-strip-colour.png",
+ "ink": "owner/g10-distress-strip-ink.png",
+ "colours": [
+  "#595558",
+  "#BBB4B1",
+  "#010101"
+ ],
+ "sheet": "sheet-10",
+ "box": [
+  940,
+  915,
+  1248,
+  1042
+ ],
+ "license": {
+  "licence": "the store owner's own artwork, generated with ChatGPT; owner holds the rights",
+  "generated": "2026-11-16",
+  "source_url": "styles/references/inbox/sheet-10.png"
+ },
+ "tile": "owner/g10-distress-strip-tile.png",
+ "tile_mask": "owner/g10-distress-strip-tile-mask.png"
+}

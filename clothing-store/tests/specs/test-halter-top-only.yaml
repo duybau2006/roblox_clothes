@@ -1,0 +1,21 @@
+id: test-halter-top-only
+style: baddie
+audience: fem
+family: realistic
+coverage: top_only
+palette: ["#5E2633", "#1A1A1A"]
+shading: {mode: realistic, seed: 11}
+torso:
+  garment: burgundy satin halter top
+  garment_kind: tee
+  material: satin
+  palette: ["#5E2633", "#1A1A1A"]
+  hem: plain
+  hem_line: 100
+  cut: {style: halter, strap_width: 8}
+arms: {sleeves: long}
+legs: {}
+listings:
+  words: {colour: "Burgundy", garment: "Halter Top", style: ["baddie"]}
+  shirt: {name: "Burgundy Halter Top Baddie Top", description: "A burgundy satin halter top with bound edges; wear it with any bottoms."}
+moderation_check: "Halter top: high front panel, chest covered from row 18 down, open shoulders only; separate top."

@@ -1,0 +1,44 @@
+{
+ "id": "g07-sleepy-kitten",
+ "name": "Sleepy kitten",
+ "motif": "kitten",
+ "styles": [
+  "christmas",
+  "soft-girl"
+ ],
+ "mood": [
+  "cute",
+  "cozy"
+ ],
+ "size": "small",
+ "families": [
+  "decorated",
+  "print"
+ ],
+ "symmetric": false,
+ "band": false,
+ "kind": "motif",
+ "placement": "chest",
+ "readability": "ok",
+ "source": "owner-generated",
+ "mask": "owner/g07-sleepy-kitten.png",
+ "colour": "owner/g07-sleepy-kitten-colour.png",
+ "ink": "owner/g07-sleepy-kitten-ink.png",
+ "colours": [
+  "#EADED8",
+  "#D4BBB5",
+  "#AF8887"
+ ],
+ "sheet": "sheet-07",
+ "box": [
+  262,
+  465,
+  478,
+  665
+ ],
+ "license": {
+  "licence": "the store owner's own artwork, generated with ChatGPT; owner holds the rights",
+  "generated": "2026-11-16",
+  "source_url": "styles/references/inbox/sheet-07.png"
+ }
+}

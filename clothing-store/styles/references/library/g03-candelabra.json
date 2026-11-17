@@ -1,0 +1,44 @@
+{
+ "id": "g03-candelabra",
+ "name": "Candelabra",
+ "motif": "candle",
+ "styles": [
+  "vamp-goth",
+  "christmas"
+ ],
+ "mood": [
+  "gothic"
+ ],
+ "size": "medium",
+ "families": [
+  "print"
+ ],
+ "symmetric": false,
+ "band": false,
+ "kind": "hero",
+ "placement": "back",
+ "readability": "simplified",
+ "source": "owner-generated",
+ "mask": "owner/g03-candelabra.png",
+ "colour": "owner/g03-candelabra-colour.png",
+ "ink": "owner/g03-candelabra-ink.png",
+ "colours": [
+  "#463A3A",
+  "#766764",
+  "#A6938D"
+ ],
+ "sheet": "sheet-03",
+ "box": [
+  980,
+  345,
+  1180,
+  650
+ ],
+ "license": {
+  "licence": "the store owner's own artwork, generated with ChatGPT; owner holds the rights",
+  "generated": "2026-11-16",
+  "source_url": "styles/references/inbox/sheet-03.png"
+ },
+ "bold": "owner/g03-candelabra-bold.png",
+ "bold_below": 70
+}

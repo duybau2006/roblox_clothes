@@ -1,0 +1,43 @@
+{
+ "id": "g10-patchwork-stack",
+ "name": "Patchwork stack",
+ "motif": "patchwork",
+ "styles": [
+  "archive",
+  "grunge"
+ ],
+ "mood": [
+  "deconstructed"
+ ],
+ "size": "medium",
+ "families": [
+  "realistic",
+  "decorated"
+ ],
+ "symmetric": false,
+ "band": false,
+ "kind": "part",
+ "placement": "chest",
+ "readability": "ok",
+ "source": "owner-generated",
+ "mask": "owner/g10-patchwork-stack.png",
+ "colour": "owner/g10-patchwork-stack-colour.png",
+ "ink": "owner/g10-patchwork-stack-ink.png",
+ "colours": [
+  "#454444",
+  "#9F9996",
+  "#302D2F"
+ ],
+ "sheet": "sheet-10",
+ "box": [
+  540,
+  705,
+  748,
+  922
+ ],
+ "license": {
+  "licence": "the store owner's own artwork, generated with ChatGPT; owner holds the rights",
+  "generated": "2026-11-16",
+  "source_url": "styles/references/inbox/sheet-10.png"
+ }
+}

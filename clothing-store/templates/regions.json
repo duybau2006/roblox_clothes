@@ -1,0 +1,998 @@
+{
+ "canvas": [
+  585,
+  559
+ ],
+ "bleed_px": 2,
+ "edge_convention": "horizontal edges read left->right, vertical edges top->bottom; reversed=true means the two edges run in opposite directions",
+ "side_order": [
+  "front",
+  "left",
+  "back",
+  "right"
+ ],
+ "notes": [
+  "Measured from the official R15 templates (Classic-Clothing-Templates.zip). Both templates share one layout.",
+  "Limb 'left'/'right' faces are named from the avatar's point of view: on the right limb 'left' is the inner face, on the left limb 'left' is the outer face.",
+  "top/bottom faces of every part attach to its front face (top above front, bottom below front).",
+  "The pants torso is mostly hidden under the shirt torso; R15 LowerTorso uses roughly the bottom quarter of the torso panels.",
+  "outfit_seams: torso<->arm (shoulder, top 32 rows + top faces) and torso<->leg (hip) edges that touch on the avatar; one outfit renders the torso once into both files."
+ ],
+ "guide_colours": [
+  "#0074bd",
+  "#00a2ff",
+  "#02b757",
+  "#e2231a",
+  "#e3e3e3",
+  "#f68802",
+  "#f6b702"
+ ],
+ "garments": {
+  "shirt": {
+   "template": "templates/official/Template-Shirts-R15.png",
+   "parts": [
+    "torso",
+    "right_arm",
+    "left_arm"
+   ],
+   "panels": {
+    "torso.top": {
+     "x": 231,
+     "y": 8,
+     "w": 128,
+     "h": 64
+    },
+    "torso.right": {
+     "x": 165,
+     "y": 74,
+     "w": 64,
+     "h": 128
+    },
+    "torso.front": {
+     "x": 231,
+     "y": 74,
+     "w": 128,
+     "h": 128
+    },
+    "torso.left": {
+     "x": 361,
+     "y": 74,
+     "w": 64,
+     "h": 128
+    },
+    "torso.back": {
+     "x": 427,
+     "y": 74,
+     "w": 128,
+     "h": 128
+    },
+    "torso.bottom": {
+     "x": 231,
+     "y": 204,
+     "w": 128,
+     "h": 64
+    },
+    "right_arm.top": {
+     "x": 217,
+     "y": 289,
+     "w": 64,
+     "h": 64
+    },
+    "right_arm.left": {
+     "x": 19,
+     "y": 355,
+     "w": 64,
+     "h": 128
+    },
+    "right_arm.back": {
+     "x": 85,
+     "y": 355,
+     "w": 64,
+     "h": 128
+    },
+    "right_arm.right": {
+     "x": 151,
+     "y": 355,
+     "w": 64,
+     "h": 128
+    },
+    "right_arm.front": {
+     "x": 217,
+     "y": 355,
+     "w": 64,
+     "h": 128
+    },
+    "right_arm.bottom": {
+     "x": 217,
+     "y": 485,
+     "w": 64,
+     "h": 64
+    },
+    "left_arm.top": {
+     "x": 308,
+     "y": 289,
+     "w": 64,
+     "h": 64
+    },
+    "left_arm.front": {
+     "x": 308,
+     "y": 355,
+     "w": 64,
+     "h": 128
+    },
+    "left_arm.left": {
+     "x": 374,
+     "y": 355,
+     "w": 64,
+     "h": 128
+    },
+    "left_arm.back": {
+     "x": 440,
+     "y": 355,
+     "w": 64,
+     "h": 128
+    },
+    "left_arm.right": {
+     "x": 506,
+     "y": 355,
+     "w": 64,
+     "h": 128
+    },
+    "left_arm.bottom": {
+     "x": 308,
+     "y": 485,
+     "w": 64,
+     "h": 64
+    }
+   },
+   "seams": [
+    {
+     "a": "torso.front",
+     "a_edge": "right",
+     "b": "torso.left",
+     "b_edge": "left",
+     "reversed": false
+    },
+    {
+     "a": "torso.left",
+     "a_edge": "right",
+     "b": "torso.back",
+     "b_edge": "left",
+     "reversed": false
+    },
+    {
+     "a": "torso.back",
+     "a_edge": "right",
+     "b": "torso.right",
+     "b_edge": "left",
+     "reversed": false
+    },
+    {
+     "a": "torso.right",
+     "a_edge": "right",
+     "b": "torso.front",
+     "b_edge": "left",
+     "reversed": false
+    },
+    {
+     "a": "torso.top",
+     "a_edge": "bottom",
+     "b": "torso.front",
+     "b_edge": "top",
+     "reversed": false
+    },
+    {
+     "a": "torso.top",
+     "a_edge": "right",
+     "b": "torso.left",
+     "b_edge": "top",
+     "reversed": true
+    },
+    {
+     "a": "torso.top",
+     "a_edge": "top",
+     "b": "torso.back",
+     "b_edge": "top",
+     "reversed": true
+    },
+    {
+     "a": "torso.top",
+     "a_edge": "left",
+     "b": "torso.right",
+     "b_edge": "top",
+     "reversed": false
+    },
+    {
+     "a": "torso.bottom",
+     "a_edge": "top",
+     "b": "torso.front",
+     "b_edge": "bottom",
+     "reversed": false
+    },
+    {
+     "a": "torso.bottom",
+     "a_edge": "right",
+     "b": "torso.left",
+     "b_edge": "bottom",
+     "reversed": false
+    },
+    {
+     "a": "torso.bottom",
+     "a_edge": "bottom",
+     "b": "torso.back",
+     "b_edge": "bottom",
+     "reversed": true
+    },
+    {
+     "a": "torso.bottom",
+     "a_edge": "left",
+     "b": "torso.right",
+     "b_edge": "bottom",
+     "reversed": true
+    },
+    {
+     "a": "right_arm.front",
+     "a_edge": "right",
+     "b": "right_arm.left",
+     "b_edge": "left",
+     "reversed": false
+    },
+    {
+     "a": "right_arm.left",
+     "a_edge": "right",
+     "b": "right_arm.back",
+     "b_edge": "left",
+     "reversed": false
+    },
+    {
+     "a": "right_arm.back",
+     "a_edge": "right",
+     "b": "right_arm.right",
+     "b_edge": "left",
+     "reversed": false
+    },
+    {
+     "a": "right_arm.right",
+     "a_edge": "right",
+     "b": "right_arm.front",
+     "b_edge": "left",
+     "reversed": false
+    },
+    {
+     "a": "right_arm.top",
+     "a_edge": "bottom",
+     "b": "right_arm.front",
+     "b_edge": "top",
+     "reversed": false
+    },
+    {
+     "a": "right_arm.top",
+     "a_edge": "right",
+     "b": "right_arm.left",
+     "b_edge": "top",
+     "reversed": true
+    },
+    {
+     "a": "right_arm.top",
+     "a_edge": "top",
+     "b": "right_arm.back",
+     "b_edge": "top",
+     "reversed": true
+    },
+    {
+     "a": "right_arm.top",
+     "a_edge": "left",
+     "b": "right_arm.right",
+     "b_edge": "top",
+     "reversed": false
+    },
+    {
+     "a": "right_arm.bottom",
+     "a_edge": "top",
+     "b": "right_arm.front",
+     "b_edge": "bottom",
+     "reversed": false
+    },
+    {
+     "a": "right_arm.bottom",
+     "a_edge": "right",
+     "b": "right_arm.left",
+     "b_edge": "bottom",
+     "reversed": false
+    },
+    {
+     "a": "right_arm.bottom",
+     "a_edge": "bottom",
+     "b": "right_arm.back",
+     "b_edge": "bottom",
+     "reversed": true
+    },
+    {
+     "a": "right_arm.bottom",
+     "a_edge": "left",
+     "b": "right_arm.right",
+     "b_edge": "bottom",
+     "reversed": true
+    },
+    {
+     "a": "left_arm.front",
+     "a_edge": "right",
+     "b": "left_arm.left",
+     "b_edge": "left",
+     "reversed": false
+    },
+    {
+     "a": "left_arm.left",
+     "a_edge": "right",
+     "b": "left_arm.back",
+     "b_edge": "left",
+     "reversed": false
+    },
+    {
+     "a": "left_arm.back",
+     "a_edge": "right",
+     "b": "left_arm.right",
+     "b_edge": "left",
+     "reversed": false
+    },
+    {
+     "a": "left_arm.right",
+     "a_edge": "right",
+     "b": "left_arm.front",
+     "b_edge": "left",
+     "reversed": false
+    },
+    {
+     "a": "left_arm.top",
+     "a_edge": "bottom",
+     "b": "left_arm.front",
+     "b_edge": "top",
+     "reversed": false
+    },
+    {
+     "a": "left_arm.top",
+     "a_edge": "right",
+     "b": "left_arm.left",
+     "b_edge": "top",
+     "reversed": true
+    },
+    {
+     "a": "left_arm.top",
+     "a_edge": "top",
+     "b": "left_arm.back",
+     "b_edge": "top",
+     "reversed": true
+    },
+    {
+     "a": "left_arm.top",
+     "a_edge": "left",
+     "b": "left_arm.right",
+     "b_edge": "top",
+     "reversed": false
+    },
+    {
+     "a": "left_arm.bottom",
+     "a_edge": "top",
+     "b": "left_arm.front",
+     "b_edge": "bottom",
+     "reversed": false
+    },
+    {
+     "a": "left_arm.bottom",
+     "a_edge": "right",
+     "b": "left_arm.left",
+     "b_edge": "bottom",
+     "reversed": false
+    },
+    {
+     "a": "left_arm.bottom",
+     "a_edge": "bottom",
+     "b": "left_arm.back",
+     "b_edge": "bottom",
+     "reversed": true
+    },
+    {
+     "a": "left_arm.bottom",
+     "a_edge": "left",
+     "b": "left_arm.right",
+     "b_edge": "bottom",
+     "reversed": true
+    }
+   ],
+   "guide_lines": {
+    "limb_dotted_line_from_panel_top": 52,
+    "torso_dotted_line_from_panel_top": 96,
+    "meaning": "template note: max height of gloves (shirt) / shoes and lower-leg details (pants) on R15"
+   }
+  },
+  "pants": {
+   "template": "templates/official/Template-Pants-R15.png",
+   "parts": [
+    "torso",
+    "right_leg",
+    "left_leg"
+   ],
+   "panels": {
+    "torso.top": {
+     "x": 231,
+     "y": 8,
+     "w": 128,
+     "h": 64
+    },
+    "torso.right": {
+     "x": 165,
+     "y": 74,
+     "w": 64,
+     "h": 128
+    },
+    "torso.front": {
+     "x": 231,
+     "y": 74,
+     "w": 128,
+     "h": 128
+    },
+    "torso.left": {
+     "x": 361,
+     "y": 74,
+     "w": 64,
+     "h": 128
+    },
+    "torso.back": {
+     "x": 427,
+     "y": 74,
+     "w": 128,
+     "h": 128
+    },
+    "torso.bottom": {
+     "x": 231,
+     "y": 204,
+     "w": 128,
+     "h": 64
+    },
+    "right_leg.top": {
+     "x": 217,
+     "y": 289,
+     "w": 64,
+     "h": 64
+    },
+    "right_leg.left": {
+     "x": 19,
+     "y": 355,
+     "w": 64,
+     "h": 128
+    },
+    "right_leg.back": {
+     "x": 85,
+     "y": 355,
+     "w": 64,
+     "h": 128
+    },
+    "right_leg.right": {
+     "x": 151,
+     "y": 355,
+     "w": 64,
+     "h": 128
+    },
+    "right_leg.front": {
+     "x": 217,
+     "y": 355,
+     "w": 64,
+     "h": 128
+    },
+    "right_leg.bottom": {
+     "x": 217,
+     "y": 485,
+     "w": 64,
+     "h": 64
+    },
+    "left_leg.top": {
+     "x": 308,
+     "y": 289,
+     "w": 64,
+     "h": 64
+    },
+    "left_leg.front": {
+     "x": 308,
+     "y": 355,
+     "w": 64,
+     "h": 128
+    },
+    "left_leg.left": {
+     "x": 374,
+     "y": 355,
+     "w": 64,
+     "h": 128
+    },
+    "left_leg.back": {
+     "x": 440,
+     "y": 355,
+     "w": 64,
+     "h": 128
+    },
+    "left_leg.right": {
+     "x": 506,
+     "y": 355,
+     "w": 64,
+     "h": 128
+    },
+    "left_leg.bottom": {
+     "x": 308,
+     "y": 485,
+     "w": 64,
+     "h": 64
+    }
+   },
+   "seams": [
+    {
+     "a": "torso.front",
+     "a_edge": "right",
+     "b": "torso.left",
+     "b_edge": "left",
+     "reversed": false
+    },
+    {
+     "a": "torso.left",
+     "a_edge": "right",
+     "b": "torso.back",
+     "b_edge": "left",
+     "reversed": false
+    },
+    {
+     "a": "torso.back",
+     "a_edge": "right",
+     "b": "torso.right",
+     "b_edge": "left",
+     "reversed": false
+    },
+    {
+     "a": "torso.right",
+     "a_edge": "right",
+     "b": "torso.front",
+     "b_edge": "left",
+     "reversed": false
+    },
+    {
+     "a": "torso.top",
+     "a_edge": "bottom",
+     "b": "torso.front",
+     "b_edge": "top",
+     "reversed": false
+    },
+    {
+     "a": "torso.top",
+     "a_edge": "right",
+     "b": "torso.left",
+     "b_edge": "top",
+     "reversed": true
+    },
+    {
+     "a": "torso.top",
+     "a_edge": "top",
+     "b": "torso.back",
+     "b_edge": "top",
+     "reversed": true
+    },
+    {
+     "a": "torso.top",
+     "a_edge": "left",
+     "b": "torso.right",
+     "b_edge": "top",
+     "reversed": false
+    },
+    {
+     "a": "torso.bottom",
+     "a_edge": "top",
+     "b": "torso.front",
+     "b_edge": "bottom",
+     "reversed": false
+    },
+    {
+     "a": "torso.bottom",
+     "a_edge": "right",
+     "b": "torso.left",
+     "b_edge": "bottom",
+     "reversed": false
+    },
+    {
+     "a": "torso.bottom",
+     "a_edge": "bottom",
+     "b": "torso.back",
+     "b_edge": "bottom",
+     "reversed": true
+    },
+    {
+     "a": "torso.bottom",
+     "a_edge": "left",
+     "b": "torso.right",
+     "b_edge": "bottom",
+     "reversed": true
+    },
+    {
+     "a": "right_leg.front",
+     "a_edge": "right",
+     "b": "right_leg.left",
+     "b_edge": "left",
+     "reversed": false
+    },
+    {
+     "a": "right_leg.left",
+     "a_edge": "right",
+     "b": "right_leg.back",
+     "b_edge": "left",
+     "reversed": false
+    },
+    {
+     "a": "right_leg.back",
+     "a_edge": "right",
+     "b": "right_leg.right",
+     "b_edge": "left",
+     "reversed": false
+    },
+    {
+     "a": "right_leg.right",
+     "a_edge": "right",
+     "b": "right_leg.front",
+     "b_edge": "left",
+     "reversed": false
+    },
+    {
+     "a": "right_leg.top",
+     "a_edge": "bottom",
+     "b": "right_leg.front",
+     "b_edge": "top",
+     "reversed": false
+    },
+    {
+     "a": "right_leg.top",
+     "a_edge": "right",
+     "b": "right_leg.left",
+     "b_edge": "top",
+     "reversed": true
+    },
+    {
+     "a": "right_leg.top",
+     "a_edge": "top",
+     "b": "right_leg.back",
+     "b_edge": "top",
+     "reversed": true
+    },
+    {
+     "a": "right_leg.top",
+     "a_edge": "left",
+     "b": "right_leg.right",
+     "b_edge": "top",
+     "reversed": false
+    },
+    {
+     "a": "right_leg.bottom",
+     "a_edge": "top",
+     "b": "right_leg.front",
+     "b_edge": "bottom",
+     "reversed": false
+    },
+    {
+     "a": "right_leg.bottom",
+     "a_edge": "right",
+     "b": "right_leg.left",
+     "b_edge": "bottom",
+     "reversed": false
+    },
+    {
+     "a": "right_leg.bottom",
+     "a_edge": "bottom",
+     "b": "right_leg.back",
+     "b_edge": "bottom",
+     "reversed": true
+    },
+    {
+     "a": "right_leg.bottom",
+     "a_edge": "left",
+     "b": "right_leg.right",
+     "b_edge": "bottom",
+     "reversed": true
+    },
+    {
+     "a": "left_leg.front",
+     "a_edge": "right",
+     "b": "left_leg.left",
+     "b_edge": "left",
+     "reversed": false
+    },
+    {
+     "a": "left_leg.left",
+     "a_edge": "right",
+     "b": "left_leg.back",
+     "b_edge": "left",
+     "reversed": false
+    },
+    {
+     "a": "left_leg.back",
+     "a_edge": "right",
+     "b": "left_leg.right",
+     "b_edge": "left",
+     "reversed": false
+    },
+    {
+     "a": "left_leg.right",
+     "a_edge": "right",
+     "b": "left_leg.front",
+     "b_edge": "left",
+     "reversed": false
+    },
+    {
+     "a": "left_leg.top",
+     "a_edge": "bottom",
+     "b": "left_leg.front",
+     "b_edge": "top",
+     "reversed": false
+    },
+    {
+     "a": "left_leg.top",
+     "a_edge": "right",
+     "b": "left_leg.left",
+     "b_edge": "top",
+     "reversed": true
+    },
+    {
+     "a": "left_leg.top",
+     "a_edge": "top",
+     "b": "left_leg.back",
+     "b_edge": "top",
+     "reversed": true
+    },
+    {
+     "a": "left_leg.top",
+     "a_edge": "left",
+     "b": "left_leg.right",
+     "b_edge": "top",
+     "reversed": false
+    },
+    {
+     "a": "left_leg.bottom",
+     "a_edge": "top",
+     "b": "left_leg.front",
+     "b_edge": "bottom",
+     "reversed": false
+    },
+    {
+     "a": "left_leg.bottom",
+     "a_edge": "right",
+     "b": "left_leg.left",
+     "b_edge": "bottom",
+     "reversed": false
+    },
+    {
+     "a": "left_leg.bottom",
+     "a_edge": "bottom",
+     "b": "left_leg.back",
+     "b_edge": "bottom",
+     "reversed": true
+    },
+    {
+     "a": "left_leg.bottom",
+     "a_edge": "left",
+     "b": "left_leg.right",
+     "b_edge": "bottom",
+     "reversed": true
+    }
+   ],
+   "guide_lines": {
+    "limb_dotted_line_from_panel_top": 52,
+    "torso_dotted_line_from_panel_top": 96,
+    "meaning": "template note: max height of gloves (shirt) / shoes and lower-leg details (pants) on R15"
+   }
+  }
+ },
+ "outfit_seams": {
+  "shoulder": [
+   {
+    "file": "shirt",
+    "a": "torso.front",
+    "a_edge": "left",
+    "a_range": [
+     0,
+     32
+    ],
+    "b": "right_arm.front",
+    "b_edge": "right",
+    "b_range": [
+     0,
+     32
+    ],
+    "reversed": false
+   },
+   {
+    "file": "shirt",
+    "a": "torso.front",
+    "a_edge": "right",
+    "a_range": [
+     0,
+     32
+    ],
+    "b": "left_arm.front",
+    "b_edge": "left",
+    "b_range": [
+     0,
+     32
+    ],
+    "reversed": false
+   },
+   {
+    "file": "shirt",
+    "a": "torso.back",
+    "a_edge": "left",
+    "a_range": [
+     0,
+     32
+    ],
+    "b": "left_arm.back",
+    "b_edge": "right",
+    "b_range": [
+     0,
+     32
+    ],
+    "reversed": false
+   },
+   {
+    "file": "shirt",
+    "a": "torso.back",
+    "a_edge": "right",
+    "a_range": [
+     0,
+     32
+    ],
+    "b": "right_arm.back",
+    "b_edge": "left",
+    "b_range": [
+     0,
+     32
+    ],
+    "reversed": false
+   },
+   {
+    "file": "shirt",
+    "a": "torso.top",
+    "a_edge": "left",
+    "a_range": [
+     0,
+     64
+    ],
+    "b": "right_arm.top",
+    "b_edge": "right",
+    "b_range": [
+     0,
+     64
+    ],
+    "reversed": false
+   },
+   {
+    "file": "shirt",
+    "a": "torso.top",
+    "a_edge": "right",
+    "a_range": [
+     0,
+     64
+    ],
+    "b": "left_arm.top",
+    "b_edge": "left",
+    "b_range": [
+     0,
+     64
+    ],
+    "reversed": false
+   }
+  ],
+  "hip": [
+   {
+    "file": "pants",
+    "a": "torso.front",
+    "a_edge": "bottom",
+    "a_range": [
+     0,
+     64
+    ],
+    "b": "right_leg.front",
+    "b_edge": "top",
+    "b_range": [
+     0,
+     64
+    ],
+    "reversed": false
+   },
+   {
+    "file": "pants",
+    "a": "torso.front",
+    "a_edge": "bottom",
+    "a_range": [
+     64,
+     128
+    ],
+    "b": "left_leg.front",
+    "b_edge": "top",
+    "b_range": [
+     0,
+     64
+    ],
+    "reversed": false
+   },
+   {
+    "file": "pants",
+    "a": "torso.left",
+    "a_edge": "bottom",
+    "a_range": [
+     0,
+     64
+    ],
+    "b": "left_leg.left",
+    "b_edge": "top",
+    "b_range": [
+     0,
+     64
+    ],
+    "reversed": false
+   },
+   {
+    "file": "pants",
+    "a": "torso.back",
+    "a_edge": "bottom",
+    "a_range": [
+     0,
+     64
+    ],
+    "b": "left_leg.back",
+    "b_edge": "top",
+    "b_range": [
+     0,
+     64
+    ],
+    "reversed": false
+   },
+   {
+    "file": "pants",
+    "a": "torso.back",
+    "a_edge": "bottom",
+    "a_range": [
+     64,
+     128
+    ],
+    "b": "right_leg.back",
+    "b_edge": "top",
+    "b_range": [
+     0,
+     64
+    ],
+    "reversed": false
+   },
+   {
+    "file": "pants",
+    "a": "torso.right",
+    "a_edge": "bottom",
+    "a_range": [
+     0,
+     64
+    ],
+    "b": "right_leg.right",
+    "b_edge": "top",
+    "b_range": [
+     0,
+     64
+    ],
+    "reversed": false
+   }
+  ]
+ },
+ "rig_calibration": {
+  "checked": "2026-11-16 in Roblox Studio with calibration/calibration-*.png on R15 and R6 block rigs",
+  "panel_map": "confirmed: every panel on the expected face, upright, not mirrored, on both rigs",
+  "seams": "confirmed: all edge tags (incl. top/bottom faces) name the panel they touch; shoulder and hip neighbours as in outfit_seams",
+  "r6": "one part per body part; each side panel maps whole and uniformly (no splits)",
+  "r15_splits_rows_from_panel_top": {
+   "torso_upper_lower": 92,
+   "elbow": 50,
+   "hand": 110,
+   "knee": 51,
+   "foot": 106
+  },
+  "r15_note": "each R15 part maps its own slice of the panel at its own scale; splits measured +-2 px from screenshots"
+ }
+}

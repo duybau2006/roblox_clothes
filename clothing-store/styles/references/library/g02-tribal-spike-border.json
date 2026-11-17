@@ -1,0 +1,49 @@
+{
+ "id": "g02-tribal-spike-border",
+ "name": "Tribal spike border",
+ "motif": "tribal",
+ "styles": [
+  "y2k",
+  "baddie",
+  "emo"
+ ],
+ "mood": [
+  "chrome",
+  "tribal"
+ ],
+ "size": "medium",
+ "families": [
+  "decorated",
+  "print"
+ ],
+ "symmetric": false,
+ "band": true,
+ "kind": "border",
+ "placement": "hem",
+ "readability": "simplified",
+ "source": "owner-generated",
+ "mask": "owner/g02-tribal-spike-border.png",
+ "colour": "owner/g02-tribal-spike-border-colour.png",
+ "ink": "owner/g02-tribal-spike-border-ink.png",
+ "colours": [
+  "#60585F",
+  "#9D969C",
+  "#CEC8CC"
+ ],
+ "sheet": "sheet-02",
+ "box": [
+  18,
+  980,
+  445,
+  1075
+ ],
+ "license": {
+  "licence": "the store owner's own artwork, generated with ChatGPT; owner holds the rights",
+  "generated": "2026-11-16",
+  "source_url": "styles/references/inbox/sheet-02.png"
+ },
+ "bold": "owner/g02-tribal-spike-border-bold.png",
+ "bold_below": 256,
+ "tile": "owner/g02-tribal-spike-border-tile.png",
+ "tile_mask": "owner/g02-tribal-spike-border-tile-mask.png"
+}

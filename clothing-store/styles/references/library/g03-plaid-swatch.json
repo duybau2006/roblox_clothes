@@ -1,0 +1,46 @@
+{
+ "id": "g03-plaid-swatch",
+ "name": "Plaid swatch",
+ "motif": "plaid",
+ "styles": [
+  "vamp-goth",
+  "grunge",
+  "emo"
+ ],
+ "mood": [
+  "dark"
+ ],
+ "size": "small",
+ "families": [
+  "decorated",
+  "realistic"
+ ],
+ "symmetric": false,
+ "band": false,
+ "kind": "swatch",
+ "placement": "allover",
+ "readability": "ok",
+ "source": "owner-generated",
+ "mask": "owner/g03-plaid-swatch.png",
+ "colour": "owner/g03-plaid-swatch-colour.png",
+ "ink": "owner/g03-plaid-swatch-ink.png",
+ "colours": [
+  "#564246",
+  "#7F6A6B",
+  "#3A2E31"
+ ],
+ "sheet": "sheet-03",
+ "box": [
+  20,
+  1115,
+  235,
+  1240
+ ],
+ "license": {
+  "licence": "the store owner's own artwork, generated with ChatGPT; owner holds the rights",
+  "generated": "2026-11-16",
+  "source_url": "styles/references/inbox/sheet-03.png"
+ },
+ "tile": "owner/g03-plaid-swatch-tile.png",
+ "tile_mask": "owner/g03-plaid-swatch-tile-mask.png"
+}

@@ -1,0 +1,43 @@
+{
+ "id": "g07-snow-globe",
+ "name": "Snow globe",
+ "motif": "globe",
+ "styles": [
+  "christmas",
+  "soft-girl"
+ ],
+ "mood": [
+  "festive"
+ ],
+ "size": "small",
+ "families": [
+  "decorated",
+  "print"
+ ],
+ "symmetric": false,
+ "band": false,
+ "kind": "motif",
+ "placement": "chest",
+ "readability": "ok",
+ "source": "owner-generated",
+ "mask": "owner/g07-snow-globe.png",
+ "colour": "owner/g07-snow-globe-colour.png",
+ "ink": "owner/g07-snow-globe-ink.png",
+ "colours": [
+  "#E6DAD5",
+  "#C1AEAC",
+  "#988081"
+ ],
+ "sheet": "sheet-07",
+ "box": [
+  465,
+  655,
+  628,
+  840
+ ],
+ "license": {
+  "licence": "the store owner's own artwork, generated with ChatGPT; owner holds the rights",
+  "generated": "2026-11-16",
+  "source_url": "styles/references/inbox/sheet-07.png"
+ }
+}

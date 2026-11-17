@@ -1,0 +1,75 @@
+torso:
+  garment_kind: corset
+  material: leather
+  palette:
+  - '#1A1A1A'
+  - '#1A1A1A'
+  - '#8E1B2B'
+  details: []
+  hem: plain
+  hem_line: 100
+  cut:
+    style: tank
+    neckline: v
+    depth: 34
+    width: 18
+    strap_width: 8
+  parts:
+  - lacing
+  garment: black leather corset-style top with straps and red front lacing
+arms:
+  sleeves: long
+legs:
+  type: trousers
+  garment_kind: trousers
+  material: cotton
+  waist_line: 98
+  waistband: plain
+  palette:
+  - '#2E2E34'
+  parts:
+  - belt
+  shoes: boots
+  shoe_style: boot
+  shoe_palette:
+  - '#1A1A1A'
+  - '#1A1A1A'
+  - '#8E1B2B'
+  garment: dark grey trousers with a belt and black boots
+  _identity: null
+shading:
+  mode: realistic
+  seed: 6
+  wrinkles: 1.0
+id: bad-neckline-deep
+style: vamp-goth
+audience: fem
+family: realistic
+palette:
+- '#1A1A1A'
+- '#2E2E34'
+- '#8E1B2B'
+recipes:
+- family: realistic
+  style: vamp-goth
+  template: corset_trousers
+  colours:
+  - '#1A1A1A'
+  - '#2E2E34'
+  - '#8E1B2B'
+  - '#1A1A1A'
+  seed: 6
+listings:
+  words:
+    colour: Black
+    garment: Corset Top
+    style:
+    - vamp
+    - goth
+  shirt:
+    name: Black Corset Top Vamp Goth Outfit Top
+    description: A black leather corset-style top with shoulder straps, boning seams and red lacing over a solid front panel. Wear it with Black Corset Top Vamp Goth Outfit Pants for the full look.
+  pants:
+    name: Black Corset Top Vamp Goth Outfit Pants
+    description: Dark grey trousers with a belt and black lace-up boots, with the corset top on the torso. Wear them with Black Corset Top Vamp Goth Outfit Top for the full look.
+moderation_check: 'Ordinary corset-style top: full chest coverage, solid panel behind the lacing, 8 px straps, square neckline 8 rows deep; no lingerie look, nothing sheer.'

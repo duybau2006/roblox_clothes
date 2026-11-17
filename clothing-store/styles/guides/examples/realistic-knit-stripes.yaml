@@ -1,0 +1,16 @@
+id: realistic-knit-stripes
+style: preppy
+audience: unisex
+family: realistic
+palette: ["#EDE6D6", "#2F3B5C", "#6B5B45", "#3A2A20"]
+recipes:
+  - {family: realistic, style: preppy, template: knit_stripes, colours: ["#EDE6D6", "#2F3B5C", "#6B5B45", "#3A2A20"],
+     seed: 2}
+torso: {garment: cream heavy knit sweater with wrapped navy stripes}
+arms: {}
+legs: {garment: brown pressed trousers with loafers}
+listings:
+  words: {colour: "Cream", garment: "Striped Sweater", style: ["preppy"]}
+  shirt: {name: "Cream Striped Sweater Preppy Outfit Top", description: "A cream heavy knit sweater with navy stripes that wrap all the way round, ribbed collar, cuffs and hem. Wear it with Cream Striped Sweater Preppy Outfit Pants for the full look."}
+  pants: {name: "Cream Striped Sweater Preppy Outfit Pants", description: "Brown pressed trousers with a front crease and brown loafers, with the striped sweater on the torso. Wear them with Cream Striped Sweater Preppy Outfit Top for the full look."}
+moderation_check: "Plain stripes and knit texture; no crest, text or brand marks."

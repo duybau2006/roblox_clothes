@@ -1,0 +1,45 @@
+{
+ "id": "g08-three-stars",
+ "name": "Three stars",
+ "motif": "star",
+ "styles": [
+  "preppy",
+  "athleisure"
+ ],
+ "mood": [
+  "varsity"
+ ],
+ "size": "medium",
+ "families": [
+  "decorated",
+  "print"
+ ],
+ "symmetric": false,
+ "band": false,
+ "kind": "motif",
+ "placement": "chest",
+ "readability": "simplified",
+ "source": "owner-generated",
+ "mask": "owner/g08-three-stars.png",
+ "colour": "owner/g08-three-stars-colour.png",
+ "ink": "owner/g08-three-stars-ink.png",
+ "colours": [
+  "#2B3145",
+  "#353B4E",
+  "#3D4556"
+ ],
+ "sheet": "sheet-08",
+ "box": [
+  530,
+  918,
+  732,
+  1008
+ ],
+ "license": {
+  "licence": "the store owner's own artwork, generated with ChatGPT; owner holds the rights",
+  "generated": "2026-11-16",
+  "source_url": "styles/references/inbox/sheet-08.png"
+ },
+ "bold": "owner/g08-three-stars-bold.png",
+ "bold_below": 48
+}

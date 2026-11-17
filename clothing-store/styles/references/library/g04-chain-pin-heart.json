@@ -1,0 +1,46 @@
+{
+ "id": "g04-chain-pin-heart",
+ "name": "Chain pin heart",
+ "motif": "heart",
+ "styles": [
+  "emo",
+  "grunge",
+  "baddie"
+ ],
+ "mood": [
+  "punk"
+ ],
+ "size": "medium",
+ "families": [
+  "decorated",
+  "print"
+ ],
+ "symmetric": false,
+ "band": false,
+ "kind": "motif",
+ "placement": "chest",
+ "readability": "simplified",
+ "source": "owner-generated",
+ "mask": "owner/g04-chain-pin-heart.png",
+ "colour": "owner/g04-chain-pin-heart-colour.png",
+ "ink": "owner/g04-chain-pin-heart-ink.png",
+ "colours": [
+  "#353033",
+  "#9C9698",
+  "#050003"
+ ],
+ "sheet": "sheet-04",
+ "box": [
+  885,
+  405,
+  1080,
+  580
+ ],
+ "license": {
+  "licence": "the store owner's own artwork, generated with ChatGPT; owner holds the rights",
+  "generated": "2026-11-16",
+  "source_url": "styles/references/inbox/sheet-04.png"
+ },
+ "bold": "owner/g04-chain-pin-heart-bold.png",
+ "bold_below": 48
+}

@@ -1,0 +1,69 @@
+id: owner-soft-girl
+style: soft-girl
+audience: fem
+family: decorated
+palette:
+- '#F4D6DE'
+- '#FFFFFF'
+- '#C9798F'
+- '#F2F0EB'
+torso:
+  garment: pink sweater with a lace bow and gingham ruffle hem
+  palette:
+  - '#F4D6DE'
+  - '#F2F0EB'
+  - '#C9798F'
+  details:
+  - crew collar
+  hem: rib
+  hem_line: 108
+  decor:
+  - element: g07-lace-bow
+    layout: chest
+    colour: '#C9798F'
+    size: 10
+  - element: g07-gingham-ruffle-border
+    layout: border
+    colour: '#C9798F'
+    height: 7
+arms:
+  sleeves: long
+  details:
+  - ribbed cuffs
+legs:
+  garment: white pleated skirt and pink loafers
+  type: skirt
+  waist_line: 96
+  waistband: plain
+  palette:
+  - '#FFFFFF'
+  details:
+  - pleats
+  skirt_length: 44
+  legwear: socks
+  legwear_palette:
+  - '#F2F0EB'
+  sock_top: 74
+  shoes: pink loafers
+  shoe_palette:
+  - '#C9798F'
+  - '#F4D6DE'
+  decor:
+  - element: g09-gingham-heart
+    layout: thigh
+    colour: '#C9798F'
+    size: 5
+listings:
+  words:
+    colour: Pink
+    garment: Bow Sweater
+    style:
+    - cute
+    - girl
+  shirt:
+    name: Pink Bow Sweater Cute Girl Outfit Top
+    description: A soft pink sweater with a lace bow on the chest and a gingham ruffle trim at the hem. Wear it with Pink Bow Sweater Cute Girl Outfit Pants for the full look.
+  pants:
+    name: Pink Bow Sweater Cute Girl Outfit Pants
+    description: A white pleated skirt with a small gingham heart, socks and pink loafers, with the bow sweater on the torso. Wear them with Pink Bow Sweater Cute Girl Outfit Top for the full look.
+moderation_check: Bow, gingham trim and heart from the owner's sheets; skirt 44 rows with socks.

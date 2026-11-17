@@ -1,0 +1,62 @@
+id: owner-vamp-goth
+style: vamp-goth
+audience: unisex
+family: print
+palette:
+- '#1E1E22'
+- '#E8E4DC'
+- '#3A2A32'
+- '#5E2633'
+torso:
+  garment: black long sleeve with a moon and bat back print
+  palette:
+  - '#1E1E22'
+  base_pattern: faded_black
+  details:
+  - crew collar
+  hem: plain
+  hem_line: 112
+  decor:
+  - print:
+      placement: back
+      template: centered_stack
+      elements:
+      - g03-crescent-moon
+      - g03-bat
+      ink: '#E8E4DC'
+      distress: 1
+      seed: 3
+arms:
+  sleeves: long
+legs:
+  garment: dark wine plaid trousers and black boots
+  type: trousers
+  waist_line: 92
+  waistband: plain
+  palette:
+  - '#3A2A32'
+  - '#5E2633'
+  - '#1E1E22'
+  base_pattern: swatch
+  pattern:
+    element: g03-plaid-swatch
+  details:
+  - belt loops
+  shoes: black boots
+  shoe_palette:
+  - '#1E1E22'
+  - '#3A2A32'
+listings:
+  words:
+    colour: Black
+    garment: Moon Bat Tee
+    style:
+    - vamp
+    - goth
+  shirt:
+    name: Black Moon Bat Tee Vamp Goth Outfit Top
+    description: A faded black long sleeve with a bone-white crescent moon and bat printed on the back. Wear it with Black Moon Bat Tee Vamp Goth Outfit Pants for the full look.
+  pants:
+    name: Black Moon Bat Tee Vamp Goth Outfit Pants
+    description: Dark wine plaid trousers and black boots, with the moon bat tee on the torso. Wear them with Black Moon Bat Tee Vamp Goth Outfit Top for the full look.
+moderation_check: Moon, bat and plaid fabric from the owner's sheets; no crosses, coffins or gore.

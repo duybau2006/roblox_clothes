@@ -1,0 +1,84 @@
+torso:
+  garment_kind: shirt
+  material: cotton
+  palette:
+  - '#F2F0EB'
+  - '#F2F0EB'
+  - '#8E1B2B'
+  details: []
+  hem: none
+  hem_line: 98
+  parts:
+  - collar_shirt
+  garment: white collared shirt with a burgundy bow
+  decor:
+  - element: bow-ribbon
+    layout: chest
+    colour: '#8E1B2B'
+    size: 9
+arms:
+  sleeves: short
+legs:
+  type: skirt
+  garment_kind: skirt
+  material: cotton
+  waist_line: 96
+  waistband: plain
+  palette:
+  - '#2F3B5C'
+  details:
+  - pleats
+  skirt_length: 44
+  legwear: socks
+  legwear_palette:
+  - '#F2F0EB'
+  sock_top: 74
+  shoes: loafers
+  shoe_style: loafer
+  shoe_palette:
+  - '#1A1A1A'
+  - '#1A1A1A'
+  garment: navy pleated skirt with small bows, white socks and black loafers
+  decor:
+  - element: bow
+    layout: row
+    colour: '#8E1B2B'
+    size: 6
+  _identity: null
+shading:
+  mode: realistic
+  seed: 7
+  wrinkles: 1.0
+id: realistic-pleated-skirt-bows
+style: soft-girl
+audience: fem
+family: realistic
+palette:
+- '#F2F0EB'
+- '#2F3B5C'
+- '#8E1B2B'
+- '#1A1A1A'
+recipes:
+- family: realistic
+  style: soft-girl
+  template: pleated_skirt_bows
+  colours:
+  - '#F2F0EB'
+  - '#2F3B5C'
+  - '#8E1B2B'
+  - '#1A1A1A'
+  seed: 7
+listings:
+  words:
+    colour: Navy
+    garment: Pleated Skirt
+    style:
+    - cute
+    - preppy
+  shirt:
+    name: Navy Pleated Skirt Cute Preppy Outfit Top
+    description: A white collared shirt with a burgundy ribbon bow, tucked into the navy skirt. Wear it with Navy Pleated Skirt Cute Preppy Outfit Pants for the full look.
+  pants:
+    name: Navy Pleated Skirt Cute Preppy Outfit Pants
+    description: A navy pleated skirt with a row of small burgundy bows, white socks and black loafers. Wear it with Navy Pleated Skirt Cute Preppy Outfit Top for the full look.
+moderation_check: Skirt 44 rows with socks (min 32); ordinary school-style look with no crest or school name.

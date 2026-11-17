@@ -1,0 +1,43 @@
+{
+ "id": "g05-pink-butterfly",
+ "name": "Pink butterfly",
+ "motif": "butterfly",
+ "styles": [
+  "baddie",
+  "y2k",
+  "soft-girl"
+ ],
+ "mood": [
+  "cute"
+ ],
+ "size": "small",
+ "families": [
+  "decorated"
+ ],
+ "symmetric": false,
+ "band": false,
+ "kind": "motif",
+ "placement": "sleeve",
+ "readability": "ok",
+ "source": "owner-generated",
+ "mask": "owner/g05-pink-butterfly.png",
+ "colour": "owner/g05-pink-butterfly-colour.png",
+ "ink": "owner/g05-pink-butterfly-ink.png",
+ "colours": [
+  "#886776",
+  "#C6A2B2",
+  "#E2CAD5"
+ ],
+ "sheet": "sheet-05",
+ "box": [
+  958,
+  390,
+  1110,
+  505
+ ],
+ "license": {
+  "licence": "the store owner's own artwork, generated with ChatGPT; owner holds the rights",
+  "generated": "2026-11-16",
+  "source_url": "styles/references/inbox/sheet-05.png"
+ }
+}

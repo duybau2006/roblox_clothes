@@ -1,0 +1,42 @@
+{
+ "id": "g04-heartbeat-heart",
+ "name": "Heartbeat heart",
+ "motif": "heart",
+ "styles": [
+  "emo",
+  "gen-z"
+ ],
+ "mood": [
+  "heartbreak"
+ ],
+ "size": "large",
+ "families": [
+  "print"
+ ],
+ "symmetric": false,
+ "band": false,
+ "kind": "motif",
+ "placement": "chest",
+ "readability": "print-size only",
+ "source": "owner-generated",
+ "mask": "owner/g04-heartbeat-heart.png",
+ "colour": "owner/g04-heartbeat-heart-colour.png",
+ "ink": "owner/g04-heartbeat-heart-ink.png",
+ "colours": [
+  "#30272D",
+  "#392F35",
+  "#42373D"
+ ],
+ "sheet": "sheet-04",
+ "box": [
+  300,
+  900,
+  520,
+  1010
+ ],
+ "license": {
+  "licence": "the store owner's own artwork, generated with ChatGPT; owner holds the rights",
+  "generated": "2026-11-16",
+  "source_url": "styles/references/inbox/sheet-04.png"
+ }
+}

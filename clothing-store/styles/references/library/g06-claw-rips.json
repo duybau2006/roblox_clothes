@@ -1,0 +1,44 @@
+{
+ "id": "g06-claw-rips",
+ "name": "Claw rips",
+ "motif": "rip",
+ "styles": [
+  "grunge",
+  "archive",
+  "emo"
+ ],
+ "mood": [
+  "distressed"
+ ],
+ "size": "large",
+ "families": [
+  "decorated",
+  "realistic"
+ ],
+ "symmetric": false,
+ "band": false,
+ "kind": "texture",
+ "placement": "allover",
+ "readability": "ok",
+ "source": "owner-generated",
+ "mask": "owner/g06-claw-rips.png",
+ "colour": "owner/g06-claw-rips-colour.png",
+ "ink": "owner/g06-claw-rips-ink.png",
+ "colours": [
+  "#686362",
+  "#030003",
+  "#000001"
+ ],
+ "sheet": "sheet-06",
+ "box": [
+  812,
+  345,
+  1095,
+  515
+ ],
+ "license": {
+  "licence": "the store owner's own artwork, generated with ChatGPT; owner holds the rights",
+  "generated": "2026-11-16",
+  "source_url": "styles/references/inbox/sheet-06.png"
+ }
+}

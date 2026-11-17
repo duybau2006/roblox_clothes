@@ -1,0 +1,32 @@
+{
+ "id": "acanthus-scroll",
+ "name": "Acanthus scroll (after a CC0 15th-c. ornament engraving)",
+ "motif": "filigree",
+ "styles": [
+  "vamp-goth",
+  "archive",
+  "preppy",
+  "baddie"
+ ],
+ "mood": [
+  "vintage",
+  "engraved"
+ ],
+ "size": "large",
+ "families": [
+  "print"
+ ],
+ "symmetric": false,
+ "band": false,
+ "source": "public-domain",
+ "mask": "acanthus-scroll.png",
+ "license": {
+  "licence": "CC0 1.0 (The Met Open Access, isPublicDomain = true)",
+  "source_url": "https://www.metmuseum.org/art/collection/search/336169",
+  "image_url": "https://images.metmuseum.org/CRDImages/dp/original/DP819997.jpg",
+  "title": "Foliate Ornament",
+  "artist": "Master W with Key",
+  "date": "ca. 1465\u201390",
+  "checked": "2026-11-16 via collectionapi.metmuseum.org"
+ }
+}

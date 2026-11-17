@@ -1,0 +1,45 @@
+{
+ "id": "g08-cable-knit-swatch",
+ "name": "Cable knit swatch",
+ "motif": "knit",
+ "styles": [
+  "preppy",
+  "christmas"
+ ],
+ "mood": [
+  "cozy"
+ ],
+ "size": "small",
+ "families": [
+  "decorated",
+  "realistic"
+ ],
+ "symmetric": false,
+ "band": false,
+ "kind": "swatch",
+ "placement": "allover",
+ "readability": "ok",
+ "source": "owner-generated",
+ "mask": "owner/g08-cable-knit-swatch.png",
+ "colour": "owner/g08-cable-knit-swatch-colour.png",
+ "ink": "owner/g08-cable-knit-swatch-ink.png",
+ "colours": [
+  "#BCA99B",
+  "#DACABB",
+  "#EFE1D4"
+ ],
+ "sheet": "sheet-08",
+ "box": [
+  275,
+  20,
+  475,
+  245
+ ],
+ "license": {
+  "licence": "the store owner's own artwork, generated with ChatGPT; owner holds the rights",
+  "generated": "2026-11-16",
+  "source_url": "styles/references/inbox/sheet-08.png"
+ },
+ "tile": "owner/g08-cable-knit-swatch-tile.png",
+ "tile_mask": "owner/g08-cable-knit-swatch-tile-mask.png"
+}

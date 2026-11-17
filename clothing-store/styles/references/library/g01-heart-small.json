@@ -1,0 +1,43 @@
+{
+ "id": "g01-heart-small",
+ "name": "Heart small",
+ "motif": "heart",
+ "styles": [
+  "gen-z",
+  "emo",
+  "baddie"
+ ],
+ "mood": [
+  "minimal"
+ ],
+ "size": "small",
+ "families": [
+  "decorated"
+ ],
+ "symmetric": false,
+ "band": false,
+ "kind": "motif",
+ "placement": "sleeve",
+ "readability": "ok",
+ "source": "owner-generated",
+ "mask": "owner/g01-heart-small.png",
+ "colour": "owner/g01-heart-small-colour.png",
+ "ink": "owner/g01-heart-small-ink.png",
+ "colours": [
+  "#3C3B3B",
+  "#494847",
+  "#545452"
+ ],
+ "sheet": "sheet-01",
+ "box": [
+  522,
+  405,
+  606,
+  498
+ ],
+ "license": {
+  "licence": "the store owner's own artwork, generated with ChatGPT; owner holds the rights",
+  "generated": "2026-11-16",
+  "source_url": "styles/references/inbox/sheet-01.png"
+ }
+}

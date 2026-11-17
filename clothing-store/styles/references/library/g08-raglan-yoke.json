@@ -1,0 +1,43 @@
+{
+ "id": "g08-raglan-yoke",
+ "name": "Raglan yoke",
+ "motif": "raglan",
+ "styles": [
+  "athleisure",
+  "preppy",
+  "gen-z"
+ ],
+ "mood": [
+  "sporty"
+ ],
+ "size": "medium",
+ "families": [
+  "realistic"
+ ],
+ "symmetric": false,
+ "band": false,
+ "kind": "part",
+ "placement": "chest",
+ "readability": "ok",
+ "source": "owner-generated",
+ "mask": "owner/g08-raglan-yoke.png",
+ "colour": "owner/g08-raglan-yoke-colour.png",
+ "ink": "owner/g08-raglan-yoke-ink.png",
+ "colours": [
+  "#252A3B",
+  "#DED2C6",
+  "#4E515D"
+ ],
+ "sheet": "sheet-08",
+ "box": [
+  628,
+  732,
+  968,
+  890
+ ],
+ "license": {
+  "licence": "the store owner's own artwork, generated with ChatGPT; owner holds the rights",
+  "generated": "2026-11-16",
+  "source_url": "styles/references/inbox/sheet-08.png"
+ }
+}

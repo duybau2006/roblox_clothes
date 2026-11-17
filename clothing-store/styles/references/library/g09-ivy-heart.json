@@ -1,0 +1,44 @@
+{
+ "id": "g09-ivy-heart",
+ "name": "Ivy heart",
+ "motif": "heart",
+ "styles": [
+  "cottagecore"
+ ],
+ "mood": [
+  "natural"
+ ],
+ "size": "medium",
+ "families": [
+  "decorated",
+  "print"
+ ],
+ "symmetric": false,
+ "band": false,
+ "kind": "motif",
+ "placement": "chest",
+ "readability": "simplified",
+ "source": "owner-generated",
+ "mask": "owner/g09-ivy-heart.png",
+ "colour": "owner/g09-ivy-heart-colour.png",
+ "ink": "owner/g09-ivy-heart-ink.png",
+ "colours": [
+  "#867254",
+  "#9F8A6B",
+  "#AF9C7C"
+ ],
+ "sheet": "sheet-09",
+ "box": [
+  875,
+  760,
+  1085,
+  970
+ ],
+ "license": {
+  "licence": "the store owner's own artwork, generated with ChatGPT; owner holds the rights",
+  "generated": "2026-11-16",
+  "source_url": "styles/references/inbox/sheet-09.png"
+ },
+ "bold": "owner/g09-ivy-heart-bold.png",
+ "bold_below": 48
+}

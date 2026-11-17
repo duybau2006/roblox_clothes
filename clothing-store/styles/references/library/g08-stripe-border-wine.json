@@ -1,0 +1,45 @@
+{
+ "id": "g08-stripe-border-wine",
+ "name": "Stripe border wine",
+ "motif": "stripe",
+ "styles": [
+  "preppy",
+  "athleisure"
+ ],
+ "mood": [
+  "classic"
+ ],
+ "size": "small",
+ "families": [
+  "decorated",
+  "realistic"
+ ],
+ "symmetric": false,
+ "band": true,
+ "kind": "border",
+ "placement": "hem",
+ "readability": "ok",
+ "source": "owner-generated",
+ "mask": "owner/g08-stripe-border-wine.png",
+ "colour": "owner/g08-stripe-border-wine-colour.png",
+ "ink": "owner/g08-stripe-border-wine-ink.png",
+ "colours": [
+  "#572937",
+  "#E6D9CD",
+  "#100609"
+ ],
+ "sheet": "sheet-08",
+ "box": [
+  325,
+  1068,
+  615,
+  1155
+ ],
+ "license": {
+  "licence": "the store owner's own artwork, generated with ChatGPT; owner holds the rights",
+  "generated": "2026-11-16",
+  "source_url": "styles/references/inbox/sheet-08.png"
+ },
+ "tile": "owner/g08-stripe-border-wine-tile.png",
+ "tile_mask": "owner/g08-stripe-border-wine-tile-mask.png"
+}

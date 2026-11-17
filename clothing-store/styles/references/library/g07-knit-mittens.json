@@ -1,0 +1,42 @@
+{
+ "id": "g07-knit-mittens",
+ "name": "Knit mittens",
+ "motif": "mitten",
+ "styles": [
+  "christmas",
+  "soft-girl"
+ ],
+ "mood": [
+  "cozy"
+ ],
+ "size": "small",
+ "families": [
+  "decorated"
+ ],
+ "symmetric": false,
+ "band": false,
+ "kind": "motif",
+ "placement": "chest",
+ "readability": "ok",
+ "source": "owner-generated",
+ "mask": "owner/g07-knit-mittens.png",
+ "colour": "owner/g07-knit-mittens-colour.png",
+ "ink": "owner/g07-knit-mittens-ink.png",
+ "colours": [
+  "#EBDCD6",
+  "#CCAFAA",
+  "#A07877"
+ ],
+ "sheet": "sheet-07",
+ "box": [
+  268,
+  245,
+  475,
+  465
+ ],
+ "license": {
+  "licence": "the store owner's own artwork, generated with ChatGPT; owner holds the rights",
+  "generated": "2026-11-16",
+  "source_url": "styles/references/inbox/sheet-07.png"
+ }
+}

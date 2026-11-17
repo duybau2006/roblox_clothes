@@ -1,0 +1,45 @@
+{
+ "id": "g05-chain-gem-drape",
+ "name": "Chain gem drape",
+ "motif": "chain",
+ "styles": [
+  "baddie",
+  "y2k"
+ ],
+ "mood": [
+  "glam"
+ ],
+ "size": "medium",
+ "families": [
+  "decorated",
+  "print"
+ ],
+ "symmetric": false,
+ "band": false,
+ "kind": "motif",
+ "placement": "chest",
+ "readability": "simplified",
+ "source": "owner-generated",
+ "mask": "owner/g05-chain-gem-drape.png",
+ "colour": "owner/g05-chain-gem-drape-colour.png",
+ "ink": "owner/g05-chain-gem-drape-ink.png",
+ "colours": [
+  "#716265",
+  "#AEA1A3",
+  "#DAD1D2"
+ ],
+ "sheet": "sheet-05",
+ "box": [
+  675,
+  1045,
+  995,
+  1240
+ ],
+ "license": {
+  "licence": "the store owner's own artwork, generated with ChatGPT; owner holds the rights",
+  "generated": "2026-11-16",
+  "source_url": "styles/references/inbox/sheet-05.png"
+ },
+ "bold": "owner/g05-chain-gem-drape-bold.png",
+ "bold_below": 48
+}

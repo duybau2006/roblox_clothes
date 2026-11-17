@@ -1,0 +1,59 @@
+id: bad-held-element
+style: gen-z
+audience: unisex
+family: decorated
+palette:
+- '#F2F0EB'
+- '#2B2B2B'
+- '#9DB4CF'
+- '#FFFFFF'
+torso:
+  garment: white tee with a star and a checker hem trim
+  palette:
+  - '#F2F0EB'
+  details:
+  - crew collar
+  hem: plain
+  hem_line: 104
+  decor:
+  - element: winged-cross
+    layout: chest
+    colour: '#2B2B2B'
+arms:
+  sleeves: short
+  decor:
+  - element: g01-sparkle-pair
+    layout: sleeve
+    colour: '#2B2B2B'
+    size: 6
+legs:
+  garment: light baggy jeans and white sneakers
+  type: trousers
+  waist_line: 96
+  waistband: plain
+  base_pattern: denim
+  details:
+  - belt loops
+  palette:
+  - '#9DB4CF'
+  shoes: white sneakers
+  shoe_palette:
+  - '#FFFFFF'
+  - '#F2F0EB'
+listings:
+  words:
+    colour: White
+    garment: Star Tee
+    style:
+    - trendy
+  shirt:
+    name: White Star Tee Trendy Outfit Top
+    description: A white tee with a small black star on the chest, sparkles on the
+      sleeve and a checker trim at the hem. Wear it with White Star Tee Trendy Outfit
+      Pants for the full look.
+  pants:
+    name: White Star Tee Trendy Outfit Pants
+    description: Light baggy jeans and white sneakers, with the star tee on the torso.
+      Wear them with White Star Tee Trendy Outfit Top for the full look.
+moderation_check: Owner artwork only (star, sparkles, checker); no text, logos or
+  brands.

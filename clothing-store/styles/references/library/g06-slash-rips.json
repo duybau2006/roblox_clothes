@@ -1,0 +1,44 @@
+{
+ "id": "g06-slash-rips",
+ "name": "Slash rips",
+ "motif": "rip",
+ "styles": [
+  "grunge",
+  "emo",
+  "archive"
+ ],
+ "mood": [
+  "distressed"
+ ],
+ "size": "large",
+ "families": [
+  "decorated",
+  "realistic"
+ ],
+ "symmetric": false,
+ "band": false,
+ "kind": "texture",
+ "placement": "sleeve",
+ "readability": "ok",
+ "source": "owner-generated",
+ "mask": "owner/g06-slash-rips.png",
+ "colour": "owner/g06-slash-rips-colour.png",
+ "ink": "owner/g06-slash-rips-ink.png",
+ "colours": [
+  "#292628",
+  "#514C4C",
+  "#847F7D"
+ ],
+ "sheet": "sheet-06",
+ "box": [
+  1105,
+  350,
+  1238,
+  530
+ ],
+ "license": {
+  "licence": "the store owner's own artwork, generated with ChatGPT; owner holds the rights",
+  "generated": "2026-11-16",
+  "source_url": "styles/references/inbox/sheet-06.png"
+ }
+}

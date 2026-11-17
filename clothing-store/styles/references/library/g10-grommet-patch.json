@@ -1,0 +1,43 @@
+{
+ "id": "g10-grommet-patch",
+ "name": "Grommet patch",
+ "motif": "patch",
+ "styles": [
+  "archive",
+  "grunge"
+ ],
+ "mood": [
+  "utility"
+ ],
+ "size": "medium",
+ "families": [
+  "realistic",
+  "decorated"
+ ],
+ "symmetric": false,
+ "band": false,
+ "kind": "part",
+ "placement": "chest",
+ "readability": "ok",
+ "source": "owner-generated",
+ "mask": "owner/g10-grommet-patch.png",
+ "colour": "owner/g10-grommet-patch-colour.png",
+ "ink": "owner/g10-grommet-patch-ink.png",
+ "colours": [
+  "#403D3F",
+  "#6D6B69",
+  "#282528"
+ ],
+ "sheet": "sheet-10",
+ "box": [
+  320,
+  505,
+  553,
+  720
+ ],
+ "license": {
+  "licence": "the store owner's own artwork, generated with ChatGPT; owner holds the rights",
+  "generated": "2026-11-16",
+  "source_url": "styles/references/inbox/sheet-10.png"
+ }
+}

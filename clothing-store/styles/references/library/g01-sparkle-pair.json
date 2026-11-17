@@ -1,0 +1,46 @@
+{
+ "id": "g01-sparkle-pair",
+ "name": "Sparkle pair",
+ "motif": "sparkle",
+ "styles": [
+  "gen-z",
+  "y2k",
+  "baddie",
+  "emo"
+ ],
+ "mood": [
+  "glint"
+ ],
+ "size": "medium",
+ "families": [
+  "decorated"
+ ],
+ "symmetric": false,
+ "band": false,
+ "kind": "motif",
+ "placement": "sleeve",
+ "readability": "simplified",
+ "source": "owner-generated",
+ "mask": "owner/g01-sparkle-pair.png",
+ "colour": "owner/g01-sparkle-pair-colour.png",
+ "ink": "owner/g01-sparkle-pair-ink.png",
+ "colours": [
+  "#454244",
+  "#525151",
+  "#5E5E5C"
+ ],
+ "sheet": "sheet-01",
+ "box": [
+  826,
+  382,
+  945,
+  490
+ ],
+ "license": {
+  "licence": "the store owner's own artwork, generated with ChatGPT; owner holds the rights",
+  "generated": "2026-11-16",
+  "source_url": "styles/references/inbox/sheet-01.png"
+ },
+ "bold": "owner/g01-sparkle-pair-bold.png",
+ "bold_below": 48
+}

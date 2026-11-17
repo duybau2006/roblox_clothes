@@ -1,0 +1,57 @@
+id: guide-preppy
+style: preppy-old-money
+blend_with: ''
+audience: masc
+family: decorated
+palette:
+- '#1C2A4A'
+- '#F3EBDD'
+- '#9C8A5E'
+- '#6B4A2B'
+- '#2E4A36'
+torso:
+  garment: navy knit sweater
+  palette:
+  - '#1C2A4A'
+  - '#2E4A36'
+  - '#F3EBDD'
+  base_pattern: argyle
+  details:
+  - crew collar
+  hem: rib
+  hem_line: 108
+arms:
+  details:
+  - ribbed cuffs
+  sleeves: long
+legs:
+  garment: khaki chinos
+  type: trousers
+  waist_line: 96
+  waistband: plain
+  palette:
+  - '#9C8A5E'
+  - '#6B4A2B'
+  base_pattern: solid
+  details:
+  - belt loops
+  - button
+  - side pockets
+  shoes: brown loafers
+  shoe_palette:
+  - '#6B4A2B'
+  - '#6B4A2B'
+listings:
+  words:
+    colour: Navy
+    garment: Sweater Chinos
+    style:
+    - preppy
+    - vintage
+  shirt:
+    name: Navy Sweater Chinos Preppy Vintage Outfit Top
+    description: A navy knit sweater with cream rib trim. Wear it with Navy Sweater Chinos Preppy Vintage Outfit Pants for the full look.
+  pants:
+    name: Navy Sweater Chinos Preppy Vintage Outfit Pants
+    description: Khaki chinos with brown loafers, with the navy sweater on the torso. Wear them with Navy Sweater Chinos Preppy Vintage Outfit Top for the full look.
+moderation_check: No crests, polo-player or animal emblems, no text.

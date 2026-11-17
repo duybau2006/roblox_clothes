@@ -1,0 +1,29 @@
+{
+ "source_url": "supplied by the store owner in chat on 2026-11-16 (original source not stated)",
+ "author": "not stated",
+ "licence": "not stated: owner to confirm source and licence before upload",
+ "credit": "unknown",
+ "fetched": "2026-11-16",
+ "provenance": "owner-supplied",
+ "licence_confirmed": false,
+ "id": "own-shade-1",
+ "file": "own-shade-1.png",
+ "raw_name": "1.png",
+ "garment": "shirt + pants",
+ "style": "soft scribble folds (black overlay)",
+ "strength": 1.0,
+ "parts": [
+  "torso",
+  "arms",
+  "legs"
+ ],
+ "seams_before": {
+  "failing_pairs": 0,
+  "worst_mean": 0.0
+ },
+ "seams_after": {
+  "failing_pairs": 0,
+  "worst_mean": 0.0
+ },
+ "notes": "585x559 transparent overlay, alpha folded into the map"
+}

@@ -1,0 +1,114 @@
+{
+ "id": "cherry",
+ "name": "Cherries",
+ "motif": "cherry",
+ "styles": [
+  "y2k",
+  "soft-girl",
+  "cottagecore",
+  "gen-z",
+  "baddie"
+ ],
+ "mood": [
+  "cute"
+ ],
+ "size": "small",
+ "families": [
+  "decorated",
+  "print"
+ ],
+ "symmetric": false,
+ "band": false,
+ "source": "original",
+ "shapes": [
+  {
+   "t": "line",
+   "pts": [
+    [
+     -0.45,
+     0.2
+    ],
+    [
+     0.1,
+     -0.9
+    ],
+    [
+     0.45,
+     0.25
+    ]
+   ],
+   "w": 0.08,
+   "tone": 1
+  },
+  {
+   "t": "poly",
+   "pts": [
+    [
+     0.1,
+     -0.85
+    ],
+    [
+     0.31,
+     -0.958
+    ],
+    [
+     0.55,
+     -0.922
+    ],
+    [
+     0.37,
+     -0.778
+    ]
+   ],
+   "tone": 1
+  },
+  {
+   "t": "ellipse",
+   "c": [
+    -0.45,
+    0.45
+   ],
+   "r": [
+    0.42,
+    0.42
+   ],
+   "tone": 0
+  },
+  {
+   "t": "ellipse",
+   "c": [
+    0.45,
+    0.45
+   ],
+   "r": [
+    0.42,
+    0.42
+   ],
+   "tone": 0
+  },
+  {
+   "t": "ellipse",
+   "c": [
+    -0.55,
+    0.32
+   ],
+   "r": [
+    0.1,
+    0.09
+   ],
+   "tone": 2
+  },
+  {
+   "t": "ellipse",
+   "c": [
+    0.35,
+    0.32
+   ],
+   "r": [
+    0.1,
+    0.09
+   ],
+   "tone": 2
+  }
+ ]
+}

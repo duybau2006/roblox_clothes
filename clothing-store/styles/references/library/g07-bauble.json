@@ -1,0 +1,42 @@
+{
+ "id": "g07-bauble",
+ "name": "Bauble",
+ "motif": "ornament",
+ "styles": [
+  "christmas"
+ ],
+ "mood": [
+  "festive"
+ ],
+ "size": "small",
+ "families": [
+  "decorated",
+  "print"
+ ],
+ "symmetric": false,
+ "band": false,
+ "kind": "motif",
+ "placement": "chest",
+ "readability": "ok",
+ "source": "owner-generated",
+ "mask": "owner/g07-bauble.png",
+ "colour": "owner/g07-bauble-colour.png",
+ "ink": "owner/g07-bauble-ink.png",
+ "colours": [
+  "#C09594",
+  "#DCBBB8",
+  "#EBD7D2"
+ ],
+ "sheet": "sheet-07",
+ "box": [
+  695,
+  230,
+  885,
+  450
+ ],
+ "license": {
+  "licence": "the store owner's own artwork, generated with ChatGPT; owner holds the rights",
+  "generated": "2026-11-16",
+  "source_url": "styles/references/inbox/sheet-07.png"
+ }
+}

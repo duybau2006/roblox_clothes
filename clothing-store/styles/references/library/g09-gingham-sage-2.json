@@ -1,0 +1,44 @@
+{
+ "id": "g09-gingham-sage-2",
+ "name": "Gingham sage 2",
+ "motif": "gingham",
+ "styles": [
+  "cottagecore"
+ ],
+ "mood": [
+  "cute"
+ ],
+ "size": "small",
+ "families": [
+  "decorated",
+  "realistic"
+ ],
+ "symmetric": false,
+ "band": false,
+ "kind": "swatch",
+ "placement": "allover",
+ "readability": "ok",
+ "source": "owner-generated",
+ "mask": "owner/g09-gingham-sage-2.png",
+ "colour": "owner/g09-gingham-sage-2-colour.png",
+ "ink": "owner/g09-gingham-sage-2-ink.png",
+ "colours": [
+  "#BAAA97",
+  "#988977",
+  "#020202"
+ ],
+ "sheet": "sheet-09",
+ "box": [
+  1095,
+  1098,
+  1245,
+  1245
+ ],
+ "license": {
+  "licence": "the store owner's own artwork, generated with ChatGPT; owner holds the rights",
+  "generated": "2026-11-16",
+  "source_url": "styles/references/inbox/sheet-09.png"
+ },
+ "tile": "owner/g09-gingham-sage-2-tile.png",
+ "tile_mask": "owner/g09-gingham-sage-2-tile-mask.png"
+}

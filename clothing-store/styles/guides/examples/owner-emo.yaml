@@ -1,0 +1,67 @@
+id: owner-emo
+style: emo
+audience: unisex
+family: decorated
+palette:
+- '#161618'
+- '#F2F0EB'
+- '#E0457B'
+- '#2B2B2E'
+torso:
+  garment: black zip hoodie with a barbed heart and checker hem
+  palette:
+  - '#161618'
+  - '#2B2B2E'
+  - '#E0457B'
+  details:
+  - hood
+  - zip
+  hem: rib
+  hem_line: 110
+  decor:
+  - element: g04-barbed-heart
+    layout: back
+    colour: '#E0457B'
+    size: 20
+  - element: g04-checker-border
+    layout: border
+    colour: '#F2F0EB'
+    height: 6
+    row: 90
+arms:
+  sleeves: long
+  details:
+  - ribbed cuffs
+  decor:
+  - element: g04-star-row
+    layout: border
+    colour: '#F2F0EB'
+    height: 5
+    row: 78
+legs:
+  garment: black skinny jeans and black sneakers
+  type: trousers
+  waist_line: 96
+  waistband: plain
+  base_pattern: denim
+  details:
+  - belt loops
+  palette:
+  - '#2B2B2E'
+  shoes: white sneakers
+  shoe_palette:
+  - '#161618'
+  - '#F2F0EB'
+listings:
+  words:
+    colour: Black
+    garment: Zip Hoodie
+    style:
+    - emo
+  shirt:
+    name: Black Zip Hoodie Emo Outfit Top
+    description: A black zip hoodie with a pink barbed-wire heart on the back, a checker band and a star row on the sleeves. Wear it with Black Zip Hoodie Emo Outfit Pants for the full look.
+  pants:
+    name: Black Zip Hoodie Emo Outfit Pants
+    description: Black skinny jeans and black sneakers, with the zip hoodie on the torso. Wear them with Black Zip Hoodie Emo Outfit Top for the full look.
+moderation_check: Barbed heart, checker and stars from the owner's sheets; no blood, crosses or band names.

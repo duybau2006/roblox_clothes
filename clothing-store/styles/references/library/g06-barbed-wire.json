@@ -1,0 +1,48 @@
+{
+ "id": "g06-barbed-wire",
+ "name": "Barbed wire",
+ "motif": "barbed",
+ "styles": [
+  "grunge",
+  "emo",
+  "vamp-goth"
+ ],
+ "mood": [
+  "edgy"
+ ],
+ "size": "medium",
+ "families": [
+  "decorated",
+  "print"
+ ],
+ "symmetric": false,
+ "band": true,
+ "kind": "border",
+ "placement": "hem",
+ "readability": "simplified",
+ "source": "owner-generated",
+ "mask": "owner/g06-barbed-wire.png",
+ "colour": "owner/g06-barbed-wire-colour.png",
+ "ink": "owner/g06-barbed-wire-ink.png",
+ "colours": [
+  "#33302F",
+  "#5D5856",
+  "#938E8B"
+ ],
+ "sheet": "sheet-06",
+ "box": [
+  398,
+  542,
+  718,
+  628
+ ],
+ "license": {
+  "licence": "the store owner's own artwork, generated with ChatGPT; owner holds the rights",
+  "generated": "2026-11-16",
+  "source_url": "styles/references/inbox/sheet-06.png"
+ },
+ "bold": "owner/g06-barbed-wire-bold.png",
+ "bold_below": 256,
+ "tile": "owner/g06-barbed-wire-tile.png",
+ "tile_mask": "owner/g06-barbed-wire-tile-mask.png"
+}

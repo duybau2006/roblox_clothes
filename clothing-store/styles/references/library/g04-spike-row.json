@@ -1,0 +1,47 @@
+{
+ "id": "g04-spike-row",
+ "name": "Spike row",
+ "motif": "spike",
+ "styles": [
+  "emo",
+  "grunge",
+  "vamp-goth"
+ ],
+ "mood": [
+  "punk"
+ ],
+ "size": "medium",
+ "families": [
+  "decorated"
+ ],
+ "symmetric": false,
+ "band": true,
+ "kind": "border",
+ "placement": "hem",
+ "readability": "simplified",
+ "source": "owner-generated",
+ "mask": "owner/g04-spike-row.png",
+ "colour": "owner/g04-spike-row-colour.png",
+ "ink": "owner/g04-spike-row-ink.png",
+ "colours": [
+  "#5A5457",
+  "#060003",
+  "#000002"
+ ],
+ "sheet": "sheet-04",
+ "box": [
+  320,
+  805,
+  590,
+  885
+ ],
+ "license": {
+  "licence": "the store owner's own artwork, generated with ChatGPT; owner holds the rights",
+  "generated": "2026-11-16",
+  "source_url": "styles/references/inbox/sheet-04.png"
+ },
+ "bold": "owner/g04-spike-row-bold.png",
+ "bold_below": 256,
+ "tile": "owner/g04-spike-row-tile.png",
+ "tile_mask": "owner/g04-spike-row-tile-mask.png"
+}

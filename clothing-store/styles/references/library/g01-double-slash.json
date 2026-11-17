@@ -1,0 +1,44 @@
+{
+ "id": "g01-double-slash",
+ "name": "Double slash",
+ "motif": "stripe",
+ "styles": [
+  "gen-z",
+  "athleisure",
+  "y2k"
+ ],
+ "mood": [
+  "sporty"
+ ],
+ "size": "small",
+ "families": [
+  "decorated",
+  "realistic"
+ ],
+ "symmetric": false,
+ "band": false,
+ "kind": "motif",
+ "placement": "sleeve",
+ "readability": "ok",
+ "source": "owner-generated",
+ "mask": "owner/g01-double-slash.png",
+ "colour": "owner/g01-double-slash-colour.png",
+ "ink": "owner/g01-double-slash-ink.png",
+ "colours": [
+  "#625F61",
+  "#524E52",
+  "#6F6E6E"
+ ],
+ "sheet": "sheet-01",
+ "box": [
+  985,
+  563,
+  1240,
+  690
+ ],
+ "license": {
+  "licence": "the store owner's own artwork, generated with ChatGPT; owner holds the rights",
+  "generated": "2026-11-16",
+  "source_url": "styles/references/inbox/sheet-01.png"
+ }
+}

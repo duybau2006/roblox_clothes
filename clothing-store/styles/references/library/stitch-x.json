@@ -1,0 +1,53 @@
+{
+ "id": "stitch-x",
+ "name": "Stitched X mark",
+ "motif": "stitch",
+ "styles": [
+  "archive",
+  "grunge",
+  "emo"
+ ],
+ "mood": [
+  "worn"
+ ],
+ "size": "small",
+ "families": [
+  "decorated",
+  "print"
+ ],
+ "symmetric": true,
+ "band": false,
+ "source": "original",
+ "shapes": [
+  {
+   "t": "line",
+   "pts": [
+    [
+     -0.7,
+     -0.7
+    ],
+    [
+     0.7,
+     0.7
+    ]
+   ],
+   "w": 0.16,
+   "tone": 0
+  },
+  {
+   "t": "line",
+   "pts": [
+    [
+     0.7,
+     -0.7
+    ],
+    [
+     -0.7,
+     0.7
+    ]
+   ],
+   "w": 0.16,
+   "tone": 1
+  }
+ ]
+}

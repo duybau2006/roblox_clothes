@@ -1,0 +1,78 @@
+torso:
+  garment_kind: tee
+  material: cotton
+  palette:
+  - '#F2F0EB'
+  - '#1C2A44'
+  details:
+  - crew collar
+  hem: plain
+  hem_line: 104
+  parts:
+  - name: piping
+    colour: '#E3A72F'
+  garment: off-white training tee with amber piping
+arms:
+  sleeves: short
+legs:
+  type: shorts
+  garment_kind: shorts
+  material: nylon
+  waist_line: 96
+  waistband: elastic
+  palette:
+  - '#1C2A44'
+  - '#1C2A44'
+  shorts_length: 20
+  legwear: socks
+  legwear_palette:
+  - '#F2F0EB'
+  sock_top: 84
+  parts:
+  - name: piping
+    colour: '#E3A72F'
+  shoes: sneakers
+  shoe_style: sneaker
+  shoe_palette:
+  - '#FFFFFF'
+  - '#FFFFFF'
+  - '#E3A72F'
+  garment: navy nylon sports shorts
+  off-white socks and detailed white sneakers: null
+  _identity: null
+shading:
+  mode: realistic
+  seed: 8
+  wrinkles: 1.0
+id: bad-shorts-short
+style: athleisure
+audience: masc
+family: realistic
+palette:
+- '#F2F0EB'
+- '#1C2A44'
+- '#E3A72F'
+- '#FFFFFF'
+recipes:
+- family: realistic
+  style: athleisure
+  template: sports_shorts
+  colours:
+  - '#F2F0EB'
+  - '#1C2A44'
+  - '#E3A72F'
+  - '#FFFFFF'
+  seed: 8
+listings:
+  words:
+    colour: Navy
+    garment: Shorts
+    style:
+    - trendy
+  shirt:
+    name: Navy Shorts Trendy Outfit Top
+    description: An off-white training tee with a curved amber piping line, worn with the navy shorts. Wear it with Navy Shorts Trendy Outfit Pants for the full look.
+  pants:
+    name: Navy Shorts Trendy Outfit Pants
+    description: Navy nylon sports shorts with amber side piping, off-white socks and white sneakers with laces and a tread sole. Wear them with Navy Shorts Trendy Outfit Top for the full look.
+moderation_check: Shorts 44 rows long, socks over the lower leg; plain single-line piping (no stripes that read as a brand).

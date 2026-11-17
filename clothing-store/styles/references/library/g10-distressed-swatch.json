@@ -1,0 +1,45 @@
+{
+ "id": "g10-distressed-swatch",
+ "name": "Distressed swatch",
+ "motif": "distress",
+ "styles": [
+  "archive",
+  "grunge"
+ ],
+ "mood": [
+  "worn"
+ ],
+ "size": "small",
+ "families": [
+  "realistic",
+  "decorated"
+ ],
+ "symmetric": false,
+ "band": false,
+ "kind": "swatch",
+ "placement": "allover",
+ "readability": "ok",
+ "source": "owner-generated",
+ "mask": "owner/g10-distressed-swatch.png",
+ "colour": "owner/g10-distressed-swatch-colour.png",
+ "ink": "owner/g10-distressed-swatch-ink.png",
+ "colours": [
+  "#797271",
+  "#A6A19C",
+  "#4D4648"
+ ],
+ "sheet": "sheet-10",
+ "box": [
+  765,
+  700,
+  978,
+  908
+ ],
+ "license": {
+  "licence": "the store owner's own artwork, generated with ChatGPT; owner holds the rights",
+  "generated": "2026-11-16",
+  "source_url": "styles/references/inbox/sheet-10.png"
+ },
+ "tile": "owner/g10-distressed-swatch-tile.png",
+ "tile_mask": "owner/g10-distressed-swatch-tile-mask.png"
+}

@@ -1,0 +1,64 @@
+id: print-vamp-goth
+style: vamp-goth
+audience: unisex
+family: print
+palette:
+- '#2A2A2E'
+- '#1A1A1A'
+- '#E8E4DC'
+torso:
+  garment: faded black long sleeve tee
+  palette:
+  - '#2A2A2E'
+  base_pattern: faded_black
+  details:
+  - crew collar
+  hem: plain
+  hem_line: 112
+arms:
+  sleeves: long
+  details: []
+legs:
+  garment: black wide trousers
+  type: trousers
+  waist_line: 92
+  waistband: plain
+  palette:
+  - '#1A1A1A'
+  base_pattern: solid
+  details:
+  - belt loops
+  shoes: black boots
+  shoe_palette:
+  - '#1A1A1A'
+  - '#2A2A2E'
+recipes:
+- family: print
+  style: vamp-goth
+  template: symmetric_pair
+  placement: back
+  tags:
+  - skull
+  - wings
+  - rose
+  ink: '#E8E4DC'
+  distress: 2
+  seed: 99
+listings:
+  words:
+    colour: Black
+    garment: Skull Wings Tee
+    style:
+    - vamp
+    - goth
+  shirt:
+    name: Black Skull Wings Tee Vamp Goth Outfit Top
+    description: A faded black long sleeve tee with a cracked bone-white skull, wings
+      and roses print on the back. Wear it with Black Skull Wings Tee Vamp Goth Outfit
+      Pants for the full look.
+  pants:
+    name: Black Skull Wings Tee Vamp Goth Outfit Pants
+    description: Black wide trousers and boots, with the skull wings tee on the torso.
+      Wear them with Black Skull Wings Tee Vamp Goth Outfit Top for the full look.
+moderation_check: Stylised skull, wings and roses only; no crosses, blood, text or
+  logos.

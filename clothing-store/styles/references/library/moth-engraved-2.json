@@ -1,0 +1,32 @@
+{
+ "id": "moth-engraved-2",
+ "name": "Hawk-moth study (after a CC0 18th-c. watercolour)",
+ "motif": "moth",
+ "styles": [
+  "vamp-goth",
+  "grunge",
+  "archive",
+  "emo"
+ ],
+ "mood": [
+  "vintage",
+  "engraved"
+ ],
+ "size": "large",
+ "families": [
+  "print"
+ ],
+ "symmetric": false,
+ "band": false,
+ "source": "public-domain",
+ "mask": "moth-engraved-2.png",
+ "license": {
+  "licence": "CC0 1.0 (The Met Open Access, isPublicDomain = true)",
+  "source_url": "https://www.metmuseum.org/art/collection/search/400116",
+  "image_url": "https://images.metmuseum.org/CRDImages/dp/original/DP820075.jpg",
+  "title": "A Moth",
+  "artist": "Nicolaas Struyk",
+  "date": "early 18th\u2013mid 18th century",
+  "checked": "2026-11-16 via collectionapi.metmuseum.org"
+ }
+}

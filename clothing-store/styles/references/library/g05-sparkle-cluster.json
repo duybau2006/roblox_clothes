@@ -1,0 +1,44 @@
+{
+ "id": "g05-sparkle-cluster",
+ "name": "Sparkle cluster",
+ "motif": "sparkle",
+ "styles": [
+  "baddie",
+  "y2k"
+ ],
+ "mood": [
+  "glint"
+ ],
+ "size": "medium",
+ "families": [
+  "decorated"
+ ],
+ "symmetric": false,
+ "band": false,
+ "kind": "motif",
+ "placement": "sleeve",
+ "readability": "simplified",
+ "source": "owner-generated",
+ "mask": "owner/g05-sparkle-cluster.png",
+ "colour": "owner/g05-sparkle-cluster-colour.png",
+ "ink": "owner/g05-sparkle-cluster-ink.png",
+ "colours": [
+  "#93647A",
+  "#C9A0B2",
+  "#EBD6DE"
+ ],
+ "sheet": "sheet-05",
+ "box": [
+  560,
+  905,
+  710,
+  995
+ ],
+ "license": {
+  "licence": "the store owner's own artwork, generated with ChatGPT; owner holds the rights",
+  "generated": "2026-11-16",
+  "source_url": "styles/references/inbox/sheet-05.png"
+ },
+ "bold": "owner/g05-sparkle-cluster-bold.png",
+ "bold_below": 48
+}

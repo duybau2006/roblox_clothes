@@ -1,0 +1,75 @@
+{
+ "id": "argyle-diamond",
+ "name": "Argyle diamond",
+ "motif": "diamond",
+ "styles": [
+  "preppy",
+  "archive",
+  "gen-z"
+ ],
+ "mood": [
+  "classic"
+ ],
+ "size": "small",
+ "families": [
+  "decorated",
+  "print"
+ ],
+ "symmetric": true,
+ "band": false,
+ "source": "original",
+ "shapes": [
+  {
+   "t": "poly",
+   "pts": [
+    [
+     0,
+     -1
+    ],
+    [
+     0.6,
+     0
+    ],
+    [
+     0,
+     1
+    ],
+    [
+     -0.6,
+     0
+    ]
+   ],
+   "tone": 0
+  },
+  {
+   "t": "line",
+   "pts": [
+    [
+     -0.6,
+     -1
+    ],
+    [
+     0.6,
+     1
+    ]
+   ],
+   "w": 0.04,
+   "tone": 2
+  },
+  {
+   "t": "line",
+   "pts": [
+    [
+     0.6,
+     -1
+    ],
+    [
+     -0.6,
+     1
+    ]
+   ],
+   "w": 0.04,
+   "tone": 2
+  }
+ ]
+}

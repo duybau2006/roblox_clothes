@@ -1,0 +1,46 @@
+{
+ "id": "g08-crown",
+ "name": "Crown",
+ "motif": "crown",
+ "styles": [
+  "preppy",
+  "baddie",
+  "archive"
+ ],
+ "mood": [
+  "regal"
+ ],
+ "size": "medium",
+ "families": [
+  "decorated",
+  "print"
+ ],
+ "symmetric": false,
+ "band": false,
+ "kind": "motif",
+ "placement": "chest",
+ "readability": "simplified",
+ "source": "owner-generated",
+ "mask": "owner/g08-crown.png",
+ "colour": "owner/g08-crown-colour.png",
+ "ink": "owner/g08-crown-ink.png",
+ "colours": [
+  "#514A48",
+  "#92877D",
+  "#D1C5B6"
+ ],
+ "sheet": "sheet-08",
+ "box": [
+  792,
+  260,
+  990,
+  355
+ ],
+ "license": {
+  "licence": "the store owner's own artwork, generated with ChatGPT; owner holds the rights",
+  "generated": "2026-11-16",
+  "source_url": "styles/references/inbox/sheet-08.png"
+ },
+ "bold": "owner/g08-crown-bold.png",
+ "bold_below": 48
+}

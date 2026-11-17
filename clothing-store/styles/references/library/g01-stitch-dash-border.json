@@ -1,0 +1,48 @@
+{
+ "id": "g01-stitch-dash-border",
+ "name": "Stitch dash border",
+ "motif": "stitch",
+ "styles": [
+  "gen-z",
+  "archive",
+  "grunge"
+ ],
+ "mood": [
+  "handmade"
+ ],
+ "size": "medium",
+ "families": [
+  "decorated",
+  "realistic"
+ ],
+ "symmetric": false,
+ "band": true,
+ "kind": "border",
+ "placement": "hem",
+ "readability": "simplified",
+ "source": "owner-generated",
+ "mask": "owner/g01-stitch-dash-border.png",
+ "colour": "owner/g01-stitch-dash-border-colour.png",
+ "ink": "owner/g01-stitch-dash-border-ink.png",
+ "colours": [
+  "#3F3E3E",
+  "#484848",
+  "#525251"
+ ],
+ "sheet": "sheet-01",
+ "box": [
+  438,
+  910,
+  795,
+  948
+ ],
+ "license": {
+  "licence": "the store owner's own artwork, generated with ChatGPT; owner holds the rights",
+  "generated": "2026-11-16",
+  "source_url": "styles/references/inbox/sheet-01.png"
+ },
+ "bold": "owner/g01-stitch-dash-border-bold.png",
+ "bold_below": 256,
+ "tile": "owner/g01-stitch-dash-border-tile.png",
+ "tile_mask": "owner/g01-stitch-dash-border-tile-mask.png"
+}

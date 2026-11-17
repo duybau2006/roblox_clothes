@@ -1,0 +1,45 @@
+{
+ "id": "g07-snow-cherries",
+ "name": "Snow cherries",
+ "motif": "cherry",
+ "styles": [
+  "christmas",
+  "soft-girl",
+  "cottagecore"
+ ],
+ "mood": [
+  "cute",
+  "festive"
+ ],
+ "size": "small",
+ "families": [
+  "decorated",
+  "print"
+ ],
+ "symmetric": false,
+ "band": false,
+ "kind": "motif",
+ "placement": "chest",
+ "readability": "ok",
+ "source": "owner-generated",
+ "mask": "owner/g07-snow-cherries.png",
+ "colour": "owner/g07-snow-cherries-colour.png",
+ "ink": "owner/g07-snow-cherries-ink.png",
+ "colours": [
+  "#A1686B",
+  "#D1ACAA",
+  "#E9D6D4"
+ ],
+ "sheet": "sheet-07",
+ "box": [
+  280,
+  15,
+  465,
+  235
+ ],
+ "license": {
+  "licence": "the store owner's own artwork, generated with ChatGPT; owner holds the rights",
+  "generated": "2026-11-16",
+  "source_url": "styles/references/inbox/sheet-07.png"
+ }
+}

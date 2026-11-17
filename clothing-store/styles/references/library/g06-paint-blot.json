@@ -1,0 +1,42 @@
+{
+ "id": "g06-paint-blot",
+ "name": "Paint blot",
+ "motif": "drip",
+ "styles": [
+  "grunge",
+  "emo"
+ ],
+ "mood": [
+  "grunge"
+ ],
+ "size": "large",
+ "families": [
+  "print"
+ ],
+ "symmetric": false,
+ "band": false,
+ "kind": "texture",
+ "placement": "chest",
+ "readability": "ok",
+ "source": "owner-generated",
+ "mask": "owner/g06-paint-blot.png",
+ "colour": "owner/g06-paint-blot-colour.png",
+ "ink": "owner/g06-paint-blot-ink.png",
+ "colours": [
+  "#2F2D2E",
+  "#3B3939",
+  "#474544"
+ ],
+ "sheet": "sheet-06",
+ "box": [
+  335,
+  822,
+  412,
+  935
+ ],
+ "license": {
+  "licence": "the store owner's own artwork, generated with ChatGPT; owner holds the rights",
+  "generated": "2026-11-16",
+  "source_url": "styles/references/inbox/sheet-06.png"
+ }
+}

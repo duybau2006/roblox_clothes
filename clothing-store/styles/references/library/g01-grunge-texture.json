@@ -1,0 +1,44 @@
+{
+ "id": "g01-grunge-texture",
+ "name": "Grunge texture",
+ "motif": "distress",
+ "styles": [
+  "grunge",
+  "gen-z",
+  "archive"
+ ],
+ "mood": [
+  "worn"
+ ],
+ "size": "large",
+ "families": [
+  "print",
+  "realistic"
+ ],
+ "symmetric": false,
+ "band": false,
+ "kind": "texture",
+ "placement": "allover",
+ "readability": "ok",
+ "source": "owner-generated",
+ "mask": "owner/g01-grunge-texture.png",
+ "colour": "owner/g01-grunge-texture-colour.png",
+ "ink": "owner/g01-grunge-texture-ink.png",
+ "colours": [
+  "#534F52",
+  "#626061",
+  "#727070"
+ ],
+ "sheet": "sheet-01",
+ "box": [
+  15,
+  1035,
+  232,
+  1240
+ ],
+ "license": {
+  "licence": "the store owner's own artwork, generated with ChatGPT; owner holds the rights",
+  "generated": "2026-11-16",
+  "source_url": "styles/references/inbox/sheet-01.png"
+ }
+}

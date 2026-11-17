@@ -1,0 +1,80 @@
+torso:
+  garment_kind: suit
+  material: cotton
+  palette:
+  - '#2B2F3A'
+  - '#2B2F3A'
+  - '#C9A15A'
+  details: []
+  hem: none
+  hem_line: 108
+  parts:
+  - name: waistcoat
+    colour: '#5E2633'
+  - name: lapels
+    shirt: '#F2F0EB'
+  - name: tie
+    colour: '#C9A15A'
+  - name: trim_hem
+    colour: '#C9A15A'
+  garment: charcoal suit jacket over a burgundy waistcoat
+  gold tie and ornate hem trim: null
+arms:
+  sleeves: long
+  parts:
+  - cuff_button
+  - name: trim_cuff
+    colour: '#C9A15A'
+legs:
+  type: trousers
+  garment_kind: trousers
+  material: cotton
+  waist_line: 96
+  waistband: plain
+  palette:
+  - '#2B2F3A'
+  parts:
+  - crease
+  shoes: loafers
+  shoe_style: loafer
+  shoe_palette:
+  - '#5E2633'
+  - '#5E2633'
+  garment: charcoal suit trousers with burgundy loafers
+  _identity: null
+shading:
+  mode: realistic
+  seed: 4
+  wrinkles: 1.0
+id: realistic-suit-waistcoat
+style: archive
+audience: masc
+family: realistic
+palette:
+- '#2B2F3A'
+- '#5E2633'
+- '#C9A15A'
+- '#F2F0EB'
+recipes:
+- family: realistic
+  style: archive
+  template: suit_waistcoat
+  colours:
+  - '#2B2F3A'
+  - '#5E2633'
+  - '#C9A15A'
+  - '#F2F0EB'
+  seed: 4
+listings:
+  words:
+    colour: Charcoal
+    garment: Suit
+    style:
+    - vintage
+  shirt:
+    name: Charcoal Suit Vintage Outfit Top
+    description: A charcoal suit jacket with lapels, a burgundy waistcoat, a gold tie and a gold diamond trim at the hem and cuffs. Wear it with Charcoal Suit Vintage Outfit Pants for the full look.
+  pants:
+    name: Charcoal Suit Vintage Outfit Pants
+    description: Charcoal pressed suit trousers and burgundy loafers, with the suit jacket on the torso. Wear them with Charcoal Suit Vintage Outfit Top for the full look.
+moderation_check: Plain diamond trim (no crest, monogram or text); ordinary formal wear.

@@ -1,0 +1,46 @@
+{
+ "id": "g02-leopard-swatch",
+ "name": "Leopard swatch",
+ "motif": "leopard",
+ "styles": [
+  "y2k",
+  "baddie",
+  "emo"
+ ],
+ "mood": [
+  "wild"
+ ],
+ "size": "small",
+ "families": [
+  "decorated",
+  "realistic"
+ ],
+ "symmetric": false,
+ "band": false,
+ "kind": "swatch",
+ "placement": "allover",
+ "readability": "ok",
+ "source": "owner-generated",
+ "mask": "owner/g02-leopard-swatch.png",
+ "colour": "owner/g02-leopard-swatch-colour.png",
+ "ink": "owner/g02-leopard-swatch-ink.png",
+ "colours": [
+  "#D6BBCB",
+  "#3E363D",
+  "#87727F"
+ ],
+ "sheet": "sheet-02",
+ "box": [
+  1010,
+  245,
+  1230,
+  440
+ ],
+ "license": {
+  "licence": "the store owner's own artwork, generated with ChatGPT; owner holds the rights",
+  "generated": "2026-11-16",
+  "source_url": "styles/references/inbox/sheet-02.png"
+ },
+ "tile": "owner/g02-leopard-swatch-tile.png",
+ "tile_mask": "owner/g02-leopard-swatch-tile-mask.png"
+}

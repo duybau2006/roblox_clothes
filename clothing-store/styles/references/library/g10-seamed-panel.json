@@ -1,0 +1,41 @@
+{
+ "id": "g10-seamed-panel",
+ "name": "Seamed panel",
+ "motif": "panel",
+ "styles": [
+  "archive"
+ ],
+ "mood": [
+  "deconstructed"
+ ],
+ "size": "medium",
+ "families": [
+  "realistic"
+ ],
+ "symmetric": false,
+ "band": false,
+ "kind": "part",
+ "placement": "allover",
+ "readability": "ok",
+ "source": "owner-generated",
+ "mask": "owner/g10-seamed-panel.png",
+ "colour": "owner/g10-seamed-panel-colour.png",
+ "ink": "owner/g10-seamed-panel-ink.png",
+ "colours": [
+  "#ACA6A2",
+  "#302F31",
+  "#494748"
+ ],
+ "sheet": "sheet-10",
+ "box": [
+  5,
+  685,
+  300,
+  928
+ ],
+ "license": {
+  "licence": "the store owner's own artwork, generated with ChatGPT; owner holds the rights",
+  "generated": "2026-11-16",
+  "source_url": "styles/references/inbox/sheet-10.png"
+ }
+}

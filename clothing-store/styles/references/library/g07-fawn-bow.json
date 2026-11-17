@@ -1,0 +1,46 @@
+{
+ "id": "g07-fawn-bow",
+ "name": "Fawn bow",
+ "motif": "fawn",
+ "styles": [
+  "christmas",
+  "soft-girl",
+  "cottagecore"
+ ],
+ "mood": [
+  "cute"
+ ],
+ "size": "medium",
+ "families": [
+  "decorated",
+  "print"
+ ],
+ "symmetric": false,
+ "band": false,
+ "kind": "motif",
+ "placement": "chest",
+ "readability": "simplified",
+ "source": "owner-generated",
+ "mask": "owner/g07-fawn-bow.png",
+ "colour": "owner/g07-fawn-bow-colour.png",
+ "ink": "owner/g07-fawn-bow-ink.png",
+ "colours": [
+  "#BD9C91",
+  "#DAC1B7",
+  "#E9D8CE"
+ ],
+ "sheet": "sheet-07",
+ "box": [
+  15,
+  470,
+  255,
+  650
+ ],
+ "license": {
+  "licence": "the store owner's own artwork, generated with ChatGPT; owner holds the rights",
+  "generated": "2026-11-16",
+  "source_url": "styles/references/inbox/sheet-07.png"
+ },
+ "bold": "owner/g07-fawn-bow-bold.png",
+ "bold_below": 48
+}

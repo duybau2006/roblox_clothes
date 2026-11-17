@@ -1,0 +1,43 @@
+{
+ "id": "g06-smear",
+ "name": "Smear",
+ "motif": "distress",
+ "styles": [
+  "grunge",
+  "archive"
+ ],
+ "mood": [
+  "worn"
+ ],
+ "size": "large",
+ "families": [
+  "print",
+  "realistic"
+ ],
+ "symmetric": false,
+ "band": false,
+ "kind": "texture",
+ "placement": "allover",
+ "readability": "ok",
+ "source": "owner-generated",
+ "mask": "owner/g06-smear.png",
+ "colour": "owner/g06-smear-colour.png",
+ "ink": "owner/g06-smear-ink.png",
+ "colours": [
+  "#343132",
+  "#484545",
+  "#66615F"
+ ],
+ "sheet": "sheet-06",
+ "box": [
+  935,
+  802,
+  1222,
+  918
+ ],
+ "license": {
+  "licence": "the store owner's own artwork, generated with ChatGPT; owner holds the rights",
+  "generated": "2026-11-16",
+  "source_url": "styles/references/inbox/sheet-06.png"
+ }
+}

@@ -1,0 +1,44 @@
+{
+ "id": "g07-winged-bow",
+ "name": "Winged bow",
+ "motif": "bow",
+ "styles": [
+  "soft-girl",
+  "christmas",
+  "y2k"
+ ],
+ "mood": [
+  "ethereal"
+ ],
+ "size": "large",
+ "families": [
+  "print",
+  "decorated"
+ ],
+ "symmetric": false,
+ "band": false,
+ "kind": "hero",
+ "placement": "back",
+ "readability": "ok",
+ "source": "owner-generated",
+ "mask": "owner/g07-winged-bow.png",
+ "colour": "owner/g07-winged-bow-colour.png",
+ "ink": "owner/g07-winged-bow-ink.png",
+ "colours": [
+  "#DFCEC8",
+  "#C1A6A3",
+  "#EDE1DB"
+ ],
+ "sheet": "sheet-07",
+ "box": [
+  665,
+  450,
+  910,
+  645
+ ],
+ "license": {
+  "licence": "the store owner's own artwork, generated with ChatGPT; owner holds the rights",
+  "generated": "2026-11-16",
+  "source_url": "styles/references/inbox/sheet-07.png"
+ }
+}

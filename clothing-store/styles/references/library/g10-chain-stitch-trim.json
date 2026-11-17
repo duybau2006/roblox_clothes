@@ -1,0 +1,46 @@
+{
+ "id": "g10-chain-stitch-trim",
+ "name": "Chain stitch trim",
+ "motif": "stitch",
+ "styles": [
+  "archive"
+ ],
+ "mood": [
+  "handmade"
+ ],
+ "size": "medium",
+ "families": [
+  "decorated",
+  "realistic"
+ ],
+ "symmetric": false,
+ "band": true,
+ "kind": "border",
+ "placement": "hem",
+ "readability": "simplified",
+ "source": "owner-generated",
+ "mask": "owner/g10-chain-stitch-trim.png",
+ "colour": "owner/g10-chain-stitch-trim-colour.png",
+ "ink": "owner/g10-chain-stitch-trim-ink.png",
+ "colours": [
+  "#B7AFA9",
+  "#57514F",
+  "#231D1D"
+ ],
+ "sheet": "sheet-10",
+ "box": [
+  952,
+  538,
+  1140,
+  635
+ ],
+ "license": {
+  "licence": "the store owner's own artwork, generated with ChatGPT; owner holds the rights",
+  "generated": "2026-11-16",
+  "source_url": "styles/references/inbox/sheet-10.png"
+ },
+ "bold": "owner/g10-chain-stitch-trim-bold.png",
+ "bold_below": 256,
+ "tile": "owner/g10-chain-stitch-trim-tile.png",
+ "tile_mask": "owner/g10-chain-stitch-trim-tile-mask.png"
+}

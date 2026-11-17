@@ -1,0 +1,45 @@
+{
+ "id": "g01-compass-sparkle",
+ "name": "Compass sparkle",
+ "motif": "sparkle",
+ "styles": [
+  "gen-z",
+  "vamp-goth",
+  "y2k",
+  "archive"
+ ],
+ "mood": [
+  "glint"
+ ],
+ "size": "small",
+ "families": [
+  "decorated",
+  "print"
+ ],
+ "symmetric": false,
+ "band": false,
+ "kind": "motif",
+ "placement": "chest",
+ "readability": "ok",
+ "source": "owner-generated",
+ "mask": "owner/g01-compass-sparkle.png",
+ "colour": "owner/g01-compass-sparkle-colour.png",
+ "ink": "owner/g01-compass-sparkle-ink.png",
+ "colours": [
+  "#494648",
+  "#565455",
+  "#626061"
+ ],
+ "sheet": "sheet-01",
+ "box": [
+  1063,
+  722,
+  1212,
+  860
+ ],
+ "license": {
+  "licence": "the store owner's own artwork, generated with ChatGPT; owner holds the rights",
+  "generated": "2026-11-16",
+  "source_url": "styles/references/inbox/sheet-01.png"
+ }
+}

@@ -1,0 +1,41 @@
+{
+ "id": "g08-polo-collar-wine",
+ "name": "Polo collar wine",
+ "motif": "collar",
+ "styles": [
+  "preppy"
+ ],
+ "mood": [
+  "classic"
+ ],
+ "size": "medium",
+ "families": [
+  "realistic"
+ ],
+ "symmetric": false,
+ "band": false,
+ "kind": "part",
+ "placement": "chest",
+ "readability": "ok",
+ "source": "owner-generated",
+ "mask": "owner/g08-polo-collar-wine.png",
+ "colour": "owner/g08-polo-collar-wine-colour.png",
+ "ink": "owner/g08-polo-collar-wine-ink.png",
+ "colours": [
+  "#4D2332",
+  "#876267",
+  "#0E0004"
+ ],
+ "sheet": "sheet-08",
+ "box": [
+  318,
+  730,
+  620,
+  885
+ ],
+ "license": {
+  "licence": "the store owner's own artwork, generated with ChatGPT; owner holds the rights",
+  "generated": "2026-11-16",
+  "source_url": "styles/references/inbox/sheet-08.png"
+ }
+}

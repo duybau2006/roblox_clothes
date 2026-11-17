@@ -1,0 +1,44 @@
+{
+ "id": "g09-swallow",
+ "name": "Swallow",
+ "motif": "bird",
+ "styles": [
+  "cottagecore",
+  "soft-girl",
+  "archive"
+ ],
+ "mood": [
+  "vintage"
+ ],
+ "size": "small",
+ "families": [
+  "decorated",
+  "print"
+ ],
+ "symmetric": false,
+ "band": false,
+ "kind": "motif",
+ "placement": "chest",
+ "readability": "ok",
+ "source": "owner-generated",
+ "mask": "owner/g09-swallow.png",
+ "colour": "owner/g09-swallow-colour.png",
+ "ink": "owner/g09-swallow-ink.png",
+ "colours": [
+  "#A0786B",
+  "#C4A394",
+  "#E0C9BA"
+ ],
+ "sheet": "sheet-09",
+ "box": [
+  865,
+  275,
+  1043,
+  435
+ ],
+ "license": {
+  "licence": "the store owner's own artwork, generated with ChatGPT; owner holds the rights",
+  "generated": "2026-11-16",
+  "source_url": "styles/references/inbox/sheet-09.png"
+ }
+}

@@ -1,0 +1,47 @@
+{
+ "id": "g02-orbit-star",
+ "name": "Orbit star",
+ "motif": "star",
+ "styles": [
+  "y2k",
+  "baddie",
+  "gen-z"
+ ],
+ "mood": [
+  "chrome",
+  "cosmic"
+ ],
+ "size": "medium",
+ "families": [
+  "decorated",
+  "print"
+ ],
+ "symmetric": false,
+ "band": false,
+ "kind": "motif",
+ "placement": "chest",
+ "readability": "simplified",
+ "source": "owner-generated",
+ "mask": "owner/g02-orbit-star.png",
+ "colour": "owner/g02-orbit-star-colour.png",
+ "ink": "owner/g02-orbit-star-ink.png",
+ "colours": [
+  "#6A5D67",
+  "#AB9CA6",
+  "#DCCED6"
+ ],
+ "sheet": "sheet-02",
+ "box": [
+  8,
+  580,
+  315,
+  755
+ ],
+ "license": {
+  "licence": "the store owner's own artwork, generated with ChatGPT; owner holds the rights",
+  "generated": "2026-11-16",
+  "source_url": "styles/references/inbox/sheet-02.png"
+ },
+ "bold": "owner/g02-orbit-star-bold.png",
+ "bold_below": 48
+}

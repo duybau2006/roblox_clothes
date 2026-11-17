@@ -1,0 +1,43 @@
+{
+ "id": "g02-rhinestone-butterfly",
+ "name": "Rhinestone butterfly",
+ "motif": "butterfly",
+ "styles": [
+  "y2k",
+  "baddie",
+  "soft-girl"
+ ],
+ "mood": [
+  "rhinestone"
+ ],
+ "size": "large",
+ "families": [
+  "print"
+ ],
+ "symmetric": false,
+ "band": false,
+ "kind": "motif",
+ "placement": "chest",
+ "readability": "print-size only",
+ "source": "owner-generated",
+ "mask": "owner/g02-rhinestone-butterfly.png",
+ "colour": "owner/g02-rhinestone-butterfly-colour.png",
+ "ink": "owner/g02-rhinestone-butterfly-ink.png",
+ "colours": [
+  "#635962",
+  "#9F989E",
+  "#DDDADC"
+ ],
+ "sheet": "sheet-02",
+ "box": [
+  770,
+  250,
+  1010,
+  430
+ ],
+ "license": {
+  "licence": "the store owner's own artwork, generated with ChatGPT; owner holds the rights",
+  "generated": "2026-11-16",
+  "source_url": "styles/references/inbox/sheet-02.png"
+ }
+}

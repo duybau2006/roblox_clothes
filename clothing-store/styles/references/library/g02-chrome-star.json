@@ -1,0 +1,44 @@
+{
+ "id": "g02-chrome-star",
+ "name": "Chrome star",
+ "motif": "star",
+ "styles": [
+  "y2k",
+  "baddie",
+  "gen-z"
+ ],
+ "mood": [
+  "chrome"
+ ],
+ "size": "small",
+ "families": [
+  "decorated",
+  "print"
+ ],
+ "symmetric": false,
+ "band": false,
+ "kind": "motif",
+ "placement": "chest",
+ "readability": "ok",
+ "source": "owner-generated",
+ "mask": "owner/g02-chrome-star.png",
+ "colour": "owner/g02-chrome-star-colour.png",
+ "ink": "owner/g02-chrome-star-ink.png",
+ "colours": [
+  "#7D6977",
+  "#B5A3AE",
+  "#DBCDD5"
+ ],
+ "sheet": "sheet-02",
+ "box": [
+  608,
+  868,
+  742,
+  990
+ ],
+ "license": {
+  "licence": "the store owner's own artwork, generated with ChatGPT; owner holds the rights",
+  "generated": "2026-11-16",
+  "source_url": "styles/references/inbox/sheet-02.png"
+ }
+}

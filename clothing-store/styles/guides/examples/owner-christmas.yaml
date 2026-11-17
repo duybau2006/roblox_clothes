@@ -1,0 +1,64 @@
+id: owner-christmas
+style: christmas
+audience: unisex
+family: decorated
+palette:
+- '#9E2B35'
+- '#F2E9DC'
+- '#2F5A3C'
+- '#3A2A20'
+torso:
+  garment: red cable knit sweater with a gingerbread star
+  palette:
+  - '#9E2B35'
+  - '#F2E9DC'
+  - '#2F5A3C'
+  base_pattern: swatch
+  pattern:
+    element: g07-cable-knit-swatch
+  details:
+  - crew collar
+  hem: rib
+  hem_line: 112
+  decor:
+  - element: g07-gingerbread-star
+    layout: chest
+    colour: '#F2E9DC'
+    size: 10
+arms:
+  sleeves: long
+  details:
+  - ribbed cuffs
+  decor:
+  - element: g07-snowflake
+    layout: sleeve
+    colour: '#F2E9DC'
+    size: 6
+legs:
+  garment: cream knit joggers and brown boots
+  type: trousers
+  waist_line: 92
+  waistband: elastic
+  palette:
+  - '#F2E9DC'
+  - '#9E2B35'
+  base_pattern: knit
+  details:
+  - ribbed cuffs
+  shoes: brown boots
+  shoe_palette:
+  - '#3A2A20'
+  - '#2F5A3C'
+listings:
+  words:
+    colour: Red
+    garment: Christmas Sweater
+    style:
+    - cute
+  shirt:
+    name: Red Christmas Sweater Cute Outfit Top
+    description: A red cable knit sweater with a cream gingerbread star on the chest and snowflakes on the sleeves. Wear it with Red Christmas Sweater Cute Outfit Pants for the full look.
+  pants:
+    name: Red Christmas Sweater Cute Outfit Pants
+    description: Cream knit joggers and brown boots, with the Christmas sweater on the torso. Wear them with Red Christmas Sweater Cute Outfit Top for the full look.
+moderation_check: Cable knit, gingerbread star and snowflake from the owner's sheets; no religious symbols.

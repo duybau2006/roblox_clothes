@@ -1,0 +1,43 @@
+{
+ "id": "g09-pansies",
+ "name": "Pansies",
+ "motif": "flower",
+ "styles": [
+  "cottagecore",
+  "soft-girl"
+ ],
+ "mood": [
+  "vintage"
+ ],
+ "size": "small",
+ "families": [
+  "decorated",
+  "print"
+ ],
+ "symmetric": false,
+ "band": false,
+ "kind": "motif",
+ "placement": "chest",
+ "readability": "ok",
+ "source": "owner-generated",
+ "mask": "owner/g09-pansies.png",
+ "colour": "owner/g09-pansies-colour.png",
+ "ink": "owner/g09-pansies-ink.png",
+ "colours": [
+  "#967A71",
+  "#B1968E",
+  "#C9B0A6"
+ ],
+ "sheet": "sheet-09",
+ "box": [
+  1105,
+  515,
+  1235,
+  705
+ ],
+ "license": {
+  "licence": "the store owner's own artwork, generated with ChatGPT; owner holds the rights",
+  "generated": "2026-11-16",
+  "source_url": "styles/references/inbox/sheet-09.png"
+ }
+}

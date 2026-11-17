@@ -1,0 +1,11 @@
+# Mood photos of real-life fashion only (never other creators' Roblox items or templates); kept local.
+clothing-store/references/
+
+# Python caches
+__pycache__/
+
+# Third-party vaults and raw downloads never enter this repo (only converted, licence-cleared elements do)
+reference/
+clothing-store/references/vault/
+**/LihFolk*/
+*.zip

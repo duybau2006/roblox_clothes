@@ -1,0 +1,61 @@
+id: owner-cottagecore
+style: cottagecore
+audience: fem
+family: decorated
+palette:
+- '#EEF0E2'
+- '#8DA07C'
+- '#C9798F'
+- '#F2EBDD'
+torso:
+  garment: sage gingham blouse with strawberry flowers
+  palette:
+  - '#EEF0E2'
+  - '#8DA07C'
+  - '#C9798F'
+  base_pattern: swatch
+  pattern:
+    element: g09-gingham-sage
+  details:
+  - crew collar
+  hem: plain
+  hem_line: 100
+  decor:
+  - element: g09-strawberry-flowers
+    layout: chest
+    colour: '#C9798F'
+    size: 11
+arms:
+  sleeves: short
+legs:
+  garment: cream midi skirt with an eyelet hem and brown boots
+  type: skirt
+  waist_line: 96
+  waistband: plain
+  palette:
+  - '#F2EBDD'
+  skirt_length: 64
+  legwear: bare
+  shoes: sage boots
+  shoe_palette:
+  - '#8DA07C'
+  - '#8DA07C'
+  decor:
+  - element: g09-eyelet-border
+    layout: border
+    colour: '#C9798F'
+    height: 6
+    row: 54
+listings:
+  words:
+    colour: Sage
+    garment: Gingham Blouse
+    style:
+    - cottage core
+  shirt:
+    name: Sage Gingham Blouse Cottage Core Outfit Top
+    description: A sage gingham blouse with a pink strawberry-flower sprig on the chest. Wear it with Sage Gingham Blouse Cottage Core Outfit Pants for the full look.
+  pants:
+    name: Sage Gingham Blouse Cottage Core Outfit Pants
+    description: A cream midi skirt with an eyelet lace hem and sage boots, with the gingham blouse on the torso. Wear them with Sage Gingham Blouse Cottage Core Outfit Top for the full look.
+moderation_check: Gingham, strawberries and eyelet lace from the owner's sheets; skirt 64 rows.

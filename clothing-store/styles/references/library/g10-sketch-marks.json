@@ -1,0 +1,41 @@
+{
+ "id": "g10-sketch-marks",
+ "name": "Sketch marks",
+ "motif": "pattern",
+ "styles": [
+  "archive"
+ ],
+ "mood": [
+  "deconstructed"
+ ],
+ "size": "large",
+ "families": [
+  "print"
+ ],
+ "symmetric": false,
+ "band": false,
+ "kind": "texture",
+ "placement": "allover",
+ "readability": "ok",
+ "source": "owner-generated",
+ "mask": "owner/g10-sketch-marks.png",
+ "colour": "owner/g10-sketch-marks-colour.png",
+ "ink": "owner/g10-sketch-marks-ink.png",
+ "colours": [
+  "#313030",
+  "#343433",
+  "#383737"
+ ],
+ "sheet": "sheet-10",
+ "box": [
+  15,
+  1055,
+  160,
+  1245
+ ],
+ "license": {
+  "licence": "the store owner's own artwork, generated with ChatGPT; owner holds the rights",
+  "generated": "2026-11-16",
+  "source_url": "styles/references/inbox/sheet-10.png"
+ }
+}

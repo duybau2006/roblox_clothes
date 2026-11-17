@@ -1,0 +1,75 @@
+{
+ "id": "star-5",
+ "name": "Five-point star",
+ "motif": "star",
+ "styles": [
+  "y2k",
+  "vamp-goth",
+  "emo",
+  "baddie",
+  "grunge",
+  "gen-z",
+  "christmas",
+  "athleisure",
+  "preppy"
+ ],
+ "mood": [
+  "bold"
+ ],
+ "size": "small",
+ "families": [
+  "decorated",
+  "print"
+ ],
+ "symmetric": true,
+ "band": false,
+ "source": "original",
+ "shapes": [
+  {
+   "t": "poly",
+   "pts": [
+    [
+     0.0,
+     -1.0
+    ],
+    [
+     0.2469,
+     -0.3398
+    ],
+    [
+     0.9511,
+     -0.309
+    ],
+    [
+     0.3994,
+     0.1298
+    ],
+    [
+     0.5878,
+     0.809
+    ],
+    [
+     0.0,
+     0.42
+    ],
+    [
+     -0.5878,
+     0.809
+    ],
+    [
+     -0.3994,
+     0.1298
+    ],
+    [
+     -0.9511,
+     -0.309
+    ],
+    [
+     -0.2469,
+     -0.3398
+    ]
+   ],
+   "tone": 0
+  }
+ ]
+}

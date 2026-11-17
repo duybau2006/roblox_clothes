@@ -1,0 +1,44 @@
+{
+ "id": "g06-stitched-patch",
+ "name": "Stitched patch",
+ "motif": "patch",
+ "styles": [
+  "grunge",
+  "archive",
+  "emo"
+ ],
+ "mood": [
+  "handmade"
+ ],
+ "size": "medium",
+ "families": [
+  "decorated",
+  "realistic"
+ ],
+ "symmetric": false,
+ "band": false,
+ "kind": "part",
+ "placement": "chest",
+ "readability": "ok",
+ "source": "owner-generated",
+ "mask": "owner/g06-stitched-patch.png",
+ "colour": "owner/g06-stitched-patch-colour.png",
+ "ink": "owner/g06-stitched-patch-ink.png",
+ "colours": [
+  "#3B383A",
+  "#292529",
+  "#706C6B"
+ ],
+ "sheet": "sheet-06",
+ "box": [
+  495,
+  640,
+  748,
+  805
+ ],
+ "license": {
+  "licence": "the store owner's own artwork, generated with ChatGPT; owner holds the rights",
+  "generated": "2026-11-16",
+  "source_url": "styles/references/inbox/sheet-06.png"
+ }
+}

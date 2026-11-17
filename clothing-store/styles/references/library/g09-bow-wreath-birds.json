@@ -1,0 +1,43 @@
+{
+ "id": "g09-bow-wreath-birds",
+ "name": "Bow wreath birds",
+ "motif": "wreath",
+ "styles": [
+  "cottagecore",
+  "soft-girl"
+ ],
+ "mood": [
+  "romantic",
+  "vintage"
+ ],
+ "size": "large",
+ "families": [
+  "print"
+ ],
+ "symmetric": false,
+ "band": false,
+ "kind": "hero",
+ "placement": "back",
+ "readability": "ok",
+ "source": "owner-generated",
+ "mask": "owner/g09-bow-wreath-birds.png",
+ "colour": "owner/g09-bow-wreath-birds-colour.png",
+ "ink": "owner/g09-bow-wreath-birds-ink.png",
+ "colours": [
+  "#97705F",
+  "#BF9B89",
+  "#E0C5B6"
+ ],
+ "sheet": "sheet-09",
+ "box": [
+  15,
+  5,
+  555,
+  410
+ ],
+ "license": {
+  "licence": "the store owner's own artwork, generated with ChatGPT; owner holds the rights",
+  "generated": "2026-11-16",
+  "source_url": "styles/references/inbox/sheet-09.png"
+ }
+}

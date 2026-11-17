@@ -1,0 +1,492 @@
+# Style library A: real-life styles.
+# palette: max 4 colours plus a neutral; hex values are starting points, the comment names the colour.
+
+- id: streetwear
+  name: Streetwear
+  palette:
+    - "#111111"  # black
+    - "#8A8A8A"  # grey
+    - "#F5F5F5"  # white
+    - "#FF5A1F"  # loud accent (swap per design)
+  shirts: [oversized hoodie, graphic-free boxy tee, bomber jacket]
+  pants: [baggy cargos, wide jeans]
+  details: [drawstrings, kangaroo pocket, chunky sneakers]
+  keywords: [streetwear, baggy, oversized]
+  construction:
+    source: "garment-construction knowledge; not yet checked against browser references"
+    folds: "Oversized: deep drop-shoulder fold at the top of the arm, long vertical drape folds down the torso sides, heavy stacking at cuffs and pant hems; baggy legs break into 2-3 wide folds above the shoe."
+    build: "Hoodie: hood laid flat on the back, kangaroo pocket with slanted openings, 12 px rib hem and cuffs. Boxy tee: wide crew rib 5 px, short sleeve hem at arm v~40. Bomber: rib collar/cuffs/hem in trim colour, centre zip as a 1.5 px line with a darker placket. Cargos: bellows pocket on the outer thigh (outer face, v 40-70) with a flap shadow."
+    palette_tones:   # base -> shadow (folds, seams) / highlight (chest, thigh, shoulder)
+      - {base: "#111111", shadow: "#0C0C0C", highlight: "#3C3C3C"}
+      - {base: "#8A8A8A", shadow: "#636363", highlight: "#9F9F9F"}
+      - {base: "#F5F5F5", shadow: "#B0B0B0", highlight: "#F7F7F7"}
+      - {base: "#FF5A1F", shadow: "#B84116", highlight: "#FF7847"}
+  avoid: [brand-like logos or chest marks, hype-brand box labels, slogan text]
+
+- id: y2k
+  name: Y2K
+  palette:
+    - "#F7B6D2"  # baby pink
+    - "#8FD3FF"  # sky blue
+    - "#C9CED6"  # silver
+    - "#B8F04A"  # lime
+  shirts: [cropped baby tee, zip hoodie, halter-style top]
+  pants: [low-rise flared jeans, cargo pants, mini skirt over leggings]
+  details: [star shapes, butterfly shapes, belts, platform shoes]
+  keywords: [y2k, 2000s, baby tee]
+  guide: guides/y2k.md
+  construction:
+    source: "garment-construction knowledge; not yet checked against browser references"
+    folds: "Fitted tops: small tension folds radiating from the bust toward the side seams; low-rise jeans: whisker creases fanning from the crotch, flares widen and fold above the shoe."
+    build: "Baby tee: cropped with torso.hem_line ~88 over a high waistband (legs.waist_line ~100, gap max 16 px), short sleeves; contrast 3 px rib neck and sleeve bands. Zip hoodie: centre zip line and two zip-pull dots at the top. Low-rise jeans: use torso hem: belt for a plain square buckle at the waist, star or butterfly shapes as flat appliques away from seams."
+    palette_tones:   # base -> shadow (folds, seams) / highlight (chest, thigh, shoulder)
+      - {base: "#F7B6D2", shadow: "#B28397", highlight: "#F8C3DA"}
+      - {base: "#8FD3FF", shadow: "#6798B8", highlight: "#A3DBFF"}
+      - {base: "#C9CED6", shadow: "#91949A", highlight: "#D3D7DD"}
+      - {base: "#B8F04A", shadow: "#84AD35", highlight: "#C5F36B"}
+  avoid: [skin-coloured midriff fill, very low rise that reads as underwear, rhinestone brand monograms]
+
+- id: gorpcore
+  name: Gorpcore
+  palette:
+    - "#5B6B3A"  # olive
+    - "#C8AD7F"  # tan
+    - "#E8742A"  # orange
+    - "#1F2E4D"  # navy
+  shirts: [fleece zip, puffer vest over long sleeve, shell jacket]
+  pants: [hiking pants, zip-off cargos]
+  details: [toggles, zip pulls, hiking boots]
+  keywords: [outdoor, hiking, fleece, puffer]
+  construction:
+    source: "garment-construction knowledge; not yet checked against browser references"
+    folds: "Puffer: horizontal baffle seams every 12-16 px with a highlight on each puff and a shadow line in each seam; fleece: soft, low-contrast folds; hiking pants: knee articulation darts."
+    build: "Fleece zip: contrast chest panel (yoke) above v~40, zip line to v~40 (quarter-zip) or full, chin guard at the neck. Puffer vest: baffles over a long-sleeve base colour on the arms. Hiking pants: zip-off line at knee (v~60) as a thin zip seam, toggle cords at hems."
+    palette_tones:   # base -> shadow (folds, seams) / highlight (chest, thigh, shoulder)
+      - {base: "#5B6B3A", shadow: "#424D2A", highlight: "#79865D"}
+      - {base: "#C8AD7F", shadow: "#907D5B", highlight: "#D2BC96"}
+      - {base: "#E8742A", shadow: "#A7541E", highlight: "#EC8D50"}
+      - {base: "#1F2E4D", shadow: "#162137", highlight: "#47546D"}
+  avoid: [mountain-peak logos resembling outdoor brands, half-dome chest marks]
+
+- id: athleisure
+  name: Athleisure
+  palette:
+    - "#151515"  # black
+    - "#A6A6A6"  # heather grey
+    - "#9CAF88"  # sage
+    - "#C8A2C8"  # lilac
+  shirts: [fitted zip jacket, sports tee, quarter-zip]
+  pants: [joggers, track pants, leggings]
+  details: [side piping, drawcord, running shoes]
+  keywords: [gym, joggers, sporty]
+  guide: guides/athleisure.md
+  construction:
+    source: "garment-construction knowledge; not yet checked against browser references"
+    folds: "Close-fitting: few large folds, strong highlight down the front of the thigh and shoulder; joggers gather into bunched folds above the cuff."
+    build: "Zip jacket: centre zip, stand collar 6 px, side piping 2 px in an accent colour along the outer faces (one stripe only, never three). Joggers: rib cuffs at the ankle, drawcord waistband. Leggings: no hem, colour runs into the shoe."
+    palette_tones:   # base -> shadow (folds, seams) / highlight (chest, thigh, shoulder)
+      - {base: "#151515", shadow: "#0F0F0F", highlight: "#3F3F3F"}
+      - {base: "#A6A6A6", shadow: "#787878", highlight: "#B6B6B6"}
+      - {base: "#9CAF88", shadow: "#707E62", highlight: "#AEBD9D"}
+      - {base: "#C8A2C8", shadow: "#907590", highlight: "#D2B3D2"}
+  avoid: [three-stripe side tape, swoosh-like curves, skin-tight skin-tone leggings, sports-bra-only tops]
+
+- id: sporty-jersey
+  name: Sporty jersey
+  palette:
+    - "#C8102E"  # bold primary (swap per design)
+    - "#FFFFFF"  # contrast
+    - "#0B1F3A"  # dark trim
+  shirts: [invented football jersey, invented basketball jersey, track jacket]
+  pants: [matching shorts over tights, track pants]
+  details: [invented numbers, side stripes of original width, invented crest shapes]
+  keywords: [jersey, track, sports]
+  construction:
+    source: "garment-construction knowledge; not yet checked against browser references"
+    folds: "Loose mesh: almost no folds, light vertical drape; shorts flare slightly with a fold at the hem."
+    build: "Jersey: V-neck or crew trim 4 px, invented number centred on the back (and smaller on the front chest), side panels in the second colour on the side faces. Track jacket: stand collar, zip, raglan contrast panel over the shoulder. Shorts over tights: shorts end at leg v~56, tights continue below."
+    palette_tones:   # base -> shadow (folds, seams) / highlight (chest, thigh, shoulder)
+      - {base: "#C8102E", shadow: "#900C21", highlight: "#D23B54"}
+      - {base: "#FFFFFF", shadow: "#B8B8B8", highlight: "#FFFFFF"}
+      - {base: "#0B1F3A", shadow: "#08162A", highlight: "#37475D"}
+  avoid: [real team colours combined with crests, real league logos, player names, real numbers tied to famous players]
+
+- id: old-money
+  name: Old money / quiet luxury
+  palette:
+    - "#F2E8D5"  # cream
+    - "#C19A6B"  # camel
+    - "#1C2A4A"  # navy
+    - "#2E4A36"  # forest green
+  shirts: [cable-knit sweater, polo, blazer over shirt]
+  pants: [tailored trousers, pleated slacks]
+  details: [collar, buttons, belt, loafers]
+  keywords: [old money, classy, elegant]
+  guide: guides/preppy.md
+  construction:
+    source: "garment-construction knowledge; not yet checked against browser references"
+    folds: "Structured knits: cable ridges cast thin shadows on their left side; trousers keep a crisp centre crease highlight down the front of each leg."
+    build: "Cable-knit: two vertical cable columns per front panel (twisted ropes drawn as alternating S-curves), rib hem 10 px. Polo: 3-button placket 8 px wide to v~30, flat collar with a 1 px shadow under its edge. Trousers: front crease line, belt 4 px with a plain buckle, loafers in brown."
+    palette_tones:   # base -> shadow (folds, seams) / highlight (chest, thigh, shoulder)
+      - {base: "#F2E8D5", shadow: "#AEA799", highlight: "#F4ECDD"}
+      - {base: "#C19A6B", shadow: "#8B6F4D", highlight: "#CCAC86"}
+      - {base: "#1C2A4A", shadow: "#141E35", highlight: "#45506B"}
+      - {base: "#2E4A36", shadow: "#213527", highlight: "#546B5A"}
+  avoid: [polo-player or animal chest emblems, monogram belt buckles, designer check patterns]
+
+- id: preppy-varsity
+  name: Preppy / varsity
+  palette:
+    - "#1C2A4A"  # navy
+    - "#7A1F2B"  # burgundy
+    - "#FFFFFF"  # white
+    - "#2E6B3F"  # green
+  shirts: [varsity jacket with invented letter, sweater vest over shirt, rugby stripe shirt]
+  pants: [chinos, pleated skirt with socks]
+  details: [ribbed cuffs, patch shapes, loafers]
+  keywords: [preppy, varsity, school]
+  guide: guides/preppy.md
+  construction:
+    source: "garment-construction knowledge; not yet checked against browser references"
+    folds: "Wool body is matt with soft folds; leather-look sleeves (varsity) get sharp elbow highlights."
+    build: "Varsity jacket: body colour + contrasting sleeves, striped rib collar/cuffs/hem (2-3 stripes), snap buttons as small dots down the centre, invented single letter patch on the chest (felt look, not a real school). Sweater vest: V-neck over a collared shirt (collar points visible). Rugby shirt: wide horizontal stripes, white collar."
+    palette_tones:   # base -> shadow (folds, seams) / highlight (chest, thigh, shoulder)
+      - {base: "#1C2A4A", shadow: "#141E35", highlight: "#45506B"}
+      - {base: "#7A1F2B", shadow: "#58161F", highlight: "#924751"}
+      - {base: "#FFFFFF", shadow: "#B8B8B8", highlight: "#FFFFFF"}
+      - {base: "#2E6B3F", shadow: "#214D2D", highlight: "#548662"}
+  avoid: [real university names or letters styled like real schools, real team mascots]
+
+- id: minimalist
+  name: Minimalist
+  palette:
+    - "#FAFAFA"  # white
+    - "#121212"  # black
+    - "#D9CBB0"  # beige
+    - "#A8A39A"  # stone
+  shirts: [plain heavyweight tee, crewneck, overshirt]
+  pants: [straight trousers, clean jeans]
+  details: [subtle seams only, white sneakers]
+  keywords: [basic, clean, plain]
+  construction:
+    source: "garment-construction knowledge; not yet checked against browser references"
+    folds: "Quiet: only the shared shading. Quality comes from clean hems and precise seams."
+    build: "Heavyweight tee: thick 5 px crew rib, sleeve hem stitch line. Overshirt: two flap chest pockets, concealed placket line. Straight trousers: side seam only, slight break above white sneakers."
+    palette_tones:   # base -> shadow (folds, seams) / highlight (chest, thigh, shoulder)
+      - {base: "#FAFAFA", shadow: "#B4B4B4", highlight: "#FBFBFB"}
+      - {base: "#121212", shadow: "#0D0D0D", highlight: "#3D3D3D"}
+      - {base: "#D9CBB0", shadow: "#9C927F", highlight: "#E0D4BE"}
+      - {base: "#A8A39A", shadow: "#79756F", highlight: "#B8B4AC"}
+  avoid: [flat fills with no shading layer, beige that reads as skin tone]
+
+- id: grunge
+  name: Grunge
+  palette:
+    - "#141414"  # black
+    - "#3A3A3A"  # charcoal
+    - "#9B3B3B"  # faded red
+    - "#5E6B47"  # moss
+  shirts: [flannel over dark tee, ripped sweater]
+  pants: [ripped jeans, black skinny jeans, black baggy jeans]
+  details: [plaid, frayed hems, chains, combat boots]
+  keywords: [grunge, flannel, ripped]
+  guide: guides/grunge.md
+  construction:
+    source: "garment-construction knowledge; not yet checked against browser references"
+    folds: "Worn: creases sit wherever fabric bunches (elbows, knees, waist) and rips show a darker inner edge and frayed white threads (never skin)."
+    build: "Flannel: plaid (base_pattern: plaid) left open over a dark tee: two front panels with button placket edges, the tee visible down the centre. Ripped jeans: knee rips drawn as a dark gap with horizontal white thread lines over a darker denim backing. Chain: small linked ovals from belt loop to back pocket."
+    palette_tones:   # base -> shadow (folds, seams) / highlight (chest, thigh, shoulder)
+      - {base: "#141414", shadow: "#0E0E0E", highlight: "#3E3E3E"}
+      - {base: "#3A3A3A", shadow: "#2A2A2A", highlight: "#5D5D5D"}
+      - {base: "#9B3B3B", shadow: "#702A2A", highlight: "#AD5E5E"}
+      - {base: "#5E6B47", shadow: "#444D33", highlight: "#7B8668"}
+  avoid: [band names or band-style logos, rips over chest or hips that show skin, gore-style distress]
+
+- id: coquette
+  name: Coquette / soft feminine
+  palette:
+    - "#F4C2C2"  # blush
+    - "#FFFFF0"  # ivory
+    - "#A7C7E7"  # baby blue
+    - "#E8A0B4"  # rose
+  shirts: [bow-front cardigan, puff-sleeve top, lace-trim blouse]
+  pants: [pleated skirt, ruffle shorts with tights]
+  details: [bows, ribbon, small florals, ballet flats]
+  keywords: [coquette, bow, cute, pink]
+  guide: guides/soft-girl.md
+  construction:
+    source: "garment-construction knowledge; not yet checked against browser references"
+    folds: "Soft gathers: tiny vertical gather folds under bows and at puff-sleeve tops; pleated skirts have alternating light/dark pleat faces."
+    build: "Bow-front cardigan: button placket, a ribbon bow at the neckline, scalloped hem optional. Puff sleeve: wider shading highlight at the shoulder cap, elastic band at arm v~40. Pleated skirt on pants: pleats every 8 px around the whole leg, ends at leg v~48, opaque tights below."
+    palette_tones:   # base -> shadow (folds, seams) / highlight (chest, thigh, shoulder)
+      - {base: "#F4C2C2", shadow: "#B08C8C", highlight: "#F6CDCD"}
+      - {base: "#FFFFF0", shadow: "#B8B8AD", highlight: "#FFFFF3"}
+      - {base: "#A7C7E7", shadow: "#788FA6", highlight: "#B7D1EB"}
+      - {base: "#E8A0B4", shadow: "#A77382", highlight: "#ECB1C2"}
+  avoid: [lingerie-style lace, corset-only tops, sheer panels over chest or hips, skin-tone tights]
+
+- id: cottagecore
+  name: Cottagecore
+  palette:
+    - "#9CAF88"  # sage
+    - "#F3EBDD"  # cream
+    - "#D9A93F"  # mustard
+    - "#C99A9E"  # dusty rose
+  shirts: [embroidered blouse, knitted vest, gingham top]
+  pants: [long skirt, overalls, linen trousers]
+  details: [tiny flowers, gingham, apron ties, boots]
+  keywords: [cottagecore, floral, gingham]
+  guide: guides/cottagecore.md
+  construction:
+    source: "garment-construction knowledge; not yet checked against browser references"
+    folds: "Linen and cotton: soft vertical drape folds, gathered waist folds under apron ties."
+    build: "Embroidered blouse: square neck with smocking lines, tiny 3-petal flowers along the neckline. Gingham top: base_pattern plaid with small 8 px checks. Overalls: bib on the front torso with two strap lines over the shoulders to the back, buckle dots, side buttons."
+    palette_tones:   # base -> shadow (folds, seams) / highlight (chest, thigh, shoulder)
+      - {base: "#9CAF88", shadow: "#707E62", highlight: "#AEBD9D"}
+      - {base: "#F3EBDD", shadow: "#AFA99F", highlight: "#F5EFE3"}
+      - {base: "#D9A93F", shadow: "#9C7A2D", highlight: "#E0B862"}
+      - {base: "#C99A9E", shadow: "#916F72", highlight: "#D3ACAF"}
+  avoid: [plant shapes that read as drug leaves, see-through linen]
+
+- id: techwear
+  name: Techwear
+  palette:
+    - "#0D0D0D"  # black
+    - "#3B3F45"  # graphite
+    - "#39FF14"  # one neon (swap per design)
+  shirts: [shell jacket, strapped vest over long sleeve]
+  pants: [tactical cargos with straps, tapered joggers]
+  details: [buckles, straps, panel lines, high-top boots]
+  keywords: [techwear, tactical, cyber]
+  construction:
+    source: "garment-construction knowledge; not yet checked against browser references"
+    folds: "Technical shells: sharp angular folds, panel lines carry the shading; straps cast 1-2 px shadows."
+    build: "Shell jacket: asymmetric zip, taped seams (1 px lighter lines) along panels, high collar. Strapped vest: 2 chest straps with flat buckles, side release buckles. Cargos: articulated knee panel, strap at thigh with buckle, tapered ankle with cuff zip."
+    palette_tones:   # base -> shadow (folds, seams) / highlight (chest, thigh, shoulder)
+      - {base: "#0D0D0D", shadow: "#090909", highlight: "#393939"}
+      - {base: "#3B3F45", shadow: "#2A2D32", highlight: "#5E6266"}
+      - {base: "#39FF14", shadow: "#29B80E", highlight: "#5DFF3E"}
+  avoid: [holsters or weapon shapes, real military/police patches, Japanese text that could be a brand name]
+
+- id: workwear
+  name: Workwear
+  palette:
+    - "#C2A878"  # tan
+    - "#6B4A2B"  # brown
+    - "#1F2E4D"  # navy
+    - "#2B2B2B"  # washed black
+  shirts: [chore jacket, canvas overshirt, thermal henley]
+  pants: [carpenter pants, double-knee trousers, overalls]
+  details: [contrast stitching, tool pockets, work boots]
+  keywords: [workwear, carpenter, canvas]
+  construction:
+    source: "garment-construction knowledge; not yet checked against browser references"
+    folds: "Heavy canvas: few, deep folds; fabric stays rigid with highlights on knees and elbows."
+    build: "Chore jacket: 3 patch pockets (1 chest, 2 hip), corduroy-look collar in trim colour, contrast stitching 1 px in tan/gold. Carpenter pants: hammer loop on the outer leg, tool pocket on the outer thigh. Double-knee: second fabric layer on the front leg from v~40-70 with stitch lines."
+    palette_tones:   # base -> shadow (folds, seams) / highlight (chest, thigh, shoulder)
+      - {base: "#C2A878", shadow: "#8C7956", highlight: "#CDB890"}
+      - {base: "#6B4A2B", shadow: "#4D351F", highlight: "#866B51"}
+      - {base: "#1F2E4D", shadow: "#162137", highlight: "#47546D"}
+      - {base: "#2B2B2B", shadow: "#1F1F1F", highlight: "#515151"}
+  avoid: [square chest labels resembling workwear brands, real company names on pockets]
+
+- id: boho
+  name: Boho
+  palette:
+    - "#B7472A"  # rust
+    - "#F3EBDD"  # cream
+    - "#40B5AD"  # turquoise
+    - "#7B5232"  # brown
+  shirts: [fringe vest, embroidered tunic, crochet top]
+  pants: [flared trousers, tiered skirt]
+  details: [fringe, original paisley-like pattern, suede boots]
+  keywords: [boho, fringe, festival]
+  construction:
+    source: "garment-construction knowledge; not yet checked against browser references"
+    folds: "Flowing: long vertical folds; fringe hangs in straight parallel strands with a shadow behind each."
+    build: "Fringe vest: fringe strands 1 px apart along the vest hem and back yoke. Embroidered tunic: neckline band of original geometric motifs. Flared trousers: widen from the knee, wide fold at the hem."
+    palette_tones:   # base -> shadow (folds, seams) / highlight (chest, thigh, shoulder)
+      - {base: "#B7472A", shadow: "#84331E", highlight: "#C46850"}
+      - {base: "#F3EBDD", shadow: "#AFA99F", highlight: "#F5EFE3"}
+      - {base: "#40B5AD", shadow: "#2E827D", highlight: "#62C2BC"}
+      - {base: "#7B5232", shadow: "#593B24", highlight: "#937157"}
+  avoid: [crochet gaps that show skin, sacred or religious symbols, cultural headdress imagery, festival drug references]
+
+- id: western
+  name: Western
+  palette:
+    - "#7B5232"  # brown
+    - "#4A6FA5"  # denim blue
+    - "#F3EBDD"  # cream
+    - "#B22222"  # red
+  shirts: [pearl-snap shirt, denim jacket, yoke-detail shirt]
+  pants: [bootcut jeans, chaps-look pants]
+  details: [pointed yoke, belt buckle, cowboy boots]
+  keywords: [western, cowboy, cowgirl]
+  construction:
+    source: "garment-construction knowledge; not yet checked against browser references"
+    folds: "Crisp shirts: few folds, highlight on the yoke; jeans stack at the boot."
+    build: "Pearl-snap shirt: pointed yoke across the chest and back (contrast colour), snap dots on the placket and pocket flaps, piping along the yoke. Bootcut jeans: big belt buckle (plain oval, no emblem). Boots: pointed toe on the front face, stitched shaft pattern."
+    palette_tones:   # base -> shadow (folds, seams) / highlight (chest, thigh, shoulder)
+      - {base: "#7B5232", shadow: "#593B24", highlight: "#937157"}
+      - {base: "#4A6FA5", shadow: "#355077", highlight: "#6B89B5"}
+      - {base: "#F3EBDD", shadow: "#AFA99F", highlight: "#F5EFE3"}
+      - {base: "#B22222", shadow: "#801818", highlight: "#C04A4A"}
+  avoid: [real flags, revolver or holster shapes, chaps with gaps that read as bare legs]
+
+- id: double-denim
+  name: Double denim
+  palette:
+    - "#A9C4E2"  # light wash
+    - "#4A6FA5"  # mid wash
+    - "#1E3557"  # dark wash
+    - "#D6A645"  # stitching gold
+  shirts: [denim jacket, denim shirt]
+  pants: [straight jeans, baggy jeans, denim skirt]
+  details: [stitching lines, pockets, fades at knees and elbows]
+  keywords: [denim, jeans, jacket]
+  construction:
+    source: "garment-construction knowledge; not yet checked against browser references"
+    folds: "Denim: crisp folds, whiskers at the hips, honeycomb creases behind the knee, lighter fades on knees, thighs and elbows."
+    build: "Denim jacket: two flap chest pockets, horizontal seam yokes, button placket, contrast gold stitching 1 px (double rows). Jeans: rivets as dots on pocket corners, plain back pockets with original stitching (no arcs that copy brands)."
+    palette_tones:   # base -> shadow (folds, seams) / highlight (chest, thigh, shoulder)
+      - {base: "#A9C4E2", shadow: "#7A8DA3", highlight: "#B8CFE7"}
+      - {base: "#4A6FA5", shadow: "#355077", highlight: "#6B89B5"}
+      - {base: "#1E3557", shadow: "#16263F", highlight: "#465975"}
+      - {base: "#D6A645", shadow: "#9A7832", highlight: "#DDB666"}
+  avoid: [back-pocket arc stitching or red side tabs resembling jean brands, leather patches with brand-like marks]
+
+- id: dark-academia
+  name: Dark academia
+  palette:
+    - "#5C4033"  # brown
+    - "#121212"  # black
+    - "#1F3D2B"  # deep green
+    - "#EDE3CF"  # cream
+  shirts: [tweed blazer, turtleneck, original argyle-like knit vest]
+  pants: [plaid trousers, pleated skirt with tights]
+  details: [elbow patches, buttons, oxford shoes]
+  keywords: [academia, blazer, vintage]
+  construction:
+    source: "garment-construction knowledge; not yet checked against browser references"
+    folds: "Tailored wool: soft folds at elbows, lapel roll highlight; pleated trousers keep crisp pleat lines."
+    build: "Tweed blazer: notched lapels down to a two-button front, elbow patches on the back face of the arm (v 50-70), flap hip pockets. Turtleneck: rolled collar band 8 px at the neck. Knit vest: original diamond knit pattern (not a copied argyle brand)."
+    palette_tones:   # base -> shadow (folds, seams) / highlight (chest, thigh, shoulder)
+      - {base: "#5C4033", shadow: "#422E25", highlight: "#796258"}
+      - {base: "#121212", shadow: "#0D0D0D", highlight: "#3D3D3D"}
+      - {base: "#1F3D2B", shadow: "#162C1F", highlight: "#476051"}
+      - {base: "#EDE3CF", shadow: "#ABA395", highlight: "#F0E8D8"}
+  avoid: [real university crests, wizard-school house colours with crests]
+
+- id: skater
+  name: Skater
+  palette:
+    - "#2B2B2B"  # washed black
+    - "#F3EBDD"  # cream
+    - "#2E4A36"  # forest green
+    - "#D9A93F"  # mustard
+  shirts: [striped long sleeve, oversized tee over long sleeve]
+  pants: [baggy jeans, corduroy pants, long shorts]
+  details: [horizontal stripes, flat-sole skate shoes]
+  keywords: [skater, baggy, striped]
+  construction:
+    source: "garment-construction knowledge; not yet checked against browser references"
+    folds: "Baggy: long vertical folds; jeans pool over the shoe in wide stacked folds."
+    build: "Striped long sleeve under an oversized short-sleeve tee: tee sleeve hem at arm v~40, stripes visible below. Corduroy pants: vertical wale lines every 2 px. Skate shoes: flat sole, padded collar, plain side panel (no side stripe marks)."
+    palette_tones:   # base -> shadow (folds, seams) / highlight (chest, thigh, shoulder)
+      - {base: "#2B2B2B", shadow: "#1F1F1F", highlight: "#515151"}
+      - {base: "#F3EBDD", shadow: "#AFA99F", highlight: "#F5EFE3"}
+      - {base: "#2E4A36", shadow: "#213527", highlight: "#546B5A"}
+      - {base: "#D9A93F", shadow: "#9C7A2D", highlight: "#E0B862"}
+  avoid: [checkerboard side stripe or wave-stripe shoe marks resembling skate brands, skate-brand box logos]
+
+- id: checks-tartan
+  name: Checks and tartan
+  palette:
+    - "#B22222"  # red (with black)
+    - "#111111"  # black
+    - "#1F4D2E"  # green (with navy)
+    - "#1C2A4A"  # navy
+  shirts: [plaid shirt, tartan jacket]
+  pants: [plaid trousers, tartan skirt]
+  details: [checks aligned across seams (the main quality test)]
+  keywords: [plaid, tartan, checkered]
+  construction:
+    source: "garment-construction knowledge; not yet checked against browser references"
+    folds: "Plaid: folds show as shading only, never bend the pattern (it must stay aligned across seams)."
+    build: "Plaid shirt: base_pattern plaid, button placket and collar in the same check, chest pockets cut on the bias (diagonal check). Tartan skirt: pleats every 8 px, kilt pin as a small bar. The check period (32 px) is fixed so it wraps seamlessly."
+    palette_tones:   # base -> shadow (folds, seams) / highlight (chest, thigh, shoulder)
+      - {base: "#B22222", shadow: "#801818", highlight: "#C04A4A"}
+      - {base: "#111111", shadow: "#0C0C0C", highlight: "#3C3C3C"}
+      - {base: "#1F4D2E", shadow: "#163721", highlight: "#476D54"}
+      - {base: "#1C2A4A", shadow: "#141E35", highlight: "#45506B"}
+  avoid: [camel/black/red/white house check resembling a luxury brand, registered clan tartans copied exactly]
+
+- id: cozy-knit
+  name: Cozy knit and faux fur
+  palette:
+    - "#D8C7A8"  # oatmeal
+    - "#4E3524"  # chocolate
+    - "#F3EBDD"  # cream
+    - "#6D1F2E"  # burgundy
+  shirts: [chunky sweater, fur-collar coat, cardigan]
+  pants: [knit lounge pants, corduroy]
+  details: [knit texture, fluffy trim, ugg-style boots]
+  keywords: [cozy, sweater, winter, fluffy]
+  guide: guides/christmas.md
+  construction:
+    source: "garment-construction knowledge; not yet checked against browser references"
+    folds: "Chunky knit: deep stitch texture with soft rounded folds; fur trim is a fluffy band with an irregular edge highlight."
+    build: "Chunky sweater: base_pattern knit, thick rib hem/cuffs 12 px, dropped shoulder seam. Fur-collar coat: fur band around the neck and down the front edges. Lounge pants: knit texture, cuffed ankle, fluffy boots with fur cuffs at the shoe top."
+    palette_tones:   # base -> shadow (folds, seams) / highlight (chest, thigh, shoulder)
+      - {base: "#D8C7A8", shadow: "#9C8F79", highlight: "#DFD1B8"}
+      - {base: "#4E3524", shadow: "#38261A", highlight: "#6E594B"}
+      - {base: "#F3EBDD", shadow: "#AFA99F", highlight: "#F5EFE3"}
+      - {base: "#6D1F2E", shadow: "#4E1621", highlight: "#874754"}
+  avoid: [boot labels or heel tabs resembling a brand, oatmeal knit that reads as skin tone]
+
+- id: archive
+  name: Archive / avant-garde
+  palette:
+    - "#1A1A1A"  # washed black
+    - "#3A3A3A"  # charcoal
+    - "#8A8580"  # ash grey
+    - "#E8E4DC"  # bone
+  shirts: [long-line tee, layered long sleeve under a short sleeve, high-neck knit]
+  pants: [wide drop-crotch-look trousers, long dark skirt over trousers-look tights, washed black jeans]
+  details: [long hems, monochrome layering, raw-look hems, heavy boots]
+  keywords: [archive, avant garde, dark, minimal, layered]
+  guide: guides/archive.md
+  construction:
+    source: "garment-construction knowledge; added 2026-11-16 with the style guides"
+    folds: "Washed fabrics: few, long vertical folds; layering shows as hard shadow lines where one garment ends over another."
+    build: "Long tee: torso.hem_line 116-120 with hem: plain (a long hemline is the archive signature). Layering: arms.sleeves short + arms.under in a second dark fabric. Trousers: waistband none or plain, solid charcoal, boots (shoe_palette black/charcoal). Keep it monochrome: 2-3 tones of black/grey plus bone."
+    palette_tones:   # base -> shadow (folds, seams) / highlight (chest, thigh, shoulder)
+      - {base: "#1A1A1A", shadow: "#131313", highlight: "#434343"}
+      - {base: "#3A3A3A", shadow: "#2A2A2A", highlight: "#5D5D5D"}
+      - {base: "#8A8580", shadow: "#63605C", highlight: "#9F9B97"}
+      - {base: "#E8E4DC", shadow: "#A7A49E", highlight: "#ECE9E2"}
+  avoid: [designer names or logos, replica of a specific runway piece, distress that shows skin, occult or religious symbols]
+
+- id: gen-z
+  name: Gen Z everyday / clean streetwear
+  palette:
+    - "#F5F5F2"  # off-white
+    - "#9DB5D6"  # light wash blue
+    - "#8E9199"  # heather grey
+    - "#B9C7A5"  # soft sage
+  shirts: [oversized plain tee, plain hoodie, cropped zip hoodie, quarter-zip]
+  pants: [baggy light-wash jeans, joggers, wide-leg trousers]
+  details: [oversized fit, clean white sneakers, matching sets, soft neutrals]
+  keywords: [aesthetic, trendy, clean, oversized, baggy]
+  guide: guides/gen-z.md
+  construction:
+    source: "garment-construction knowledge; added 2026-11-16 with the style guides"
+    folds: "Oversized fits: long soft vertical folds, sleeves bunch at the cuff, baggy legs stack above the sneaker."
+    build: "Tee or hoodie in one plain colour with rib hem (hem_line 108-112) and a crew collar or hood; light-wash denim (base_pattern denim) or joggers with cuffed ankles; plain white sneakers. The golden outfit is the reference for this style."
+    palette_tones:   # base -> shadow (folds, seams) / highlight (chest, thigh, shoulder)
+      - {base: "#F5F5F2", shadow: "#B0B0AE", highlight: "#F7F7F4"}
+      - {base: "#9DB5D6", shadow: "#71829A", highlight: "#AFC2DD"}
+      - {base: "#8E9199", shadow: "#66686E", highlight: "#A2A5AB"}
+      - {base: "#B9C7A5", shadow: "#858F77", highlight: "#C6D1B5"}
+  avoid: [brand-like chest marks, slogan text, hype-brand box labels]

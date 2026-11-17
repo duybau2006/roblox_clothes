@@ -1,0 +1,47 @@
+{
+ "id": "g07-pearl-heart-bow",
+ "name": "Pearl heart bow",
+ "motif": "heart",
+ "styles": [
+  "soft-girl",
+  "christmas",
+  "baddie",
+  "cottagecore"
+ ],
+ "mood": [
+  "romantic"
+ ],
+ "size": "medium",
+ "families": [
+  "decorated",
+  "print"
+ ],
+ "symmetric": false,
+ "band": false,
+ "kind": "motif",
+ "placement": "chest",
+ "readability": "simplified",
+ "source": "owner-generated",
+ "mask": "owner/g07-pearl-heart-bow.png",
+ "colour": "owner/g07-pearl-heart-bow-colour.png",
+ "ink": "owner/g07-pearl-heart-bow-ink.png",
+ "colours": [
+  "#DFC6BD",
+  "#C7A49C",
+  "#EEDED7"
+ ],
+ "sheet": "sheet-07",
+ "box": [
+  490,
+  245,
+  685,
+  440
+ ],
+ "license": {
+  "licence": "the store owner's own artwork, generated with ChatGPT; owner holds the rights",
+  "generated": "2026-11-16",
+  "source_url": "styles/references/inbox/sheet-07.png"
+ },
+ "bold": "owner/g07-pearl-heart-bow-bold.png",
+ "bold_below": 48
+}

@@ -1,0 +1,31 @@
+{
+ "id": "lace-border",
+ "name": "Lace border band (after a CC0 lace panel)",
+ "motif": "lace",
+ "styles": [
+  "vamp-goth",
+  "soft-girl",
+  "cottagecore"
+ ],
+ "mood": [
+  "vintage",
+  "engraved"
+ ],
+ "size": "large",
+ "families": [
+  "print"
+ ],
+ "symmetric": false,
+ "band": false,
+ "source": "public-domain",
+ "mask": "lace-border.png",
+ "license": {
+  "licence": "CC0 1.0 (The Met Open Access, isPublicDomain = true)",
+  "source_url": "https://www.metmuseum.org/art/collection/search/4653",
+  "image_url": "https://images.metmuseum.org/CRDImages/ad/original/14851.jpg",
+  "title": "Lace Pattern",
+  "artist": "",
+  "date": "ca. 1831",
+  "checked": "2026-11-16 via collectionapi.metmuseum.org"
+ }
+}

@@ -1,0 +1,43 @@
+{
+ "id": "g07-candles-greenery",
+ "name": "Candles greenery",
+ "motif": "candle",
+ "styles": [
+  "christmas",
+  "cottagecore"
+ ],
+ "mood": [
+  "cozy"
+ ],
+ "size": "small",
+ "families": [
+  "decorated",
+  "print"
+ ],
+ "symmetric": false,
+ "band": false,
+ "kind": "motif",
+ "placement": "chest",
+ "readability": "ok",
+ "source": "owner-generated",
+ "mask": "owner/g07-candles-greenery.png",
+ "colour": "owner/g07-candles-greenery-colour.png",
+ "ink": "owner/g07-candles-greenery-ink.png",
+ "colours": [
+  "#E5CDC1",
+  "#B79D95",
+  "#F2E3D5"
+ ],
+ "sheet": "sheet-07",
+ "box": [
+  1038,
+  625,
+  1245,
+  835
+ ],
+ "license": {
+  "licence": "the store owner's own artwork, generated with ChatGPT; owner holds the rights",
+  "generated": "2026-11-16",
+  "source_url": "styles/references/inbox/sheet-07.png"
+ }
+}

@@ -1,0 +1,46 @@
+{
+ "id": "g05-gem-heart-tribal",
+ "name": "Gem heart tribal",
+ "motif": "heart",
+ "styles": [
+  "baddie",
+  "y2k"
+ ],
+ "mood": [
+  "chrome",
+  "glam"
+ ],
+ "size": "medium",
+ "families": [
+  "print",
+  "decorated"
+ ],
+ "symmetric": false,
+ "band": false,
+ "kind": "hero",
+ "placement": "back",
+ "readability": "simplified",
+ "source": "owner-generated",
+ "mask": "owner/g05-gem-heart-tribal.png",
+ "colour": "owner/g05-gem-heart-tribal-colour.png",
+ "ink": "owner/g05-gem-heart-tribal-ink.png",
+ "colours": [
+  "#C5AFB9",
+  "#714A5C",
+  "#0B0005"
+ ],
+ "sheet": "sheet-05",
+ "box": [
+  245,
+  855,
+  555,
+  1010
+ ],
+ "license": {
+  "licence": "the store owner's own artwork, generated with ChatGPT; owner holds the rights",
+  "generated": "2026-11-16",
+  "source_url": "styles/references/inbox/sheet-05.png"
+ },
+ "bold": "owner/g05-gem-heart-tribal-bold.png",
+ "bold_below": 70
+}

@@ -1,0 +1,47 @@
+{
+ "id": "g06-flame-row",
+ "name": "Flame row",
+ "motif": "flame",
+ "styles": [
+  "grunge",
+  "emo"
+ ],
+ "mood": [
+  "grunge"
+ ],
+ "size": "medium",
+ "families": [
+  "decorated",
+  "print"
+ ],
+ "symmetric": false,
+ "band": true,
+ "kind": "border",
+ "placement": "hem",
+ "readability": "simplified",
+ "source": "owner-generated",
+ "mask": "owner/g06-flame-row.png",
+ "colour": "owner/g06-flame-row-colour.png",
+ "ink": "owner/g06-flame-row-ink.png",
+ "colours": [
+  "#3B3839",
+  "#474444",
+  "#545150"
+ ],
+ "sheet": "sheet-06",
+ "box": [
+  5,
+  345,
+  198,
+  530
+ ],
+ "license": {
+  "licence": "the store owner's own artwork, generated with ChatGPT; owner holds the rights",
+  "generated": "2026-11-16",
+  "source_url": "styles/references/inbox/sheet-06.png"
+ },
+ "bold": "owner/g06-flame-row-bold.png",
+ "bold_below": 256,
+ "tile": "owner/g06-flame-row-tile.png",
+ "tile_mask": "owner/g06-flame-row-tile-mask.png"
+}

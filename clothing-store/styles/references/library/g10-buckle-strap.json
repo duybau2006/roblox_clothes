@@ -1,0 +1,41 @@
+{
+ "id": "g10-buckle-strap",
+ "name": "Buckle strap",
+ "motif": "strap",
+ "styles": [
+  "archive"
+ ],
+ "mood": [
+  "utility"
+ ],
+ "size": "medium",
+ "families": [
+  "realistic"
+ ],
+ "symmetric": false,
+ "band": false,
+ "kind": "part",
+ "placement": "chest",
+ "readability": "ok",
+ "source": "owner-generated",
+ "mask": "owner/g10-buckle-strap.png",
+ "colour": "owner/g10-buckle-strap-colour.png",
+ "ink": "owner/g10-buckle-strap-ink.png",
+ "colours": [
+  "#302E2E",
+  "#615C58",
+  "#1E1C1D"
+ ],
+ "sheet": "sheet-10",
+ "box": [
+  590,
+  510,
+  670,
+  695
+ ],
+ "license": {
+  "licence": "the store owner's own artwork, generated with ChatGPT; owner holds the rights",
+  "generated": "2026-11-16",
+  "source_url": "styles/references/inbox/sheet-10.png"
+ }
+}

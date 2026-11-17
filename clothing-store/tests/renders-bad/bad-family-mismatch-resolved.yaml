@@ -1,0 +1,78 @@
+id: bad-family-mismatch
+style: grunge
+audience: masc
+family: decorated
+palette:
+- '#4A4A4E'
+- '#2A2A2A'
+- '#141414'
+- '#EDE6D6'
+torso:
+  garment: acid wash oversized tee
+  palette:
+  - '#4A4A4E'
+  base_pattern: acid_wash
+  details:
+  - crew collar
+  hem: plain
+  hem_line: 112
+  decor:
+  - print:
+      placement: front
+      template: centered_stack
+      elements:
+      - skull-crowned
+      - barbed-ring
+      - flame-band
+      ink: '#EDE6D6'
+      distress: 3
+      seed: 11
+      wrap: false
+      scale: 1.0
+    _recipe: true
+arms:
+  sleeves: short
+  details: []
+legs:
+  garment: washed black jeans
+  type: trousers
+  waist_line: 92
+  waistband: plain
+  palette:
+  - '#2A2A2A'
+  - '#141414'
+  base_pattern: denim
+  details:
+  - belt loops
+  - button
+  shoes: black boots
+  shoe_palette:
+  - '#141414'
+  - '#2A2A2A'
+  _identity: null
+recipes:
+- family: print
+  style: grunge
+  template: centered_stack
+  placement: front
+  tags:
+  - skull
+  - barbed-wire
+  - flame
+  ink: '#EDE6D6'
+  distress: 3
+  seed: 11
+listings:
+  words:
+    colour: Grey
+    garment: Skull Tee Jeans
+    style:
+    - grunge
+    - vintage
+  shirt:
+    name: Grey Skull Tee Jeans Grunge Vintage Outfit Top
+    description: An acid wash grey tee with a cracked vintage skull, barbed wire and flames print on the front. Wear it with Grey Skull Tee Jeans Grunge Vintage Outfit Pants for the full look.
+  pants:
+    name: Grey Skull Tee Jeans Grunge Vintage Outfit Pants
+    description: Washed black jeans and boots, with the acid wash skull tee on the torso. Wear them with Grey Skull Tee Jeans Grunge Vintage Outfit Top for the full look.
+moderation_check: Stylised skull, barbed wire and flames; no gore, band names, text or logos.

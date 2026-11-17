@@ -1,0 +1,47 @@
+{
+ "id": "g03-rose-leaves",
+ "name": "Rose leaves",
+ "motif": "rose",
+ "styles": [
+  "vamp-goth",
+  "cottagecore",
+  "soft-girl",
+  "emo"
+ ],
+ "mood": [
+  "romantic"
+ ],
+ "size": "medium",
+ "families": [
+  "print",
+  "decorated"
+ ],
+ "symmetric": false,
+ "band": false,
+ "kind": "hero",
+ "placement": "back",
+ "readability": "simplified",
+ "source": "owner-generated",
+ "mask": "owner/g03-rose-leaves.png",
+ "colour": "owner/g03-rose-leaves-colour.png",
+ "ink": "owner/g03-rose-leaves-ink.png",
+ "colours": [
+  "#453639",
+  "#655254",
+  "#837070"
+ ],
+ "sheet": "sheet-03",
+ "box": [
+  8,
+  420,
+  400,
+  685
+ ],
+ "license": {
+  "licence": "the store owner's own artwork, generated with ChatGPT; owner holds the rights",
+  "generated": "2026-11-16",
+  "source_url": "styles/references/inbox/sheet-03.png"
+ },
+ "bold": "owner/g03-rose-leaves-bold.png",
+ "bold_below": 70
+}

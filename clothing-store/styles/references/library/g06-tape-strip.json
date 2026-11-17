@@ -1,0 +1,44 @@
+{
+ "id": "g06-tape-strip",
+ "name": "Tape strip",
+ "motif": "tape",
+ "styles": [
+  "grunge",
+  "archive"
+ ],
+ "mood": [
+  "diy"
+ ],
+ "size": "small",
+ "families": [
+  "decorated"
+ ],
+ "symmetric": false,
+ "band": true,
+ "kind": "border",
+ "placement": "hem",
+ "readability": "ok",
+ "source": "owner-generated",
+ "mask": "owner/g06-tape-strip.png",
+ "colour": "owner/g06-tape-strip-colour.png",
+ "ink": "owner/g06-tape-strip-ink.png",
+ "colours": [
+  "#75706E",
+  "#9C9792",
+  "#545050"
+ ],
+ "sheet": "sheet-06",
+ "box": [
+  968,
+  680,
+  1240,
+  795
+ ],
+ "license": {
+  "licence": "the store owner's own artwork, generated with ChatGPT; owner holds the rights",
+  "generated": "2026-11-16",
+  "source_url": "styles/references/inbox/sheet-06.png"
+ },
+ "tile": "owner/g06-tape-strip-tile.png",
+ "tile_mask": "owner/g06-tape-strip-tile-mask.png"
+}

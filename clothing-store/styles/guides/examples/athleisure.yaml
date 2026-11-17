@@ -1,0 +1,66 @@
+id: guide-athleisure
+style: athleisure
+blend_with: ''
+audience: masc
+family: decorated
+palette:
+- '#151515'
+- '#A6A6A6'
+- '#9CAF88'
+- '#F2F2F2'
+torso:
+  garment: black zip track jacket
+  palette:
+  - '#151515'
+  - '#A6A6A6'
+  - '#9CAF88'
+  base_pattern: solid
+  details:
+  - zip
+  - crew collar
+  hem: rib
+  hem_line: 110
+  decor:
+  - motif: lightning
+    layout: pocket
+    colour: '#9CAF88'
+    size: 6
+arms:
+  details:
+  - ribbed cuffs
+  sleeves: long
+  decor:
+  - motif: lightning
+    layout: sleeve
+    colour: '#9CAF88'
+    size: 8
+legs:
+  garment: heather grey joggers
+  type: trousers
+  waist_line: 96
+  waistband: elastic
+  palette:
+  - '#A6A6A6'
+  - '#151515'
+  base_pattern: solid
+  details:
+  - side pockets
+  - cuffed ankles
+  - drawstrings
+  shoes: sage running shoes
+  shoe_palette:
+  - '#9CAF88'
+  - '#F2F2F2'
+listings:
+  words:
+    colour: Black
+    garment: Zip Jacket Joggers
+    style:
+    - trendy
+  shirt:
+    name: Black Zip Jacket Joggers Trendy Outfit Top
+    description: A black zip track jacket with grey rib trim and a sage zip pull. Wear it with Black Zip Jacket Joggers Trendy Outfit Pants for the full look.
+  pants:
+    name: Black Zip Jacket Joggers Trendy Outfit Pants
+    description: Heather grey joggers with a drawcord and sage running shoes, with the black zip jacket on the torso. Wear them with Black Zip Jacket Joggers Trendy Outfit Top for the full look.
+moderation_check: No side stripes, swoosh-like curves or brand marks.

@@ -1,0 +1,75 @@
+id: guide-grunge
+style: grunge
+blend_with: ''
+audience: masc
+family: decorated
+palette:
+- '#9B3B3B'
+- '#141414'
+- '#5E6B47'
+- '#2A2A2A'
+- '#8A8A8A'
+torso:
+  garment: red plaid flannel shirt
+  palette:
+  - '#9B3B3B'
+  - '#141414'
+  - '#5E6B47'
+  base_pattern: plaid
+  details:
+  - crew collar
+  hem: plain
+  hem_line: 112
+  decor:
+  - motif: patch
+    layout: patch
+    colour: '#5E6B47'
+    accent: '#8A8A8A'
+    size: 8
+arms:
+  details: []
+  sleeves: long
+legs:
+  garment: washed black jeans
+  type: trousers
+  waist_line: 96
+  waistband: plain
+  palette:
+  - '#2A2A2A'
+  - '#141414'
+  - '#8A8A8A'
+  base_pattern: denim
+  details:
+  - belt loops
+  - button
+  shoes: black boots
+  shoe_palette:
+  - '#141414'
+  - '#2A2A2A'
+  decor:
+  - motif: rip
+    layout: knees
+    colour: '#8A8A8A'
+    size: 9
+    both: true
+  - motif: safety_pin
+    layout: pin
+    colour: '#8A8A8A'
+    size: 5
+  - motif: chain
+    layout: hip_chain
+    colour: '#8A8A8A'
+listings:
+  words:
+    colour: Red
+    garment: Flannel Jeans
+    style:
+    - grunge
+    - vintage
+  shirt:
+    name: Red Flannel Jeans Grunge Vintage Outfit Top
+    description: A red and black plaid flannel with a moss green check. Wear it with Red Flannel Jeans Grunge Vintage Outfit Pants for the full look.
+  pants:
+    name: Red Flannel Jeans Grunge Vintage Outfit Pants
+    description: Washed black jeans with black boots, with the red flannel on the torso. Wear them with Red Flannel Jeans Grunge Vintage Outfit Top for the full look.
+moderation_check: Invented check, no band names or text, fully covered.

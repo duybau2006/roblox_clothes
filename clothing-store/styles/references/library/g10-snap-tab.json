@@ -1,0 +1,43 @@
+{
+ "id": "g10-snap-tab",
+ "name": "Snap tab",
+ "motif": "strap",
+ "styles": [
+  "archive"
+ ],
+ "mood": [
+  "utility"
+ ],
+ "size": "medium",
+ "families": [
+  "realistic"
+ ],
+ "symmetric": false,
+ "band": false,
+ "kind": "part",
+ "placement": "sleeve",
+ "readability": "simplified",
+ "source": "owner-generated",
+ "mask": "owner/g10-snap-tab.png",
+ "colour": "owner/g10-snap-tab-colour.png",
+ "ink": "owner/g10-snap-tab-ink.png",
+ "colours": [
+  "#3B3939",
+  "#656360",
+  "#242123"
+ ],
+ "sheet": "sheet-10",
+ "box": [
+  1165,
+  522,
+  1243,
+  720
+ ],
+ "license": {
+  "licence": "the store owner's own artwork, generated with ChatGPT; owner holds the rights",
+  "generated": "2026-11-16",
+  "source_url": "styles/references/inbox/sheet-10.png"
+ },
+ "bold": "owner/g10-snap-tab-bold.png",
+ "bold_below": 128
+}

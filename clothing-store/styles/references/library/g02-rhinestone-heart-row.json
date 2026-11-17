@@ -1,0 +1,47 @@
+{
+ "id": "g02-rhinestone-heart-row",
+ "name": "Rhinestone heart row",
+ "motif": "heart",
+ "styles": [
+  "y2k",
+  "baddie",
+  "soft-girl"
+ ],
+ "mood": [
+  "rhinestone"
+ ],
+ "size": "medium",
+ "families": [
+  "decorated"
+ ],
+ "symmetric": false,
+ "band": true,
+ "kind": "border",
+ "placement": "hem",
+ "readability": "simplified",
+ "source": "owner-generated",
+ "mask": "owner/g02-rhinestone-heart-row.png",
+ "colour": "owner/g02-rhinestone-heart-row-colour.png",
+ "ink": "owner/g02-rhinestone-heart-row-ink.png",
+ "colours": [
+  "#5E525C",
+  "#9C939A",
+  "#D6D0D4"
+ ],
+ "sheet": "sheet-02",
+ "box": [
+  805,
+  995,
+  1252,
+  1070
+ ],
+ "license": {
+  "licence": "the store owner's own artwork, generated with ChatGPT; owner holds the rights",
+  "generated": "2026-11-16",
+  "source_url": "styles/references/inbox/sheet-02.png"
+ },
+ "bold": "owner/g02-rhinestone-heart-row-bold.png",
+ "bold_below": 256,
+ "tile": "owner/g02-rhinestone-heart-row-tile.png",
+ "tile_mask": "owner/g02-rhinestone-heart-row-tile-mask.png"
+}

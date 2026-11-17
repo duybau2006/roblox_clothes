@@ -1,0 +1,44 @@
+{
+ "id": "g03-chandelier",
+ "name": "Chandelier",
+ "motif": "chandelier",
+ "styles": [
+  "vamp-goth"
+ ],
+ "mood": [
+  "gothic",
+  "baroque"
+ ],
+ "size": "medium",
+ "families": [
+  "print"
+ ],
+ "symmetric": false,
+ "band": false,
+ "kind": "hero",
+ "placement": "back",
+ "readability": "simplified",
+ "source": "owner-generated",
+ "mask": "owner/g03-chandelier.png",
+ "colour": "owner/g03-chandelier-colour.png",
+ "ink": "owner/g03-chandelier-ink.png",
+ "colours": [
+  "#352D2E",
+  "#4A4140",
+  "#6E6461"
+ ],
+ "sheet": "sheet-03",
+ "box": [
+  612,
+  305,
+  895,
+  645
+ ],
+ "license": {
+  "licence": "the store owner's own artwork, generated with ChatGPT; owner holds the rights",
+  "generated": "2026-11-16",
+  "source_url": "styles/references/inbox/sheet-03.png"
+ },
+ "bold": "owner/g03-chandelier-bold.png",
+ "bold_below": 70
+}

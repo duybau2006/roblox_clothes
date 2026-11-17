@@ -1,0 +1,32 @@
+{
+ "id": "dragonfly-brooch",
+ "name": "Dragonfly (after a CC0 brooch)",
+ "motif": "dragonfly",
+ "styles": [
+  "cottagecore",
+  "y2k",
+  "soft-girl",
+  "gen-z"
+ ],
+ "mood": [
+  "vintage",
+  "engraved"
+ ],
+ "size": "large",
+ "families": [
+  "print"
+ ],
+ "symmetric": false,
+ "band": false,
+ "source": "public-domain",
+ "mask": "dragonfly-brooch.png",
+ "license": {
+  "licence": "CC0 1.0 (The Met Open Access, isPublicDomain = true)",
+  "source_url": "https://www.metmuseum.org/art/collection/search/770198",
+  "image_url": "https://images.metmuseum.org/CRDImages/es/original/DP-14719-001.jpg",
+  "title": "Dragonfly brooch",
+  "artist": "Edgar Bense",
+  "date": "ca. 1890",
+  "checked": "2026-11-16 via collectionapi.metmuseum.org"
+ }
+}

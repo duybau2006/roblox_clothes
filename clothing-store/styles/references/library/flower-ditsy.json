@@ -1,0 +1,96 @@
+{
+ "id": "flower-ditsy",
+ "name": "Ditsy five-petal flower",
+ "motif": "flower",
+ "styles": [
+  "cottagecore",
+  "soft-girl",
+  "gen-z",
+  "y2k"
+ ],
+ "mood": [
+  "cute"
+ ],
+ "size": "small",
+ "families": [
+  "decorated",
+  "print"
+ ],
+ "symmetric": true,
+ "band": false,
+ "source": "original",
+ "shapes": [
+  {
+   "t": "ellipse",
+   "c": [
+    0.0,
+    -0.5
+   ],
+   "r": [
+    0.42,
+    0.42
+   ],
+   "tone": 0
+  },
+  {
+   "t": "ellipse",
+   "c": [
+    0.4755,
+    -0.1545
+   ],
+   "r": [
+    0.42,
+    0.42
+   ],
+   "tone": 0
+  },
+  {
+   "t": "ellipse",
+   "c": [
+    0.2939,
+    0.4045
+   ],
+   "r": [
+    0.42,
+    0.42
+   ],
+   "tone": 0
+  },
+  {
+   "t": "ellipse",
+   "c": [
+    -0.2939,
+    0.4045
+   ],
+   "r": [
+    0.42,
+    0.42
+   ],
+   "tone": 0
+  },
+  {
+   "t": "ellipse",
+   "c": [
+    -0.4755,
+    -0.1545
+   ],
+   "r": [
+    0.42,
+    0.42
+   ],
+   "tone": 0
+  },
+  {
+   "t": "ellipse",
+   "c": [
+    0,
+    0
+   ],
+   "r": [
+    0.3,
+    0.3
+   ],
+   "tone": 2
+  }
+ ]
+}

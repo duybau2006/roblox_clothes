@@ -1,0 +1,43 @@
+{
+ "id": "g09-lace-heart-rose",
+ "name": "Lace heart rose",
+ "motif": "heart",
+ "styles": [
+  "cottagecore",
+  "soft-girl"
+ ],
+ "mood": [
+  "romantic"
+ ],
+ "size": "small",
+ "families": [
+  "decorated",
+  "print"
+ ],
+ "symmetric": false,
+ "band": false,
+ "kind": "motif",
+ "placement": "chest",
+ "readability": "ok",
+ "source": "owner-generated",
+ "mask": "owner/g09-lace-heart-rose.png",
+ "colour": "owner/g09-lace-heart-rose-colour.png",
+ "ink": "owner/g09-lace-heart-rose-ink.png",
+ "colours": [
+  "#ECDCCD",
+  "#CCAF9D",
+  "#9D7462"
+ ],
+ "sheet": "sheet-09",
+ "box": [
+  970,
+  590,
+  1110,
+  730
+ ],
+ "license": {
+  "licence": "the store owner's own artwork, generated with ChatGPT; owner holds the rights",
+  "generated": "2026-11-16",
+  "source_url": "styles/references/inbox/sheet-09.png"
+ }
+}

@@ -1,0 +1,46 @@
+{
+ "id": "g04-lightning-slash",
+ "name": "Lightning slash",
+ "motif": "lightning",
+ "styles": [
+  "emo",
+  "grunge",
+  "baddie"
+ ],
+ "mood": [
+  "edgy"
+ ],
+ "size": "medium",
+ "families": [
+  "decorated",
+  "print"
+ ],
+ "symmetric": false,
+ "band": false,
+ "kind": "motif",
+ "placement": "chest",
+ "readability": "simplified",
+ "source": "owner-generated",
+ "mask": "owner/g04-lightning-slash.png",
+ "colour": "owner/g04-lightning-slash-colour.png",
+ "ink": "owner/g04-lightning-slash-ink.png",
+ "colours": [
+  "#30292D",
+  "#473B41",
+  "#6A5961"
+ ],
+ "sheet": "sheet-04",
+ "box": [
+  528,
+  560,
+  687,
+  798
+ ],
+ "license": {
+  "licence": "the store owner's own artwork, generated with ChatGPT; owner holds the rights",
+  "generated": "2026-11-16",
+  "source_url": "styles/references/inbox/sheet-04.png"
+ },
+ "bold": "owner/g04-lightning-slash-bold.png",
+ "bold_below": 48
+}

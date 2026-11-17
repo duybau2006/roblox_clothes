@@ -1,0 +1,46 @@
+{
+ "id": "g10-baroque-ornament",
+ "name": "Baroque ornament",
+ "motif": "filigree",
+ "styles": [
+  "archive",
+  "vamp-goth",
+  "grunge"
+ ],
+ "mood": [
+  "baroque"
+ ],
+ "size": "medium",
+ "families": [
+  "decorated",
+  "print"
+ ],
+ "symmetric": false,
+ "band": false,
+ "kind": "motif",
+ "placement": "chest",
+ "readability": "simplified",
+ "source": "owner-generated",
+ "mask": "owner/g10-baroque-ornament.png",
+ "colour": "owner/g10-baroque-ornament-colour.png",
+ "ink": "owner/g10-baroque-ornament-ink.png",
+ "colours": [
+  "#464243",
+  "#7E7977",
+  "#B5B1AD"
+ ],
+ "sheet": "sheet-10",
+ "box": [
+  5,
+  355,
+  398,
+  505
+ ],
+ "license": {
+  "licence": "the store owner's own artwork, generated with ChatGPT; owner holds the rights",
+  "generated": "2026-11-16",
+  "source_url": "styles/references/inbox/sheet-10.png"
+ },
+ "bold": "owner/g10-baroque-ornament-bold.png",
+ "bold_below": 48
+}

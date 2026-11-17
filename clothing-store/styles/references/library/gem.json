@@ -1,0 +1,86 @@
+{
+ "id": "gem",
+ "name": "Faceted gem",
+ "motif": "gem",
+ "styles": [
+  "y2k",
+  "baddie",
+  "soft-girl",
+  "gen-z"
+ ],
+ "mood": [
+  "sparkly"
+ ],
+ "size": "small",
+ "families": [
+  "decorated",
+  "print"
+ ],
+ "symmetric": true,
+ "band": false,
+ "source": "original",
+ "shapes": [
+  {
+   "t": "poly",
+   "pts": [
+    [
+     -0.8,
+     -0.3
+    ],
+    [
+     -0.45,
+     -0.75
+    ],
+    [
+     0.45,
+     -0.75
+    ],
+    [
+     0.8,
+     -0.3
+    ],
+    [
+     0,
+     0.9
+    ]
+   ],
+   "tone": 0
+  },
+  {
+   "t": "poly",
+   "pts": [
+    [
+     -0.45,
+     -0.75
+    ],
+    [
+     0,
+     -0.3
+    ],
+    [
+     0.45,
+     -0.75
+    ]
+   ],
+   "tone": 2
+  },
+  {
+   "t": "poly",
+   "pts": [
+    [
+     -0.8,
+     -0.3
+    ],
+    [
+     0,
+     -0.3
+    ],
+    [
+     0,
+     0.9
+    ]
+   ],
+   "tone": 1
+  }
+ ]
+}

@@ -1,0 +1,44 @@
+{
+ "id": "g04-plaster-x",
+ "name": "Plaster x",
+ "motif": "plaster",
+ "styles": [
+  "emo",
+  "grunge",
+  "baddie"
+ ],
+ "mood": [
+  "punk"
+ ],
+ "size": "small",
+ "families": [
+  "decorated",
+  "print"
+ ],
+ "symmetric": false,
+ "band": false,
+ "kind": "motif",
+ "placement": "chest",
+ "readability": "ok",
+ "source": "owner-generated",
+ "mask": "owner/g04-plaster-x.png",
+ "colour": "owner/g04-plaster-x-colour.png",
+ "ink": "owner/g04-plaster-x-ink.png",
+ "colours": [
+  "#CCC1C6",
+  "#6A5F66",
+  "#090007"
+ ],
+ "sheet": "sheet-04",
+ "box": [
+  1058,
+  595,
+  1250,
+  815
+ ],
+ "license": {
+  "licence": "the store owner's own artwork, generated with ChatGPT; owner holds the rights",
+  "generated": "2026-11-16",
+  "source_url": "styles/references/inbox/sheet-04.png"
+ }
+}

@@ -1,0 +1,46 @@
+{
+ "id": "g03-filigree-corner",
+ "name": "Filigree corner",
+ "motif": "filigree",
+ "styles": [
+  "vamp-goth",
+  "archive",
+  "preppy"
+ ],
+ "mood": [
+  "baroque"
+ ],
+ "size": "medium",
+ "families": [
+  "decorated",
+  "print"
+ ],
+ "symmetric": false,
+ "band": false,
+ "kind": "motif",
+ "placement": "chest",
+ "readability": "simplified",
+ "source": "owner-generated",
+ "mask": "owner/g03-filigree-corner.png",
+ "colour": "owner/g03-filigree-corner-colour.png",
+ "ink": "owner/g03-filigree-corner-ink.png",
+ "colours": [
+  "#4D4141",
+  "#736663",
+  "#938581"
+ ],
+ "sheet": "sheet-03",
+ "box": [
+  1005,
+  960,
+  1250,
+  1245
+ ],
+ "license": {
+  "licence": "the store owner's own artwork, generated with ChatGPT; owner holds the rights",
+  "generated": "2026-11-16",
+  "source_url": "styles/references/inbox/sheet-03.png"
+ },
+ "bold": "owner/g03-filigree-corner-bold.png",
+ "bold_below": 48
+}

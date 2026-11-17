@@ -1,0 +1,50 @@
+{
+ "id": "g02-thorn-heart-row",
+ "name": "Thorn heart row",
+ "motif": "heart",
+ "styles": [
+  "y2k",
+  "baddie",
+  "emo",
+  "vamp-goth"
+ ],
+ "mood": [
+  "chrome",
+  "tribal"
+ ],
+ "size": "medium",
+ "families": [
+  "decorated",
+  "print"
+ ],
+ "symmetric": false,
+ "band": true,
+ "kind": "border",
+ "placement": "hem",
+ "readability": "simplified",
+ "source": "owner-generated",
+ "mask": "owner/g02-thorn-heart-row.png",
+ "colour": "owner/g02-thorn-heart-row-colour.png",
+ "ink": "owner/g02-thorn-heart-row-ink.png",
+ "colours": [
+  "#625860",
+  "#9C959A",
+  "#CFC8CC"
+ ],
+ "sheet": "sheet-02",
+ "box": [
+  278,
+  895,
+  600,
+  970
+ ],
+ "license": {
+  "licence": "the store owner's own artwork, generated with ChatGPT; owner holds the rights",
+  "generated": "2026-11-16",
+  "source_url": "styles/references/inbox/sheet-02.png"
+ },
+ "bold": "owner/g02-thorn-heart-row-bold.png",
+ "bold_below": 256,
+ "tile": "owner/g02-thorn-heart-row-tile.png",
+ "tile_mask": "owner/g02-thorn-heart-row-tile-mask.png"
+}

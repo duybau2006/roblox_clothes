@@ -1,0 +1,44 @@
+{
+ "id": "g06-lion-knocker",
+ "name": "Lion knocker",
+ "motif": "ring",
+ "styles": [
+  "grunge",
+  "vamp-goth",
+  "archive"
+ ],
+ "mood": [
+  "ornate"
+ ],
+ "size": "small",
+ "families": [
+  "decorated",
+  "print"
+ ],
+ "symmetric": false,
+ "band": false,
+ "kind": "motif",
+ "placement": "chest",
+ "readability": "ok",
+ "source": "owner-generated",
+ "mask": "owner/g06-lion-knocker.png",
+ "colour": "owner/g06-lion-knocker-colour.png",
+ "ink": "owner/g06-lion-knocker-ink.png",
+ "colours": [
+  "#403B3A",
+  "#6A6360",
+  "#A49C98"
+ ],
+ "sheet": "sheet-06",
+ "box": [
+  1078,
+  932,
+  1218,
+  1140
+ ],
+ "license": {
+  "licence": "the store owner's own artwork, generated with ChatGPT; owner holds the rights",
+  "generated": "2026-11-16",
+  "source_url": "styles/references/inbox/sheet-06.png"
+ }
+}
