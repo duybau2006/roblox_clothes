@@ -1,0 +1,69 @@
+id: guide-baddie
+style: baddie-street
+blend_with: ''
+audience: fem
+family: decorated
+palette:
+- '#FFFFFF'
+- '#111111'
+- '#2A2A2A'
+- '#C0C0C0'
+- '#E0115F'
+torso:
+  garment: white fitted crop tee
+  palette:
+  - '#FFFFFF'
+  - '#111111'
+  base_pattern: solid
+  details:
+  - crew collar
+  hem: plain
+  hem_line: 88
+  decor:
+  - motif: butterfly
+    layout: chest
+    colour: '#E0115F'
+    accent: '#C0C0C0'
+    size: 14
+  - motif: chain
+    layout: necklace
+    colour: '#C0C0C0'
+    pendant: heart
+arms:
+  sleeves: short
+  details: []
+legs:
+  garment: black straight jeans
+  type: trousers
+  waist_line: 100
+  waistband: plain
+  palette:
+  - '#111111'
+  - '#2A2A2A'
+  - '#C0C0C0'
+  base_pattern: denim
+  details:
+  - belt loops
+  - button
+  shoes: black and white sneakers
+  shoe_palette:
+  - '#111111'
+  - '#FFFFFF'
+  decor:
+  - motif: chain
+    layout: hip_chain
+    colour: '#C0C0C0'
+listings:
+  words:
+    colour: White
+    garment: Crop Tee Jeans
+    style:
+    - baddie
+    - swag
+  shirt:
+    name: White Crop Tee Jeans Baddie Swag Outfit Top
+    description: A white fitted crop tee with a black rib collar. Wear it with White Crop Tee Jeans Baddie Swag Outfit Pants for the full look.
+  pants:
+    name: White Crop Tee Jeans Baddie Swag Outfit Pants
+    description: Black straight jeans with a silver button and sneakers, with the white crop tee on the torso. Wear them with White Crop Tee Jeans Baddie Swag Outfit Top for the full look.
+moderation_check: Ordinary crop tee with a 12 px gap above a high waistband; no tattoos, game names or text.

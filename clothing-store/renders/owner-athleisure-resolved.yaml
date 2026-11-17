@@ -1,0 +1,101 @@
+torso:
+  garment_kind: tee
+  material: nylon
+  palette:
+  - '#2E3340'
+  - '#EDE6D6'
+  details:
+  - crew collar
+  hem: plain
+  hem_line: 104
+  decor:
+  - element: chevron
+    layout: chest
+    colour: '#EDE6D6'
+    size: 12
+    _recipe: true
+  - element: g08-stripe-border-navy
+    layout: border
+    colour: '#EDE6D6'
+    height: 7
+    _recipe: true
+  garment: navy jersey with number 28, chevron badge and striped hem
+arms:
+  sleeves: short
+  decor:
+  - element: star-8
+    layout: sleeve
+    colour: '#EDE6D6'
+    size: 7
+    _recipe: true
+legs:
+  type: trousers
+  garment_kind: joggers
+  material: nylon
+  waist_line: 96
+  waistband: elastic
+  palette:
+  - '#2E3340'
+  - '#EDE6D6'
+  details:
+  - rib cuffs
+  shoes: sneakers
+  shoe_style: sneaker
+  shoe_palette:
+  - '#F2F2F2'
+  - '#F2F2F2'
+  - '#6B2D3A'
+  garment: navy track joggers
+  _identity: &id001
+    number_style: racing
+    number_colour: '#EDE6D6'
+    number_outline: '#2E3340'
+    number_places:
+    - back
+    layout: racing
+    panel: '#6B2D3A'
+    piping: '#EDE6D6'
+    number: 28
+identity: *id001
+shading:
+  mode: realistic
+  seed: 22
+  wrinkles: 1.0
+id: owner-athleisure
+style: athleisure
+audience: masc
+family: realistic
+palette:
+- '#2E3340'
+- '#EDE6D6'
+- '#6B2D3A'
+- '#F2F2F2'
+recipes:
+- family: realistic
+  style: athleisure
+  template: racing_jersey
+  colours:
+  - '#2E3340'
+  - '#EDE6D6'
+  - '#6B2D3A'
+  - '#F2F2F2'
+  seed: 22
+  number: 28
+  tags:
+  - chevron
+  - star
+  border: stripe
+  ink: '#EDE6D6'
+listings:
+  words:
+    colour: Navy
+    garment: Jersey
+    style:
+    - swag
+  shirt:
+    name: Navy Jersey Swag Outfit Top
+    description: A navy racing jersey with number 28 on the back, a chevron badge, stars on the sleeve and a striped trim at the hem. Wear it with Navy Jersey Swag Outfit Pants for the full look.
+  pants:
+    name: Navy Jersey Swag Outfit Pants
+    description: Navy track joggers and white sneakers, with the jersey on the torso. Wear them with Navy Jersey Swag Outfit Top for the full look.
+moderation_check: Number only (28), chevron, stars and stripe trim from the owner's sheets; no team, sponsor or three-stripe look.

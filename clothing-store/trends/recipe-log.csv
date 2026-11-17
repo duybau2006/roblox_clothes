@@ -1,0 +1,15 @@
+date,spec,style,family,template,main_element,elements,ink,seed
+2026-11-16,combined-baddie,baddie,print,centered_stack,heart-winged,heart-winged g02-feather-wings chain-loop,#C0C0C0,13
+2026-11-16,owner-athleisure,athleisure,realistic,racing_jersey,procedural,,#2E3340 #EDE6D6 #6B2D3A #F2F2F2,22
+2026-11-16,owner-preppy,preppy,realistic,knit_stripes,procedural,,#26304C #EDE6D6 #6B2D3A #3A2A20,21
+2026-11-16,print-emo,emo,print,offcentre_figure,heart-flaming,heart-flaming dagger-ornate g01-star-solid,#FF1493,5
+2026-11-16,print-grunge,grunge,print,centered_stack,skull-crowned,skull-crowned barbed-ring flame-band,#EDE6D6,11
+2026-11-16,print-vamp-goth,vamp-goth,print,symmetric_pair,skull-classic,skull-classic wings-angel g03-gothic-window-roses,#E8E4DC,3
+2026-11-16,print-y2k,y2k,print,allover_faded,butterfly,butterfly star-shooting sparkle-cluster heart-double,#FFFFFF,21
+2026-11-16,realistic-corset-trousers,vamp-goth,realistic,corset_trousers,procedural,,#1A1A1A #2E2E34 #8E1B2B #1A1A1A,6
+2026-11-16,realistic-crop-lowrise,y2k,realistic,crop_lowrise,procedural,,#1A1A1A #9DB4CF #C9A15A #F2F0EB,9
+2026-11-16,realistic-knit-stripes,preppy,realistic,knit_stripes,procedural,,#EDE6D6 #2F3B5C #6B5B45 #3A2A20,2
+2026-11-16,realistic-pleated-skirt-bows,soft-girl,realistic,pleated_skirt_bows,procedural,,#F2F0EB #2F3B5C #8E1B2B #1A1A1A,7
+2026-11-16,realistic-racing-jersey,athleisure,realistic,racing_jersey,procedural,,#1C2A44 #F2F0EB #E3A72F #F2F0EB,3
+2026-11-16,realistic-sports-shorts,athleisure,realistic,sports_shorts,procedural,,#F2F0EB #1C2A44 #E3A72F #FFFFFF,8
+2026-11-16,realistic-suit-waistcoat,archive,realistic,suit_waistcoat,procedural,,#2B2F3A #5E2633 #C9A15A #F2F0EB,4

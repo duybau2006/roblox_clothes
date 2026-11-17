@@ -1,0 +1,61 @@
+id: guide-gen-z
+style: gen-z
+blend_with: ''
+audience: unisex
+family: decorated
+palette:
+- '#F5F5F2'
+- '#9DB5D6'
+- '#7F9BC0'
+- '#FFFFFF'
+- '#E4E4E4'
+torso:
+  garment: oversized plain tee
+  palette:
+  - '#F5F5F2'
+  base_pattern: solid
+  details:
+  - crew collar
+  hem: plain
+  hem_line: 108
+  decor:
+  - motif: heart
+    layout: pocket
+    colour: '#9DB5D6'
+    size: 5
+  - motif: star
+    layout: back
+    colour: '#9DB5D6'
+    size: 12
+arms:
+  sleeves: short
+  details: []
+legs:
+  garment: baggy light wash jeans
+  type: trousers
+  waist_line: 92
+  waistband: plain
+  palette:
+  - '#9DB5D6'
+  - '#7F9BC0'
+  base_pattern: denim
+  details:
+  - belt loops
+  - button
+  shoes: white sneakers
+  shoe_palette:
+  - '#FFFFFF'
+  - '#E4E4E4'
+listings:
+  words:
+    colour: White
+    garment: Tee Baggy Jeans
+    style:
+    - trendy
+  shirt:
+    name: White Tee Baggy Jeans Trendy Outfit Top
+    description: An oversized off-white plain tee. Wear it with White Tee Baggy Jeans Trendy Outfit Pants for the full look.
+  pants:
+    name: White Tee Baggy Jeans Trendy Outfit Pants
+    description: Baggy light wash jeans with clean white sneakers, with the off-white tee on the torso. Wear them with White Tee Baggy Jeans Trendy Outfit Top for the full look.
+moderation_check: Plain tee, no text, chest marks or logos.

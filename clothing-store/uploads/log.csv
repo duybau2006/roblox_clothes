@@ -1,0 +1,26 @@
+outfit_id,garment,file,asset_id,name,price,fee_paid,time,moderation_status
+guide-y2k,shirt,renders/guide-y2k-shirt.png,82418174405398,Lilac Zip Hoodie Jeans Y2K Cute Outfit Top,5,90 (80 upload + 10 publishing advance),2026-11-16 19:35 / published 2026-11-16 19:38,live; image visible on catalog page
+guide-y2k,pants,renders/guide-y2k-pants.png,116970936335983,Lilac Zip Hoodie Jeans Y2K Cute Outfit Pants,5,90 (80 upload + 10 publishing advance),2026-11-16 19:38,live; image visible on catalog page
+owner-y2k,shirt,renders/owner-y2k-shirt.png,104717042466622,Black Butterfly Tee Y2K Outfit Top,5,80 + 10,2026-11-16 19:46 / 2026-11-16 19:47,published at 5; on sale
+owner-y2k,pants,renders/owner-y2k-pants.png,109509190996505,Black Butterfly Tee Y2K Outfit Pants,5,80 + 10,2026-11-16 19:47 / 2026-11-16 19:47,published at 5; on sale
+print-y2k,shirt,renders/print-y2k-shirt.png,127855584666825,Pink Butterfly Crop Tee Jeans Y2K Outfit Top,5,80 + 10,2026-11-16 19:48 / 2026-11-16 19:50,published at 5; on sale
+print-y2k,pants,renders/print-y2k-pants.png,105458835693065,Pink Butterfly Crop Tee Jeans Y2K Outfit Pants,5,80 + 10,2026-11-16 19:49 / 2026-11-16 19:50,published at 5; on sale
+realistic-crop-lowrise,shirt,renders/realistic-crop-lowrise-shirt.png,93317728490067,Black Crop Tee Y2K Baddie Outfit Top,5,80 + 10,2026-11-16 19:50 / 2026-11-16 19:52,published at 5; on sale
+realistic-crop-lowrise,pants,renders/realistic-crop-lowrise-pants.png,74427107768162,Black Crop Tee Y2K Baddie Outfit Pants,5,80 + 10,2026-11-16 19:51 / 2026-11-16 19:52,published at 5; on sale
+guide-vamp-goth,shirt,renders/guide-vamp-goth-shirt.png,71945422780255,Black Sweater Plaid Skirt Vamp Goth Outfit Top,5,80 + 10,2026-11-16 19:52 / 2026-11-16 19:59,published at 5 by the owner; on sale
+guide-vamp-goth,pants,renders/guide-vamp-goth-pants.png,,Black Sweater Plaid Skirt Vamp Goth Outfit Pants,5,0,2026-11-16 19:54,"NOT CREATED: confirm clicked, no item on dashboard, no pants fee charged (balance 1281 -> 1201 = shirt only); not retried"
+guide-vamp-goth,pants,renders/guide-vamp-goth-pants.png,,Black Sweater Plaid Skirt Vamp Goth Outfit Pants,5,0,2026-11-16 19:56,NOT CREATED (retry): Roblox said 'Asset name or description was moderated. Please try again.'; not charged (balance still 1201)
+guide-vamp-goth,pants,renders/guide-vamp-goth-pants.png,,Black Sweater Plaid Skirt Vamp Goth Outfit Pants,5,0,2026-11-16 20:00,"NOT CREATED (attempt 3, new description without 'tights'): 'Asset name or description was moderated'; not charged (balance 1191)"
+guide-vamp-goth,pants,renders/guide-vamp-goth-pants.png,86711730460687,Black Sweater Plaid Skirt Vamp Goth Outfit Pants,5,80 + 10,2026-11-16 20:02 / 2026-11-16 20:02,published at 5; on sale
+owner-vamp-goth,shirt,renders/owner-vamp-goth-shirt.png,105046434480438,Black Moon Bat Tee Vamp Goth Outfit Top,5,80 + 10,2026-11-16 20:03 / 2026-11-16 20:04,published at 5; on sale
+owner-vamp-goth,pants,renders/owner-vamp-goth-pants.png,88610086066824,Black Moon Bat Tee Vamp Goth Outfit Pants,5,80 + 10,2026-11-16 20:03 / 2026-11-16 20:04,published at 5; on sale
+print-vamp-goth,shirt,renders/print-vamp-goth-shirt.png,92080204835026,Black Skull Wings Tee Vamp Goth Outfit Top,5,80 + 10,2026-11-16 20:05 / 2026-11-16 20:06,published at 5; on sale
+print-vamp-goth,pants,renders/print-vamp-goth-pants.png,123596453810873,Black Skull Wings Tee Vamp Goth Outfit Pants,5,80 + 10,2026-11-16 20:05 / 2026-11-16 20:06,published at 5; on sale
+realistic-corset-trousers,shirt,renders/realistic-corset-trousers-shirt.png,138034572995887,Black Corset Top Vamp Goth Outfit Top,5,80 + 10,2026-11-16 20:07 / 2026-11-16 20:08,published at 5; on sale
+realistic-corset-trousers,pants,renders/realistic-corset-trousers-pants.png,81865260635246,Black Corset Top Vamp Goth Outfit Pants,5,80 + 10,2026-11-16 20:08 / 2026-11-16 20:08,published at 5; on sale
+guide-emo,shirt,renders/guide-emo-shirt.png,134516840982259,Black Zip Hoodie Jeans Emo Y2K Outfit Top,5,80 + 10,2026-11-16 20:09 / 2026-11-16 20:10,published at 5; on sale
+guide-emo,pants,renders/guide-emo-pants.png,81555452237012,Black Zip Hoodie Jeans Emo Y2K Outfit Pants,5,80 + 10,2026-11-16 20:10 / 2026-11-16 20:10,published at 5; on sale
+owner-emo,shirt,renders/owner-emo-shirt.png,108954197358718,Black Zip Hoodie Emo Outfit Top,5,80 + 10,2026-11-16 20:11 / 2026-11-16 20:12,published at 5; on sale
+owner-emo,pants,renders/owner-emo-pants.png,80943323760436,Black Zip Hoodie Emo Outfit Pants,5,80 + 10,2026-11-16 20:12 / 2026-11-16 20:12,published at 5; on sale
+print-emo,shirt,renders/print-emo-shirt.png,112692540323749,Black Heart Hoodie Jeans Emo Y2K Outfit Top,5,80 + 10,2026-11-16 20:13 / 2026-11-16 20:15,published at 5; on sale
+print-emo,pants,renders/print-emo-pants.png,106267559666363,Black Heart Hoodie Jeans Emo Y2K Outfit Pants,5,80 + 10,2026-11-16 20:14 / 2026-11-16 20:15,published at 5; on sale

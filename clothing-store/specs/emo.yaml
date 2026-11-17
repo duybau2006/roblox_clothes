@@ -1,0 +1,90 @@
+id: guide-emo
+style: emo-scene
+blend_with: ''
+audience: unisex
+family: decorated
+palette:
+- '#111111'
+- '#FF1493'
+- '#EDEDED'
+- '#2A2A2A'
+torso:
+  garment: black zip hoodie
+  palette:
+  - '#111111'
+  - '#FF1493'
+  - '#EDEDED'
+  base_pattern: solid
+  details:
+  - hood
+  - zip
+  - drawstrings
+  hem: rib
+  hem_line: 110
+  decor:
+  - motif: star
+    layout: back
+    colour: '#FF1493'
+    size: 20
+    pair: true
+  - motif: heart
+    layout: pocket
+    colour: '#FF1493'
+    size: 5
+arms:
+  palette:
+  - '#111111'
+  - '#FF1493'
+  base_pattern: stripes
+  pattern:
+    width: 4
+  sleeve_contrast: true
+  details:
+  - ribbed cuffs
+  sleeves: long
+legs:
+  garment: black skinny jeans
+  type: trousers
+  waist_line: 96
+  waistband: plain
+  palette:
+  - '#111111'
+  - '#2A2A2A'
+  - '#EDEDED'
+  base_pattern: denim
+  details:
+  - belt loops
+  - button
+  shoes: black and white sneakers
+  shoe_palette:
+  - '#111111'
+  - '#EDEDED'
+  decor:
+  - motif: chain
+    layout: hip_chain
+    colour: '#EDEDED'
+  - motif: rip
+    layout: knees
+    colour: '#EDEDED'
+    size: 8
+listings:
+  words:
+    colour: Black
+    garment: Zip Hoodie Jeans
+    style:
+    - emo
+    - y2k
+  shirt:
+    name: Black Zip Hoodie Jeans Emo Y2K Outfit Top
+    description: A black zip hoodie with hot pink and black striped sleeves. Wear it with Black Zip Hoodie Jeans Emo Y2K Outfit Pants for the full look.
+  pants:
+    name: Black Zip Hoodie Jeans Emo Y2K Outfit Pants
+    description: Black skinny jeans with black and white sneakers, with the striped-sleeve hoodie on the torso. Wear them with Black Zip Hoodie Jeans Emo Y2K Outfit Top for the full look.
+moderation_check: No band names, skulls or text; stripes are plain horizontal bands.
+
+# upload record (set after the pair went live; validate.py refuses to queue it again)
+uploaded: true
+upload:
+  shirt_asset_id: 134516840982259
+  pants_asset_id: 81555452237012
+  date: 2026-11-16

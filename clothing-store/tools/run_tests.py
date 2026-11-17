@@ -94,6 +94,11 @@ def main():
         _, warnings = render(sp, RENDERS)
         oid, rep = validate_outfit(sp, RENDERS)
         good[Path(sp).stem] = sp
+        if (yaml.safe_load(Path(sp).read_text(encoding="utf-8")) or {}).get("uploaded"):
+            passed = failed_checks(rep) == {"upload"}            # uploaded outfits must be refused, and only for that
+            ok &= passed
+            print(f"  {'ok  ' if passed else 'FAIL'} {oid} (uploaded: refused for re-queue)")
+            continue
         passed = rep.ok and not [w for w in warnings if "not supported" in w]
         ok &= passed
         print(f"  {'ok  ' if passed else 'FAIL'} {oid}" + ("" if passed else "\n" + "\n".join(rep.lines + warnings)))

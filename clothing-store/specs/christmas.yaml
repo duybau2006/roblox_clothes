@@ -1,0 +1,74 @@
+id: guide-christmas
+style: seasonal
+blend_with: ''
+audience: unisex
+family: decorated
+palette:
+- '#B22222'
+- '#FFFFFF'
+- '#8E9199'
+- '#80838B'
+- '#D4AF37'
+torso:
+  garment: red knit christmas sweater
+  palette:
+  - '#B22222'
+  - '#FFFFFF'
+  base_pattern: knit
+  details:
+  - crew collar
+  hem: rib
+  hem_line: 108
+  decor:
+  - motif: star
+    layout: chest
+    colour: '#D4AF37'
+    size: 13
+    pair: true
+  - motif: sparkle
+    layout: row
+    colour: '#FFFFFF'
+    size: 3
+    row: 84
+    spacing: 10
+arms:
+  details:
+  - ribbed cuffs
+  sleeves: long
+  decor:
+  - motif: sparkle
+    layout: row
+    colour: '#FFFFFF'
+    size: 2.6
+    row: 74
+    spacing: 9
+legs:
+  garment: grey joggers
+  type: trousers
+  waist_line: 96
+  waistband: elastic
+  palette:
+  - '#8E9199'
+  - '#80838B'
+  base_pattern: solid
+  details:
+  - side pockets
+  - cuffed ankles
+  shoes: white sneakers
+  shoe_palette:
+  - '#FFFFFF'
+  - '#8E9199'
+listings:
+  words:
+    colour: Red
+    garment: Sweater Joggers
+    style:
+    - christmas
+    - cute
+  shirt:
+    name: Red Sweater Joggers Christmas Cute Outfit Top
+    description: A red knit christmas sweater with white rib trim. Wear it with Red Sweater Joggers Christmas Cute Outfit Pants for the full look.
+  pants:
+    name: Red Sweater Joggers Christmas Cute Outfit Pants
+    description: Grey joggers with cuffed ankles and white sneakers, with the red christmas sweater on the torso. Wear them with Red Sweater Joggers Christmas Cute Outfit Top for the full look.
+moderation_check: No religious symbols, licensed characters or text.

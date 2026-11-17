@@ -1,0 +1,69 @@
+torso:
+  garment_kind: tee
+  material: cotton
+  palette:
+  - '#1A1A1A'
+  details:
+  - crew collar
+  hem: plain
+  hem_line: 88
+  garment: black cropped baby tee
+arms:
+  sleeves: short
+legs:
+  type: trousers
+  garment_kind: jeans
+  material: denim
+  waist_line: 104
+  waistband: plain
+  palette:
+  - '#9DB4CF'
+  parts:
+  - belt
+  - jeans_fly
+  - jeans_pockets
+  shoes: sneakers
+  shoe_style: sneaker
+  shoe_palette:
+  - '#F2F0EB'
+  - '#F2F0EB'
+  - '#C9A15A'
+  garment: light blue low-rise jeans with a belt and white sneakers
+  _identity: null
+shading:
+  mode: realistic
+  seed: 9
+  wrinkles: 1.0
+id: realistic-crop-lowrise
+style: y2k
+audience: fem
+family: realistic
+palette:
+- '#1A1A1A'
+- '#9DB4CF'
+- '#C9A15A'
+- '#F2F0EB'
+recipes:
+- family: realistic
+  style: y2k
+  template: crop_lowrise
+  colours:
+  - '#1A1A1A'
+  - '#9DB4CF'
+  - '#C9A15A'
+  - '#F2F0EB'
+  seed: 9
+listings:
+  words:
+    colour: Black
+    garment: Crop Tee
+    style:
+    - y2k
+    - baddie
+  shirt:
+    name: Black Crop Tee Y2K Baddie Outfit Top
+    description: A black cropped baby tee that ends above the low-rise jeans. Wear it with Black Crop Tee Y2K Baddie Outfit Pants for the full look.
+  pants:
+    name: Black Crop Tee Y2K Baddie Outfit Pants
+    description: Light blue low-rise jeans with a belt and white sneakers, with the black crop tee on the torso. Wear them with Black Crop Tee Y2K Baddie Outfit Top for the full look.
+moderation_check: Crop gap 16 px (the maximum), transparent so the avatar shows through; chest and hips covered.

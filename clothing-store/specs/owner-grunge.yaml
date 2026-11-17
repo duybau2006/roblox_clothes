@@ -1,0 +1,61 @@
+id: owner-grunge
+style: grunge
+audience: masc
+family: decorated
+palette:
+- '#4A4E5A'
+- '#2B2B2E'
+- '#8E8A86'
+- '#2E3A4E'
+torso:
+  garment: grey plaid flannel with a safety pin and chain hem
+  palette:
+  - '#4A4E5A'
+  - '#2B2B2E'
+  - '#8E8A86'
+  base_pattern: swatch
+  pattern:
+    element: g06-plaid-patch
+  details:
+  - crew collar
+  hem: plain
+  hem_line: 112
+  decor:
+  - element: g06-safety-pin
+    layout: chest
+    colour: '#8E8A86'
+    size: 8
+  - element: g06-chain-links
+    layout: border
+    colour: '#8E8A86'
+    height: 5
+    row: 98
+arms:
+  sleeves: long
+legs:
+  garment: washed dark jeans and grey sneakers
+  type: trousers
+  waist_line: 96
+  waistband: plain
+  base_pattern: denim
+  details:
+  - belt loops
+  palette:
+  - '#2E3A4E'
+  shoes: white sneakers
+  shoe_palette:
+  - '#8E8A86'
+  - '#4A4E5A'
+listings:
+  words:
+    colour: Grey
+    garment: Flannel
+    style:
+    - grunge
+  shirt:
+    name: Grey Flannel Grunge Outfit Top
+    description: A grey plaid flannel with a safety pin on the chest and a chain trim near the hem. Wear it with Grey Flannel Grunge Outfit Pants for the full look.
+  pants:
+    name: Grey Flannel Grunge Outfit Pants
+    description: Washed dark jeans and grey sneakers, with the flannel on the torso. Wear them with Grey Flannel Grunge Outfit Top for the full look.
+moderation_check: Plaid, pin and chain from the owner's sheets; no crosses, wounds or band names.

@@ -189,9 +189,9 @@ def apply_layer(canvas, lid, strength, garment, regions):
 
 # ---------------------------------------------------------------- owner-supplied layers
 
-OWNER = {"source_url": "supplied by the store owner in chat on 2026-11-16 (original source not stated)",
-         "author": "not stated", "licence": "not stated: owner to confirm source and licence before upload",
-         "credit": "unknown", "fetched": "2026-11-16", "provenance": "owner-supplied", "licence_confirmed": False}
+OWNER = {"source_url": "made by the store owner (own work; confirmed in chat 2026-11-16)",
+         "author": "the store owner", "licence": "owner's own work; the owner holds the rights (confirmed 2026-11-16)",
+         "credit": "none needed", "fetched": "2026-11-16", "provenance": "owner-supplied", "licence_confirmed": True}
 # raw file -> (id, style, recommended strength, how it was stored)
 OWNER_LAYERS = {
     "1.png": ("own-shade-1", "soft scribble folds (black overlay)", 1.0, "overlay"),

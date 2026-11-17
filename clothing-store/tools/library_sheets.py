@@ -117,10 +117,8 @@ def main():
                    f"[{m.get('source_url')}]({m.get('source_url')}) | {m.get('fetched')} |")
     owner = {k: v for k, v in all_layers.items() if v.get("provenance") == "owner-supplied"}
     if owner:
-        lic += ["", "### Owner-supplied shading layers (licence NOT confirmed)", "",
-                "Given to us by the store owner without a source or licence. They are in use at the owner's request; "
-                "`validate.py` prints a WARN for every outfit that uses one until the owner fills in `source_url`, "
-                "`author` and `licence` and sets `licence_confirmed: true` in the layer's JSON.", "",
+        lic += ["", "### Owner-supplied shading layers (the owner's own work, confirmed 2026-11-16)", "",
+                "Made by the store owner, who confirmed on 2026-11-16 that they hold the rights. Used on every outfit.", "",
                 "| layer | style | received | source | licence | how it was converted |", "|---|---|---|---|---|---|"]
         for lid, m in owner.items():
             lic.append(f"| `{lid}` | {m.get('style')} | {m.get('fetched')} | {m.get('source_url')} | {m.get('licence')} | {m.get('notes')} |")

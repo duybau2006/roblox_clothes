@@ -1,0 +1,49 @@
+id: print-y2k
+style: y2k
+audience: fem
+family: print
+palette: ["#F4A6C8", "#9DB5D6", "#4A6FA5", "#C9CED6", "#FFFFFF"]
+
+torso:
+  garment: mineral wash pink crop tee
+  palette: ["#F4A6C8"]
+  base_pattern: mineral_wash
+  details: [crew collar]
+  hem: plain
+  hem_line: 88
+
+arms:
+  sleeves: short
+  details: []
+
+legs:
+  garment: light wash jeans
+  type: trousers
+  waist_line: 100
+  waistband: plain
+  palette: ["#9DB5D6", "#4A6FA5", "#C9CED6"]
+  base_pattern: denim
+  details: [belt loops, button]
+  shoes: chunky white sneakers
+  shoe_palette: ["#FFFFFF", "#C9CED6"]
+
+recipes:
+  - {family: print, style: y2k, template: allover_faded, placement: front, tags: [butterfly, star, sparkle, heart], ink: "#FFFFFF", distress: 1, seed: 21}
+
+listings:
+  words: {colour: "Pink", garment: "Butterfly Crop Tee Jeans", style: ["y2k"]}
+  shirt:
+    name: "Pink Butterfly Crop Tee Jeans Y2K Outfit Top"
+    description: "A mineral wash pink crop tee with an all-over faded white butterfly, star and sparkle print. Wear it with Pink Butterfly Crop Tee Jeans Y2K Outfit Pants for the full look."
+  pants:
+    name: "Pink Butterfly Crop Tee Jeans Y2K Outfit Pants"
+    description: "Light wash jeans and chunky white sneakers, with the butterfly crop tee on the torso. Wear them with Pink Butterfly Crop Tee Jeans Y2K Outfit Top for the full look."
+
+moderation_check: "Ordinary crop tee with a 12 px gap above a high waistband; no skin-tone fabric, text or logos."
+
+# upload record (set after the pair went live; validate.py refuses to queue it again)
+uploaded: true
+upload:
+  shirt_asset_id: 127855584666825
+  pants_asset_id: 105458835693065
+  date: 2026-11-16

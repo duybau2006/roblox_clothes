@@ -1,0 +1,22 @@
+id: realistic-crop-lowrise
+style: y2k
+audience: fem
+family: realistic
+palette: ["#1A1A1A", "#9DB4CF", "#C9A15A", "#F2F0EB"]
+recipes:
+  - {family: realistic, style: y2k, template: crop_lowrise, colours: ["#1A1A1A", "#9DB4CF", "#C9A15A", "#F2F0EB"], seed: 9}
+torso: {garment: black cropped baby tee}
+arms: {}
+legs: {garment: light blue low-rise jeans with a belt and white sneakers}
+listings:
+  words: {colour: "Black", garment: "Crop Tee", style: ["y2k", "baddie"]}
+  shirt: {name: "Black Crop Tee Y2K Baddie Outfit Top", description: "A black cropped baby tee that ends above the low-rise jeans. Wear it with Black Crop Tee Y2K Baddie Outfit Pants for the full look."}
+  pants: {name: "Black Crop Tee Y2K Baddie Outfit Pants", description: "Light blue low-rise jeans with a belt and white sneakers, with the black crop tee on the torso. Wear them with Black Crop Tee Y2K Baddie Outfit Top for the full look."}
+moderation_check: "Crop gap 16 px (the maximum), transparent so the avatar shows through; chest and hips covered."
+
+# upload record (set after the pair went live; validate.py refuses to queue it again)
+uploaded: true
+upload:
+  shirt_asset_id: 93317728490067
+  pants_asset_id: 74427107768162
+  date: 2026-11-16

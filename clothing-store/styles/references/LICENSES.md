@@ -50,16 +50,16 @@ Greyscale shadow maps on the 585x559 template, seam-healed by `tools/shading_cus
 | `pd-pezsmistic-shirt-3` | PeZsmistic (Roblox DevForum) | Public-domain dedication by the author: 'I, PeZsmistic have waived all copyright and related or neighboring rights to these clothing shadow templates ... The Work may be freely used for any purpose. You do not need to ask for permission to use it or give me any credit.' | not required (appreciated): PeZsmistic | [https://devforum.roblox.com/t/free-shirt-shadows-and-shading/1607565](https://devforum.roblox.com/t/free-shirt-shadows-and-shading/1607565) | 2026-11-16 |
 | `pd-pezsmistic-soft` | PeZsmistic (Roblox DevForum) | Public-domain dedication by the author: 'I, PeZsmistic have waived all copyright and related or neighboring rights to these clothing shadow templates ... The Work may be freely used for any purpose. You do not need to ask for permission to use it or give me any credit.' | not required (appreciated): PeZsmistic | [https://devforum.roblox.com/t/free-shirt-shadows-and-shading/1607565](https://devforum.roblox.com/t/free-shirt-shadows-and-shading/1607565) | 2026-11-16 |
 
-### Owner-supplied shading layers (licence NOT confirmed)
+### Owner-supplied shading layers (the owner's own work, confirmed 2026-11-16)
 
-Given to us by the store owner without a source or licence. They are in use at the owner's request; `validate.py` prints a WARN for every outfit that uses one until the owner fills in `source_url`, `author` and `licence` and sets `licence_confirmed: true` in the layer's JSON.
+Made by the store owner, who confirmed on 2026-11-16 that they hold the rights. Used on every outfit.
 
 | layer | style | received | source | licence | how it was converted |
 |---|---|---|---|---|---|
-| `own-shade-1` | soft scribble folds (black overlay) | 2026-11-16 | supplied by the store owner in chat on 2026-11-16 (original source not stated) | not stated: owner to confirm source and licence before upload | 585x559 transparent overlay, alpha folded into the map |
-| `own-shade-2` | radial folds with highlights (black + white overlay) | 2026-11-16 | supplied by the store owner in chat on 2026-11-16 (original source not stated) | not stated: owner to confirm source and licence before upload | 585x558 transparent overlay, alpha folded into the map |
-| `own-shade-3` | bold painted folds, shadows only (JPEG flattened on a checkerboard) | 2026-11-16 | supplied by the store owner in chat on 2026-11-16 (original source not stated) | not stated: owner to confirm source and licence before upload | rescaled from 735x752; checkerboard divided out; faces missing in the source filled flat: right_arm.bottom, left_arm.bottom |
-| `own-shade-all` | all three owner templates stacked | 2026-11-16 | supplied by the store owner in chat on 2026-11-16 (original source not stated) | not stated: owner to confirm source and licence before upload | stack of own-shade-1 x1.0, own-shade-2 x1.0, own-shade-3 x0.8, gain 0.7 |
+| `own-shade-1` | soft scribble folds (black overlay) | 2026-11-16 | made by the store owner (own work; confirmed in chat 2026-11-16) | owner's own work; the owner holds the rights (confirmed 2026-11-16) | 585x559 transparent overlay, alpha folded into the map |
+| `own-shade-2` | radial folds with highlights (black + white overlay) | 2026-11-16 | made by the store owner (own work; confirmed in chat 2026-11-16) | owner's own work; the owner holds the rights (confirmed 2026-11-16) | 585x558 transparent overlay, alpha folded into the map |
+| `own-shade-3` | bold painted folds, shadows only (JPEG flattened on a checkerboard) | 2026-11-16 | made by the store owner (own work; confirmed in chat 2026-11-16) | owner's own work; the owner holds the rights (confirmed 2026-11-16) | rescaled from 735x752; checkerboard divided out; faces missing in the source filled flat: right_arm.bottom, left_arm.bottom |
+| `own-shade-all` | all three owner templates stacked | 2026-11-16 | made by the store owner (own work; confirmed in chat 2026-11-16) | owner's own work; the owner holds the rights (confirmed 2026-11-16) | stack of own-shade-1 x1.0, own-shade-2 x1.0, own-shade-3 x0.8, gain 0.7 |
 
 ## Skipped (not imported)
 

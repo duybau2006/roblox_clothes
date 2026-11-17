@@ -1,0 +1,76 @@
+id: guide-cottagecore
+style: cottagecore-vintage
+blend_with: ''
+audience: fem
+family: decorated
+palette:
+- '#9CAF88'
+- '#F3EBDD'
+- '#C99A9E'
+- '#6B4A2B'
+- '#3B2A1E'
+torso:
+  garment: sage knit sweater
+  palette:
+  - '#9CAF88'
+  - '#F3EBDD'
+  base_pattern: knit
+  details:
+  - crew collar
+  hem: rib
+  hem_line: 104
+  decor:
+  - motif: flower
+    layout: scatter
+    colour: '#C99A9E'
+    accent: '#F3EBDD'
+    size: 2.6
+    spacing: 13
+  - motif: lace
+    layout: lace_neck
+    colour: '#F3EBDD'
+arms:
+  details:
+  - ribbed cuffs
+  sleeves: long
+  decor:
+  - motif: flower
+    layout: scatter
+    colour: '#C99A9E'
+    accent: '#F3EBDD'
+    size: 2.6
+    spacing: 13
+legs:
+  garment: cream gingham long skirt
+  type: skirt
+  waist_line: 96
+  waistband: plain
+  palette:
+  - '#F3EBDD'
+  - '#C99A9E'
+  - '#9CAF88'
+  base_pattern: plaid
+  details: []
+  skirt_length: 90
+  legwear: bare
+  shoes: brown boots
+  shoe_palette:
+  - '#6B4A2B'
+  - '#3B2A1E'
+  decor:
+  - motif: lace
+    layout: lace_hem
+    colour: '#F3EBDD'
+listings:
+  words:
+    colour: Sage
+    garment: Sweater Long Skirt
+    style:
+    - cottage core
+  shirt:
+    name: Sage Sweater Long Skirt Cottage Core Outfit Top
+    description: A sage green knit sweater with cream rib trim. Wear it with Sage Sweater Long Skirt Cottage Core Outfit Pants for the full look.
+  pants:
+    name: Sage Sweater Long Skirt Cottage Core Outfit Pants
+    description: A long cream and dusty rose check skirt with brown boots, with the sage sweater on the torso. Wear them with Sage Sweater Long Skirt Cottage Core Outfit Top for the full look.
+moderation_check: Long skirt, only the ankles bare; no plant shapes that read as drug leaves, no text.

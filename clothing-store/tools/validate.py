@@ -663,6 +663,10 @@ def validate_outfit(spec_path, renders):
     rep = Report()
     global CUT_EDGES
     CUT_EDGES = str(((spec.get("torso") or {}).get("cut") or {}).get("style", "sleeved")) != "sleeved"
+    if raw.get("uploaded"):                          # duplicate protection: never queue an outfit twice
+        up = raw.get("upload") or {}
+        rep.res("upload", False, f"already uploaded (shirt {up.get('shirt_asset_id', '?')}, pants {up.get('pants_asset_id', '?')}, "
+                                 f"{up.get('date', '?')}); refusing to queue it again")
     coverage = str(spec.get("coverage", "full"))
     garments = {"top_only": ("shirt",), "bottom_only": ("pants",)}.get(coverage, ("shirt", "pants"))
     files = {g: Path(renders) / f"{oid}-{g}.png" for g in garments}

@@ -1,0 +1,90 @@
+id: guide-y2k
+style: y2k
+blend_with: ''
+audience: fem
+family: decorated
+palette:
+- '#C8A2C8'
+- '#FFFFFF'
+- '#C9CED6'
+- '#9DB5D6'
+- '#4A6FA5'
+torso:
+  garment: cropped zip hoodie
+  palette:
+  - '#C8A2C8'
+  - '#FFFFFF'
+  - '#C9CED6'
+  base_pattern: solid
+  details:
+  - hood
+  - zip
+  - drawstrings
+  hem: rib
+  hem_line: 88
+  decor:
+  - motif: butterfly
+    layout: pocket
+    colour: '#FFFFFF'
+    accent: '#C9CED6'
+    size: 7
+  - motif: butterfly
+    layout: back
+    colour: '#FFFFFF'
+    accent: '#C9CED6'
+    size: 20
+    pair: true
+arms:
+  details:
+  - ribbed cuffs
+  sleeves: long
+  decor:
+  - motif: sparkle
+    layout: scatter
+    colour: '#FFFFFF'
+    size: 3
+legs:
+  garment: light wash jeans
+  type: trousers
+  waist_line: 100
+  waistband: plain
+  palette:
+  - '#9DB5D6'
+  - '#4A6FA5'
+  - '#C9CED6'
+  base_pattern: denim
+  details:
+  - belt loops
+  - button
+  - side pockets
+  shoes: chunky white sneakers
+  shoe_palette:
+  - '#FFFFFF'
+  - '#C9CED6'
+  decor:
+  - motif: star
+    layout: scatter
+    colour: '#C9CED6'
+    size: 3
+    spacing: 14
+listings:
+  words:
+    colour: Lilac
+    garment: Zip Hoodie Jeans
+    style:
+    - y2k
+    - cute
+  shirt:
+    name: Lilac Zip Hoodie Jeans Y2K Cute Outfit Top
+    description: A lilac cropped zip hoodie with a hood and white drawstrings. Wear it with Lilac Zip Hoodie Jeans Y2K Cute Outfit Pants for the full look.
+  pants:
+    name: Lilac Zip Hoodie Jeans Y2K Cute Outfit Pants
+    description: Light wash jeans with a silver button and chunky white sneakers, with the lilac crop hoodie on the torso. Wear them with Lilac Zip Hoodie Jeans Y2K Cute Outfit Top for the full look.
+moderation_check: Ordinary cropped hoodie with a 12 px gap above a high waistband; no skin-tone fabric, text or marks.
+
+# upload record (set after the pair went live; validate.py refuses to queue it again)
+uploaded: true
+upload:
+  shirt_asset_id: 82418174405398
+  pants_asset_id: 116970936335983
+  date: 2026-11-16

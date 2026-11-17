@@ -1,0 +1,83 @@
+id: guide-vamp-goth
+style: vamp-goth-vkei
+blend_with: ''
+audience: fem
+family: decorated
+palette:
+- '#111111'
+- '#5C0A1E'
+- '#8A8A8A'
+- '#2A2A2A'
+torso:
+  garment: black knit sweater
+  palette:
+  - '#111111'
+  - '#5C0A1E'
+  base_pattern: knit
+  details:
+  - crew collar
+  hem: rib
+  hem_line: 104
+  decor:
+  - motif: bat
+    layout: chest
+    colour: '#5C0A1E'
+    size: 16
+    pair: true
+  - motif: web
+    layout: back
+    colour: '#8A8A8A'
+    size: 22
+arms:
+  details:
+  - ribbed cuffs
+  sleeves: long
+  decor:
+  - motif: lace
+    layout: lace_cuff
+    colour: '#8A8A8A'
+legs:
+  garment: black and wine plaid skirt
+  type: skirt
+  waist_line: 96
+  waistband: plain
+  palette:
+  - '#111111'
+  - '#5C0A1E'
+  - '#8A8A8A'
+  base_pattern: plaid
+  details:
+  - pleats
+  skirt_length: 44
+  legwear: tights
+  legwear_palette:
+  - '#111111'
+  shoes: black platform boots
+  shoe_palette:
+  - '#111111'
+  - '#2A2A2A'
+  decor:
+  - motif: lace
+    layout: lace_hem
+    colour: '#8A8A8A'
+listings:
+  words:
+    colour: Black
+    garment: Sweater Plaid Skirt
+    style:
+    - vamp
+    - goth
+  shirt:
+    name: Black Sweater Plaid Skirt Vamp Goth Outfit Top
+    description: A black knit sweater with wine red rib trim. Wear it with Black Sweater Plaid Skirt Vamp Goth Outfit Pants for the full look.
+  pants:
+    name: Black Sweater Plaid Skirt Vamp Goth Outfit Pants
+    description: A black and burgundy pleated plaid skirt with black boots, with the black sweater on the torso. Wear them with Black Sweater Plaid Skirt Vamp Goth Outfit Top for the full look.
+moderation_check: Opaque black tights, no crosses, blood or text.
+
+# upload record (set after the pair went live; validate.py refuses to queue it again)
+uploaded: true
+upload:
+  shirt_asset_id: 71945422780255
+  pants_asset_id: 86711730460687
+  date: 2026-11-16
